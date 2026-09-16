@@ -1,0 +1,831 @@
+Round,Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,Goles_Local,Goles_Visita,Resultado_1X2,Elo_Local_Pre,Elo_Visita_Pre,Diferencia_Elo,Poisson_xG_Local,Poisson_xG_Visita,Proyeccion_Goles_Totales
+Apertura 2024 Regular Season,1.0,Fri,2024-07-05,16:45,Puebla,1-0,Santos Laguna,8331.0,Estadio Cuauhtémoc,Jorge Camacho,Match Report,,1.0,0.0,1,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Fri,2024-07-05,19:00,Querétaro,1-2,Tijuana,9237.0,Estadio La Corregidora,Luis García,Match Report,,1.0,2.0,2,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Fri,2024-07-05,21:10,FC Juárez,2-2,Atlas,7046.0,Estadio Olímpico Benito Juárez,Óscar Macias,Match Report,,2.0,2.0,X,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Sat,2024-07-06,17:00,Atlético San Luis,2-1,América,21480.0,Estadio Alfonso Lastras Ramírez,Iván López,Match Report,,2.0,1.0,1,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Sat,2024-07-06,19:00,Guadalajara,0-0,Toluca,37251.0,Estadio Akron,Jesus Lopez,Match Report,,0.0,0.0,X,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Sat,2024-07-06,19:00,UANL,1-0,Necaxa,40371.0,Estadio Universitario de Nuevo León,Vicente Arce,Match Report,,1.0,0.0,1,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Sat,2024-07-06,21:00,Cruz Azul,1-0,Mazatlán,15206.0,Estadio de la Ciudad de los Deportes,Karen Hernández,Match Report,,1.0,0.0,1,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Sun,2024-07-07,13:00,UNAM,4-1,León,19950.0,Estadio Olímpico de Universitario,Maximiliano Quintero,Match Report,,4.0,1.0,1,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,1.0,Sun,2024-07-07,19:06,Pachuca,0-1,Monterrey,18262.0,Estadio Hidalgo,Ismael Lopez,Match Report,,0.0,1.0,2,1500.0,1500.0,50.0,1.0,1.0,2.0
+Apertura 2024 Regular Season,2.0,Fri,2024-07-12,19:00,América,3-1,Querétaro,9997.0,Estadio de la Ciudad de los Deportes,Katia García,Match Report,,3.0,1.0,1,1491.43,1488.57,52.86000000000013,2.0,2.0,4.0
+Apertura 2024 Regular Season,2.0,Fri,2024-07-12,20:00,Tijuana,4-2,Guadalajara,29333.0,Estadio Caliente,Iván López,Match Report,,4.0,2.0,1,1511.43,1498.57,62.86000000000013,0.0,0.0,0.0
+Apertura 2024 Regular Season,2.0,Fri,2024-07-12,20:00,Mazatlán,2-2,Atlético San Luis,9147.0,Estadio El Encanto,Martín Molina,Match Report,,2.0,2.0,X,1491.43,1508.57,32.86000000000013,0.0,2.0,2.0
+Apertura 2024 Regular Season,2.0,Fri,2024-07-12,21:05,Atlas,1-1,UANL,13614.0,Estadio Jalisco,Jorge Camacho,Match Report,,1.0,1.0,X,1501.43,1508.57,42.86000000000013,0.0,2.0,2.0
+Apertura 2024 Regular Season,2.0,Sat,2024-07-13,17:00,Necaxa,4-1,Puebla,13540.0,Estadio Victoria de Aguascalientes,Abraham Quirarte,Match Report,,4.0,1.0,1,1491.43,1508.57,32.86000000000013,0.0,1.0,1.0
+Apertura 2024 Regular Season,2.0,Sat,2024-07-13,17:00,León,0-0,Pachuca,13279.0,Estadio León,Salvador Pérez Villalobos,Match Report,,0.0,0.0,X,1491.43,1488.57,52.86000000000013,1.0,0.0,1.0
+Apertura 2024 Regular Season,2.0,Sat,2024-07-13,19:10,Toluca,3-2,FC Juárez,23320.0,Estadio Nemesio Díez,Vicente Arce,Match Report,,3.0,2.0,1,1501.43,1498.57,52.86000000000013,0.0,0.0,0.0
+Apertura 2024 Regular Season,2.0,Sat,2024-07-13,19:25,Santos Laguna,1-1,UNAM,11097.0,Estadio Nuevo Corona,Charles Terrazas,Match Report,,1.0,1.0,X,1491.43,1508.57,32.86000000000013,0.0,4.0,4.0
+Apertura 2024 Regular Season,2.0,Sat,2024-07-13,21:10,Monterrey,0-4,Cruz Azul,45957.0,Estadio BBVA Bancomer,Maximiliano Quintero,Match Report,,0.0,4.0,2,1511.43,1508.57,52.86000000000013,0.0,0.0,0.0
+Apertura 2024 Regular Season,3.0,Tue,2024-07-16,19:00,Querétaro,0-2,Guadalajara,28891.0,Estadio La Corregidora,Fernando Hernández,Match Report,,0.0,2.0,2,1480.08,1490.36,39.72000000000003,2.0,2.5,4.5
+Apertura 2024 Regular Season,3.0,Tue,2024-07-16,19:00,Pachuca,2-0,Atlético San Luis,10215.0,Estadio Hidalgo,Víctor Cáceres,Match Report,,2.0,0.0,1,1490.08,1509.51,30.569999999999936,0.0,1.0,1.0
+Apertura 2024 Regular Season,3.0,Tue,2024-07-16,19:00,Atlas,1-0,Santos Laguna,12331.0,Estadio Jalisco,Luis Enrique Santander,Match Report,,1.0,0.0,1,1500.2,1490.49,59.71000000000004,1.5,0.75,2.25
+Apertura 2024 Regular Season,3.0,Tue,2024-07-16,21:00,Puebla,2-2,León,7883.0,Estadio Cuauhtémoc,Marco Antonio Ortíz,Match Report,,2.0,2.0,X,1499.51,1489.92,59.58999999999992,2.0,1.0,3.0
+Apertura 2024 Regular Season,3.0,Tue,2024-07-16,21:05,Cruz Azul,3-0,Tijuana,25414.0,Estadio de la Ciudad de los Deportes,Ismael Lopez,Match Report,,3.0,0.0,1,1520.08,1519.64,50.43999999999983,3.75,0.0,3.75
+Apertura 2024 Regular Season,3.0,Wed,2024-07-17,19:00,Necaxa,0-1,Monterrey,13668.0,Estadio Victoria de Aguascalientes,Jesus Lopez,Match Report,,0.0,1.0,2,1500.49,1499.92,50.569999999999936,4.0,0.5,4.5
+Apertura 2024 Regular Season,3.0,Wed,2024-07-17,19:06,FC Juárez,1-2,UNAM,8818.0,Estadio Olímpico Benito Juárez,Daniel Quintero,Match Report,,1.0,2.0,2,1490.08,1509.51,30.569999999999936,2.0,6.25,8.25
+Apertura 2024 Regular Season,3.0,Wed,2024-07-17,21:00,UANL,1-0,América,41615.0,Estadio Universitario de Nuevo León,Fernando Guerrero,Match Report,,1.0,0.0,1,1509.8,1499.92,59.87999999999988,1.5,1.0,2.5
+Apertura 2024 Regular Season,3.0,Wed,2024-07-17,21:00,Toluca,3-0,Mazatlán,22646.0,Estadio Nemesio Díez,Adonai Escobedo,Match Report,,3.0,0.0,1,1509.92,1490.49,69.43000000000006,2.25,1.0,3.25
+Apertura 2024 Regular Season,4.0,Fri,2024-07-19,19:00,Atlético San Luis,1-1,Tijuana,12762.0,Estadio Alfonso Lastras Ramírez,Charles Terrazas,Match Report,,1.0,1.0,X,1500.39,1511.08,39.31000000000017,2.667,3.333,6.0
+Apertura 2024 Regular Season,4.0,Fri,2024-07-19,21:05,Puebla,1-2,Atlas,10847.0,Estadio Cuauhtémoc,Iván López,Match Report,,1.0,2.0,2,1497.81,1508.5,39.309999999999945,1.333,2.667,4.0
+Apertura 2024 Regular Season,4.0,Sat,2024-07-20,17:05,Guadalajara,2-0,Mazatlán,35602.0,Estadio Akron,Oscar Mejía,Match Report,,2.0,0.0,1,1501.5,1482.46,69.03999999999996,2.667,0.889,3.556
+Apertura 2024 Regular Season,4.0,Sat,2024-07-20,19:00,Monterrey,2-1,Querétaro,39932.0,Estadio BBVA Bancomer,Víctor Cáceres,Match Report,,2.0,1.0,1,1511.37,1468.94,92.42999999999984,1.556,0.889,2.4450000000000003
+Apertura 2024 Regular Season,4.0,Sat,2024-07-20,19:00,Santos Laguna,0-3,UANL,12537.0,Estadio Nuevo Corona,Marco Antonio Ortíz,Match Report,,0.0,3.0,2,1482.19,1518.09,14.100000000000136,0.111,1.0,1.111
+Apertura 2024 Regular Season,4.0,Sat,2024-07-20,21:05,Cruz Azul,1-1,Toluca,25862.0,Estadio de la Ciudad de los Deportes,Jesus Lopez,Match Report,,1.0,1.0,X,1528.64,1517.95,60.690000000000055,1.778,0.0,1.778
+Apertura 2024 Regular Season,4.0,Sat,2024-07-20,21:10,FC Juárez,1-2,América,14917.0,Estadio Olímpico Benito Juárez,Maximiliano Quintero,Match Report,,1.0,2.0,2,1479.2,1491.63,37.569999999999936,2.222,3.111,5.333
+Apertura 2024 Regular Season,4.0,Sun,2024-07-21,17:00,UNAM,2-0,Pachuca,20854.0,Estadio Olímpico de Universitario,Vicente Arce,Match Report,,2.0,0.0,1,1520.39,1499.2,71.19000000000005,0.778,0.667,1.445
+Apertura 2024 Regular Season,4.0,Sun,2024-07-21,19:05,León,1-1,Necaxa,19930.0,Estadio León,Luis García,Match Report,,1.0,1.0,X,1491.62,1489.04,52.57999999999993,1.0,2.667,3.667
+Apertura 2024 Regular Season,16.0,Fri,2024-08-16,19:00,Puebla,1-2,Monterrey,9000.0,Estadio Cuauhtémoc,Salvador Pérez Villalobos,Match Report,,1.0,2.0,2,1486.68,1518.77,17.910000000000082,1.562,2.0,3.5620000000000003
+Apertura 2024 Regular Season,8.0,Sun,2024-08-18,17:05,Tijuana,3-1,Santos Laguna,18633.0,Estadio Caliente,Maximiliano Quintero,Match Report,,3.0,1.0,1,1512.21,1471.78,90.43000000000006,2.625,0.438,3.063
+Apertura 2024 Regular Season,13.0,Sun,2024-08-18,20:00,Atlético San Luis,4-0,Querétaro,11214.0,Estadio Alfonso Lastras Ramírez,Jesus Lopez,Match Report,,4.0,0.0,1,1499.26,1461.54,87.72000000000003,2.812,1.125,3.937
+Apertura 2024 Regular Season,5.0,Fri,2024-08-23,19:00,Querétaro,0-2,Cruz Azul,27884.0,Estadio La Corregidora,Guillermo Pacheco,Match Report,,0.0,2.0,2,1454.01,1526.91,-22.90000000000009,0.15,5.85,6.0
+Apertura 2024 Regular Season,5.0,Fri,2024-08-23,19:00,Mazatlán,3-0,Pachuca,9095.0,Estadio El Encanto,Marco Antonio Ortíz,Match Report,,3.0,0.0,1,1474.42,1491.22,33.200000000000045,0.375,1.0,1.375
+Apertura 2024 Regular Season,5.0,Fri,2024-08-23,20:05,Tijuana,2-2,Monterrey,23333.0,Estadio Caliente,César Arturo Ramos,Match Report,,2.0,2.0,X,1519.66,1529.29,40.37000000000012,2.4,1.92,4.32
+Apertura 2024 Regular Season,5.0,Sat,2024-08-24,17:00,Necaxa,3-0,FC Juárez,12967.0,Estadio Victoria de Aguascalientes,Martín Molina,Match Report,,3.0,0.0,1,1490.54,1468.12,72.42000000000007,2.812,1.5,4.311999999999999
+Apertura 2024 Regular Season,5.0,Sat,2024-08-24,19:00,León,1-1,Santos Laguna,18129.0,Estadio León,Adonai Escobedo,Match Report,,1.0,1.0,X,1490.12,1464.33,75.78999999999996,1.8,0.7,2.5
+Apertura 2024 Regular Season,5.0,Sat,2024-08-24,19:00,UANL,1-1,Guadalajara,41615.0,Estadio Universitario de Nuevo León,Daniel Quintero,Match Report,,1.0,1.0,X,1528.5,1509.54,68.96000000000004,1.5,0.375,1.875
+Apertura 2024 Regular Season,5.0,Sat,2024-08-24,19:00,Atlas,2-1,UNAM,17319.0,Estadio Jalisco,Fernando Hernández,Match Report,,2.0,1.0,1,1519.63,1528.37,41.26000000000022,1.125,2.25,3.375
+Apertura 2024 Regular Season,5.0,Sat,2024-08-24,21:05,América,0-1,Puebla,11978.0,Estadio de la Ciudad de los Deportes,Luis Enrique Santander,Match Report,,0.0,1.0,2,1502.71,1476.16,76.54999999999995,3.0,1.5,4.5
+Apertura 2024 Regular Season,5.0,Sun,2024-08-25,13:00,Toluca,2-1,Atlético San Luis,24545.0,Estadio Nemesio Díez,Katia García,Match Report,,2.0,1.0,1,1519.68,1506.79,62.8900000000001,2.1,1.35,3.45
+Apertura 2024 Regular Season,6.0,Fri,2024-08-30,19:00,Mazatlán,1-1,Puebla,8357.0,Estadio El Encanto,Ismael Lopez,Match Report,,1.0,1.0,X,1483.47,1488.33,45.1400000000001,1.667,1.867,3.534
+Apertura 2024 Regular Season,6.0,Fri,2024-08-30,19:00,Atlético San Luis,2-1,Atlas,132023.0,Estadio Alfonso Lastras Ramírez,Jorge Camacho,Match Report,,2.0,1.0,1,1498.58,1528.45,20.12999999999988,1.667,2.133,3.8
+Apertura 2024 Regular Season,6.0,Fri,2024-08-30,20:05,Tijuana,2-1,León,22333.0,Estadio Caliente,Víctor Cáceres,Match Report,,2.0,1.0,1,1518.5,1487.97,80.52999999999997,3.2,1.667,4.867
+Apertura 2024 Regular Season,6.0,Sat,2024-08-31,17:00,Pachuca,1-1,Querétaro,10841.0,Estadio Hidalgo,Iván López,Match Report,,1.0,1.0,X,1482.17,1444.67,87.5,1.0,0.6,1.6
+Apertura 2024 Regular Season,6.0,Sat,2024-08-31,17:05,Guadalajara,5-0,FC Juárez,34829.0,Estadio Akron,Adonai Escobedo,Match Report,,5.0,0.0,1,1511.5,1460.17,101.32999999999991,3.36,1.2,4.56
+Apertura 2024 Regular Season,6.0,Sat,2024-08-31,19:00,Monterrey,1-2,Toluca,43150.0,Estadio BBVA Bancomer,Fernando Guerrero,Match Report,,1.0,2.0,2,1530.45,1527.89,52.559999999999945,1.067,2.4,3.4669999999999996
+Apertura 2024 Regular Season,6.0,Sat,2024-08-31,21:10,Cruz Azul,4-1,América,25282.0,Estadio de la Ciudad de los Deportes,César Arturo Ramos,Match Report,,4.0,1.0,1,1536.25,1490.54,95.71000000000004,2.64,0.24,2.88
+Apertura 2024 Regular Season,6.0,Sun,2024-09-01,17:00,UNAM,1-3,UANL,23752.0,Estadio Olímpico de Universitario,Oscar Mejía,Match Report,,1.0,3.0,2,1519.55,1526.54,43.00999999999999,0.8,1.4,2.2
+Apertura 2024 Regular Season,6.0,Sun,2024-09-01,19:05,Santos Laguna,3-2,Necaxa,8361.0,Estadio Nuevo Corona,Guillermo Pacheco,Match Report,,3.0,2.0,1,1466.48,1498.49,17.99000000000001,0.4,2.667,3.0669999999999997
+Apertura 2024 Regular Season,7.0,Fri,2024-09-13,18:00,Puebla,2-1,Querétaro,8266.0,Estadio Cuauhtémoc,Vicente Arce,Match Report,,2.0,1.0,1,1489.62,1447.14,92.4799999999998,2.612,0.898,3.5100000000000002
+Apertura 2024 Regular Season,7.0,Fri,2024-09-13,19:00,Atlas,2-0,Pachuca,12654.0,Estadio Jalisco,Luis Enrique Santander,Match Report,,2.0,0.0,1,1519.03,1479.7,89.32999999999993,1.75,0.583,2.333
+Apertura 2024 Regular Season,7.0,Fri,2024-09-13,20:10,FC Juárez,1-0,Mazatlán,9486.0,Estadio Olímpico Benito Juárez,Fernando Hernández,Match Report,,1.0,0.0,1,1453.01,1482.18,20.829999999999927,1.5,2.833,4.333
+Apertura 2024 Regular Season,7.0,Fri,2024-09-13,20:10,UANL,1-0,Atlético San Luis,40263.0,Estadio Universitario de Nuevo León,Martín Molina,Match Report,,1.0,0.0,1,1537.77,1508.0,79.76999999999998,2.143,0.857,3.0
+Apertura 2024 Regular Season,7.0,Fri,2024-09-13,21:00,Necaxa,2-0,UNAM,14725.0,Estadio Victoria de Aguascalientes,Katia García,Match Report,,2.0,0.0,1,1489.01,1508.32,30.69000000000005,2.222,2.139,4.361
+Apertura 2024 Regular Season,7.0,Sat,2024-09-14,16:45,Toluca,4-0,Tijuana,24507.0,Estadio Nemesio Díez,Ismael Lopez,Match Report,,4.0,0.0,1,1539.39,1526.22,63.17000000000007,2.881,1.667,4.548
+Apertura 2024 Regular Season,7.0,Sat,2024-09-14,18:50,América,1-0,Guadalajara,26040.0,Estadio de la Ciudad de los Deportes,Víctor Cáceres,Match Report,,1.0,0.0,1,1483.23,1518.66,14.569999999999936,0.972,3.333,4.305
+Apertura 2024 Regular Season,7.0,Sat,2024-09-14,20:35,León,1-2,Cruz Azul,21585.0,Estadio León,Maximiliano Quintero,Match Report,,1.0,2.0,2,1480.25,1543.56,-13.309999999999944,0.333,4.167,4.5
+Apertura 2024 Regular Season,7.0,Sat,2024-09-14,21:00,Santos Laguna,0-2,Monterrey,11241.0,Estadio Nuevo Corona,Erick Miranda,Match Report,,0.0,2.0,2,1475.96,1518.95,7.009999999999991,1.224,2.204,3.428
+Apertura 2024 Regular Season,8.0,Tue,2024-09-17,19:00,Atlético San Luis,3-1,Cruz Azul,18971.0,Estadio Alfonso Lastras Ramírez,Oscar Mejía,Match Report,,3.0,1.0,1,1500.26,1553.18,-2.9200000000000728,0.643,3.036,3.6790000000000003
+Apertura 2024 Regular Season,8.0,Tue,2024-09-17,19:00,Pachuca,2-2,Toluca,9635.0,Estadio Hidalgo,Jesus Lopez,Match Report,,2.0,2.0,X,1472.22,1547.59,-25.36999999999989,0.306,2.755,3.061
+Apertura 2024 Regular Season,8.0,Tue,2024-09-17,19:00,América,3-0,Atlas,10236.0,Estadio de la Ciudad de los Deportes,Adonai Escobedo,Match Report,,3.0,0.0,1,1492.81,1526.51,16.299999999999955,1.143,2.245,3.388
+Apertura 2024 Regular Season,8.0,Tue,2024-09-17,21:00,Querétaro,1-0,UANL,11571.0,Estadio La Corregidora,Fernando Guerrero,Match Report,,1.0,0.0,1,1439.74,1545.51,-55.76999999999998,0.268,3.536,3.8040000000000003
+Apertura 2024 Regular Season,8.0,Tue,2024-09-17,21:05,UNAM,1-0,Puebla,7606.0,Estadio Olímpico de Universitario,Iván López,Match Report,,1.0,0.0,1,1499.2,1497.02,52.180000000000064,2.357,1.786,4.143000000000001
+Apertura 2024 Regular Season,8.0,Wed,2024-09-18,19:00,Mazatlán,0-0,Necaxa,7247.0,Estadio El Encanto,Daniel Quintero,Match Report,,0.0,0.0,X,1472.78,1498.13,24.649999999999864,0.857,2.449,3.306
+Apertura 2024 Regular Season,8.0,Wed,2024-09-18,19:05,Guadalajara,2-0,León,31075.0,Estadio Akron,Guillermo Pacheco,Match Report,,2.0,0.0,1,1509.08,1470.63,88.44999999999982,2.939,0.857,3.7960000000000003
+Apertura 2024 Regular Season,8.0,Wed,2024-09-18,21:00,Monterrey,3-2,FC Juárez,36441.0,Estadio BBVA Bancomer,Salvador Pérez Villalobos,Match Report,,3.0,2.0,1,1529.15,1462.41,116.74,3.339,1.25,4.589
+Apertura 2024 Regular Season,9.0,Fri,2024-09-20,19:00,Puebla,2-3,Pachuca,7676.0,Estadio Cuauhtémoc,Maximiliano Quintero,Match Report,,2.0,3.0,2,1488.51,1472.95,65.55999999999995,1.528,0.903,2.431
+Apertura 2024 Regular Season,9.0,Fri,2024-09-20,19:00,Atlas,0-1,Querétaro,10038.0,Estadio Jalisco,Jesus Lopez,Match Report,,0.0,1.0,2,1516.98,1451.33,115.65000000000008,2.75,0.833,3.583
+Apertura 2024 Regular Season,9.0,Sat,2024-09-21,17:00,León,1-0,Atlético San Luis,13297.0,Estadio León,Luis García,Match Report,,1.0,0.0,1,1463.12,1510.34,2.7799999999999727,1.069,2.917,3.9859999999999998
+Apertura 2024 Regular Season,9.0,Sat,2024-09-21,19:00,Monterrey,0-0,Mazatlán,43721.0,Estadio BBVA Bancomer,Ismael Lopez,Match Report,,0.0,0.0,X,1535.91,1472.07,113.84000000000016,1.944,1.0,2.944
+Apertura 2024 Regular Season,9.0,Sat,2024-09-21,19:00,Necaxa,1-1,América,20147.0,Estadio Victoria de Aguascalientes,Oscar Mejía,Match Report,,1.0,1.0,X,1498.84,1502.34,46.5,1.875,1.203,3.0780000000000003
+Apertura 2024 Regular Season,9.0,Sat,2024-09-21,21:05,Cruz Azul,1-0,Guadalajara,25851.0,Estadio de la Ciudad de los Deportes,Daniel Quintero,Match Report,,1.0,0.0,1,1543.1,1516.59,76.50999999999999,1.688,1.312,3.0
+Apertura 2024 Regular Season,9.0,Sun,2024-09-22,17:00,UNAM,1-0,Tijuana,12277.0,Estadio Olímpico de Universitario,Luis Enrique Santander,Match Report,,1.0,0.0,1,1507.71,1518.02,39.690000000000055,2.812,2.188,5.0
+Apertura 2024 Regular Season,9.0,Sun,2024-09-22,19:05,Santos Laguna,2-0,Toluca,9074.0,Estadio Nuevo Corona,Iván López,Match Report,,2.0,0.0,1,1465.76,1546.86,-31.09999999999991,0.656,3.719,4.375
+Apertura 2024 Regular Season,9.0,Sun,2024-09-22,19:10,FC Juárez,0-1,UANL,10689.0,Estadio Olímpico Benito Juárez,Víctor Cáceres,Match Report,,0.0,1.0,2,1455.65,1533.92,-28.269999999999985,0.562,3.438,4.0
+Apertura 2024 Regular Season,10.0,Fri,2024-09-27,18:00,Puebla,2-3,FC Juárez,5147.0,Estadio Cuauhtémoc,Oscar Mejía,Match Report,,2.0,3.0,2,1476.65,1446.46,80.19000000000005,2.8,1.6,4.4
+Apertura 2024 Regular Season,10.0,Fri,2024-09-27,19:00,Querétaro,0-0,Necaxa,7844.0,Estadio La Corregidora,Jorge Camacho,Match Report,,0.0,0.0,X,1464.54,1497.51,17.029999999999973,0.622,2.6,3.222
+Apertura 2024 Regular Season,10.0,Fri,2024-09-27,20:00,UANL,2-2,León,39834.0,Estadio Universitario de Nuevo León,Daniel Quintero,Match Report,,2.0,2.0,X,1543.11,1473.04,120.06999999999994,2.074,0.395,2.469
+Apertura 2024 Regular Season,10.0,Fri,2024-09-27,20:05,Tijuana,1-0,Mazatlán,18333.0,Estadio Caliente,Víctor Cáceres,Match Report,,1.0,0.0,1,1509.16,1475.23,83.93000000000006,1.728,1.185,2.9130000000000003
+Apertura 2024 Regular Season,10.0,Sat,2024-09-28,17:00,Toluca,4-1,Atlas,24963.0,Estadio Nemesio Díez,Charles Terrazas,Match Report,,4.0,1.0,1,1535.97,1503.77,82.20000000000005,2.309,1.222,3.531
+Apertura 2024 Regular Season,10.0,Sat,2024-09-28,19:05,Pachuca,2-4,Cruz Azul,14462.0,Estadio Hidalgo,Adonai Escobedo,Match Report,,2.0,4.0,2,1484.81,1550.93,-16.12000000000012,0.593,3.049,3.642
+Apertura 2024 Regular Season,10.0,Sat,2024-09-28,21:05,Guadalajara,1-1,Monterrey,36043.0,Estadio Akron,Jesus Lopez,Match Report,,1.0,1.0,X,1508.76,1532.75,26.00999999999999,1.867,1.089,2.956
+Apertura 2024 Regular Season,10.0,Sat,2024-09-28,21:10,Atlético San Luis,3-1,Santos Laguna,13800.0,Estadio Alfonso Lastras Ramírez,Maximiliano Quintero,Match Report,,3.0,1.0,1,1500.42,1476.65,73.76999999999998,2.333,1.067,3.4000000000000004
+Apertura 2024 Regular Season,10.0,Sun,2024-09-29,18:00,América,0-1,UNAM,23401.0,Estadio de la Ciudad de los Deportes,Fernando Hernández,Match Report,,0.0,1.0,2,1503.67,1516.57,37.100000000000136,1.481,1.765,3.246
+Apertura 2024 Regular Season,11.0,Fri,2024-10-04,19:00,Mazatlán,2-2,Querétaro,7773.0,Estadio El Encanto,Oscar Mejía,Match Report,,2.0,2.0,X,1467.6,1464.05,53.54999999999996,0.982,0.7,1.682
+Apertura 2024 Regular Season,11.0,Fri,2024-10-04,20:00,Tijuana,2-1,Pachuca,19333.0,Estadio Caliente,Iván López,Match Report,,2.0,1.0,1,1516.79,1475.27,91.51999999999998,2.55,1.6,4.15
+Apertura 2024 Regular Season,11.0,Sat,2024-10-05,17:00,Cruz Azul,3-0,Necaxa,25589.0,Estadio de la Ciudad de los Deportes,Guillermo Pacheco,Match Report,,3.0,0.0,1,1560.47,1498.0,112.47000000000004,1.84,1.04,2.88
+Apertura 2024 Regular Season,11.0,Sat,2024-10-05,17:00,UANL,1-0,Puebla,26270.0,Estadio Universitario de Nuevo León,Vicente Arce,Match Report,,1.0,0.0,1,1539.79,1464.38,125.40999999999984,2.418,0.764,3.1820000000000004
+Apertura 2024 Regular Season,11.0,Sat,2024-10-05,17:00,Atlético San Luis,1-0,Monterrey,16861.0,Estadio Alfonso Lastras Ramírez,Víctor Cáceres,Match Report,,1.0,0.0,1,1508.33,1533.5,24.829999999999927,1.934,1.612,3.5460000000000003
+Apertura 2024 Regular Season,11.0,Sat,2024-10-05,19:00,Toluca,1-1,UNAM,27273.0,Estadio Nemesio Díez,Adonai Escobedo,Match Report,,1.0,1.0,X,1543.65,1527.63,66.01999999999998,2.1,1.4,3.5
+Apertura 2024 Regular Season,11.0,Sat,2024-10-05,19:05,Guadalajara,2-3,Atlas,40846.0,Estadio Akron,Fernando Hernández,Match Report,,2.0,3.0,2,1508.01,1496.09,61.92000000000007,2.25,0.96,3.21
+Apertura 2024 Regular Season,11.0,Sat,2024-10-05,21:00,León,1-1,América,17945.0,Estadio León,César Arturo Ramos,Match Report,,1.0,1.0,X,1476.36,1492.61,33.75,1.2,1.92,3.12
+Apertura 2024 Regular Season,11.0,Sun,2024-10-06,20:05,Santos Laguna,0-2,FC Juárez,7341.0,Estadio Nuevo Corona,Ismael Lopez,Match Report,,0.0,2.0,2,1468.74,1458.73,60.00999999999999,2.07,2.04,4.109999999999999
+Apertura 2024 Regular Season,12.0,Fri,2024-10-18,19:00,Querétaro,0-1,Toluca,13046.0,Estadio La Corregidora,Maximiliano Quintero,Match Report,,0.0,1.0,2,1465.58,1541.77,-26.19000000000005,0.75,3.333,4.083
+Apertura 2024 Regular Season,12.0,Fri,2024-10-18,19:00,Atlas,0-0,Mazatlán,10690.0,Estadio Jalisco,Daniel Quintero,Match Report,,0.0,0.0,X,1507.85,1466.07,91.77999999999996,1.612,1.124,2.736
+Apertura 2024 Regular Season,12.0,Fri,2024-10-18,21:00,Necaxa,1-2,Tijuana,13960.0,Estadio Victoria de Aguascalientes,Adonai Escobedo,Match Report,,1.0,2.0,2,1491.13,1524.22,16.910000000000082,1.826,1.545,3.371
+Apertura 2024 Regular Season,12.0,Fri,2024-10-18,21:05,Puebla,1-2,Cruz Azul,34978.0,Estadio Cuauhtémoc,Charles Terrazas,Match Report,,1.0,2.0,2,1457.84,1567.34,-59.5,0.848,3.939,4.787
+Apertura 2024 Regular Season,12.0,Sat,2024-10-19,17:00,Pachuca,0-2,Guadalajara,10868.0,Estadio Hidalgo,César Arturo Ramos,Match Report,,0.0,2.0,2,1467.84,1496.25,21.58999999999992,1.0,2.669,3.669
+Apertura 2024 Regular Season,12.0,Sat,2024-10-19,19:05,América,3-0,Santos Laguna,24110.0,Estadio de la Ciudad de los Deportes,Jesus Lopez,Match Report,,3.0,0.0,1,1493.58,1457.03,86.54999999999995,2.041,0.967,3.008
+Apertura 2024 Regular Season,12.0,Sat,2024-10-19,19:06,FC Juárez,2-3,León,8235.0,Estadio Olímpico Benito Juárez,Víctor Cáceres,Match Report,,2.0,3.0,2,1470.44,1475.39,45.04999999999996,1.967,2.091,4.058
+Apertura 2024 Regular Season,12.0,Sat,2024-10-19,21:10,Monterrey,4-2,UANL,51348.0,Estadio BBVA Bancomer,Oscar Mejía,Match Report,,4.0,2.0,1,1524.21,1546.33,27.88000000000011,0.682,1.591,2.273
+Apertura 2024 Regular Season,12.0,Sun,2024-10-20,13:00,UNAM,3-0,Atlético San Luis,17850.0,Estadio Olímpico de Universitario,Guillermo Pacheco,Match Report,,3.0,0.0,1,1529.51,1517.62,61.8900000000001,1.477,1.583,3.06
+Apertura 2024 Regular Season,13.0,Tue,2024-10-22,19:00,Santos Laguna,1-1,Pachuca,6531.0,Estadio Nuevo Corona,Daniel Quintero,Match Report,,1.0,1.0,X,1449.47,1457.22,42.25,1.312,1.681,2.9930000000000003
+Apertura 2024 Regular Season,13.0,Tue,2024-10-22,19:05,Guadalajara,3-2,Necaxa,31120.0,Estadio Akron,Víctor Cáceres,Match Report,,3.0,2.0,1,1506.87,1480.64,76.22999999999979,1.715,1.069,2.784
+Apertura 2024 Regular Season,13.0,Tue,2024-10-22,20:06,Mazatlán,2-0,UANL,9642.0,Estadio El Encanto,César Arturo Ramos,Match Report,,2.0,0.0,1,1468.65,1537.13,-18.480000000000015,0.556,1.535,2.091
+Apertura 2024 Regular Season,13.0,Tue,2024-10-22,21:05,Toluca,5-0,Puebla,24521.0,Estadio Nemesio Díez,Jorge Camacho,Match Report,,5.0,0.0,1,1551.02,1449.54,151.48000000000002,3.244,1.058,4.3020000000000005
+Apertura 2024 Regular Season,13.0,Wed,2024-10-23,19:00,Cruz Azul,4-0,FC Juárez,26278.0,Estadio de la Ciudad de los Deportes,Vicente Arce,Match Report,,4.0,0.0,1,1575.64,1459.15,166.49,5.056,1.0,6.056
+Apertura 2024 Regular Season,13.0,Wed,2024-10-23,19:00,Monterrey,0-0,UNAM,40959.0,Estadio BBVA Bancomer,Adonai Escobedo,Match Report,,0.0,0.0,X,1533.41,1537.75,45.66000000000008,1.34,1.846,3.186
+Apertura 2024 Regular Season,13.0,Wed,2024-10-23,20:05,Tijuana,2-2,América,27333.0,Estadio Caliente,Fernando Hernández,Match Report,,2.0,2.0,X,1534.71,1501.14,83.56999999999994,1.715,2.0,3.715
+Apertura 2024 Regular Season,13.0,Wed,2024-10-23,21:00,León,0-0,Atlas,16608.0,Estadio León,Oscar Mejía,Match Report,,0.0,0.0,X,1486.68,1505.27,31.41000000000008,1.653,1.979,3.632
+Apertura 2024 Regular Season,14.0,Fri,2024-10-25,19:00,Santos Laguna,0-0,Mazatlán,6096.0,Estadio Nuevo Corona,Jorge Camacho,Match Report,,0.0,0.0,X,1448.26,1479.18,19.079999999999927,0.769,1.361,2.13
+Apertura 2024 Regular Season,14.0,Fri,2024-10-25,21:00,Puebla,1-0,Guadalajara,32325.0,Estadio Cuauhtémoc,Ismael Lopez,Match Report,,1.0,0.0,1,1443.64,1514.71,-21.069999999999936,1.071,3.264,4.335
+Apertura 2024 Regular Season,14.0,Sat,2024-10-26,17:00,León,4-0,Querétaro,18763.0,Estadio León,Adonai Escobedo,Match Report,,4.0,0.0,1,1485.78,1456.33,79.45000000000005,1.74,1.012,2.752
+Apertura 2024 Regular Season,14.0,Sat,2024-10-26,19:00,UNAM,0-2,Cruz Azul,37576.0,Estadio Olímpico de Universitario,César Arturo Ramos,Match Report,,0.0,2.0,2,1539.06,1581.18,7.879999999999882,0.959,2.083,3.0420000000000003
+Apertura 2024 Regular Season,14.0,Sat,2024-10-26,21:00,UANL,2-1,Pachuca,35176.0,Estadio Universitario de Nuevo León,Víctor Cáceres,Match Report,,2.0,1.0,1,1526.6,1458.43,118.16999999999985,2.213,0.852,3.065
+Apertura 2024 Regular Season,14.0,Sat,2024-10-26,21:05,Atlas,0-0,Tijuana,10759.0,Estadio Jalisco,Katia García,Match Report,,0.0,0.0,X,1506.17,1532.35,23.820000000000164,1.775,2.112,3.887
+Apertura 2024 Regular Season,14.0,Sun,2024-10-27,18:00,Necaxa,1-3,Toluca,16443.0,Estadio Victoria de Aguascalientes,Fernando Guerrero,Match Report,,1.0,3.0,2,1472.8,1556.92,-34.12000000000012,1.041,2.651,3.6919999999999997
+Apertura 2024 Regular Season,14.0,Sun,2024-10-27,18:06,FC Juárez,2-4,Atlético San Luis,6548.0,Estadio Olímpico Benito Juárez,Marco Antonio Ortíz,Match Report,,2.0,4.0,2,1453.61,1509.38,-5.770000000000209,1.515,3.373,4.888
+Apertura 2024 Regular Season,14.0,Sun,2024-10-27,20:05,América,2-1,Monterrey,23810.0,Estadio de la Ciudad de los Deportes,Daniel Quintero,Match Report,,2.0,1.0,1,1503.5,1532.1,21.40000000000009,1.582,1.566,3.148
+Apertura 2024 Regular Season,15.0,Fri,2024-11-01,19:00,Querétaro,1-2,FC Juárez,6391.0,Estadio La Corregidora,César Arturo Ramos,Match Report,,1.0,2.0,2,1448.58,1443.78,54.79999999999996,1.561,2.296,3.8569999999999998
+Apertura 2024 Regular Season,15.0,Fri,2024-11-01,20:00,Mazatlán,0-5,América,6391.0,Estadio El Encanto,Adonai Escobedo,Match Report,,0.0,5.0,2,1479.73,1512.88,16.84999999999991,0.816,1.327,2.143
+Apertura 2024 Regular Season,15.0,Fri,2024-11-01,20:05,Tijuana,0-3,UANL,16325.0,Estadio Caliente,Fernando Guerrero,Match Report,,0.0,3.0,2,1533.03,1533.32,49.71000000000004,1.393,1.939,3.332
+Apertura 2024 Regular Season,15.0,Sat,2024-11-02,17:00,Toluca,2-2,León,27273.0,Estadio Nemesio Díez,Guillermo Pacheco,Match Report,,2.0,2.0,X,1565.94,1493.53,122.41000000000008,3.005,1.102,4.107
+Apertura 2024 Regular Season,15.0,Sat,2024-11-02,17:00,Atlético San Luis,2-0,Puebla,15768.0,Estadio Alfonso Lastras Ramírez,Oscar Mejía,Match Report,,2.0,0.0,1,1519.21,1454.25,114.96000000000004,2.957,1.371,4.327999999999999
+Apertura 2024 Regular Season,15.0,Sat,2024-11-02,19:05,Guadalajara,0-0,UNAM,37819.0,Estadio Akron,Marco Antonio Ortíz,Match Report,,0.0,0.0,X,1504.1,1528.83,25.269999999999985,1.459,1.286,2.745
+Apertura 2024 Regular Season,15.0,Sat,2024-11-02,19:05,Monterrey,4-0,Atlas,40301.0,Estadio BBVA Bancomer,Fernando Hernández,Match Report,,4.0,0.0,1,1522.72,1505.49,67.23000000000002,1.619,1.286,2.9050000000000002
+Apertura 2024 Regular Season,15.0,Sat,2024-11-02,21:06,Pachuca,6-2,Necaxa,5541.0,Estadio Hidalgo,Ismael Lopez,Match Report,,6.0,2.0,1,1451.71,1463.78,37.930000000000064,1.26,2.082,3.3419999999999996
+Apertura 2024 Regular Season,15.0,Sat,2024-11-02,21:10,Cruz Azul,2-0,Santos Laguna,24271.0,Estadio de la Ciudad de los Deportes,Karen Hernández,Match Report,,2.0,0.0,1,1591.41,1447.71,193.70000000000005,3.99,0.459,4.449
+Apertura 2024 Regular Season,16.0,Tue,2024-11-05,19:00,León,0-0,Mazatlán,18928.0,Estadio León,Fernando Hernández,Match Report,,0.0,0.0,X,1496.91,1469.25,77.66000000000008,1.6,0.933,2.5330000000000004
+Apertura 2024 Regular Season,16.0,Tue,2024-11-05,19:00,Santos Laguna,0-2,Guadalajara,12507.0,Estadio Nuevo Corona,Iván López,Match Report,,0.0,2.0,2,1442.77,1503.37,-10.599999999999907,0.622,2.444,3.066
+Apertura 2024 Regular Season,16.0,Tue,2024-11-05,21:05,UNAM,2-0,Querétaro,12363.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,2.0,0.0,1,1529.56,1437.02,142.53999999999996,2.16,0.578,2.738
+Apertura 2024 Regular Season,16.0,Wed,2024-11-06,19:00,UANL,2-1,Toluca,40830.0,Estadio Universitario de Nuevo León,Marco Antonio Ortíz,Match Report,,2.0,1.0,1,1544.74,1562.56,32.180000000000064,1.369,1.907,3.276
+Apertura 2024 Regular Season,16.0,Wed,2024-11-06,19:00,Necaxa,1-1,Atlético San Luis,17969.0,Estadio Victoria de Aguascalientes,Jesus Lopez,Match Report,,1.0,1.0,X,1454.87,1526.02,-21.15000000000009,1.52,2.778,4.298
+Apertura 2024 Regular Season,16.0,Wed,2024-11-06,19:00,América,2-1,Pachuca,40814.0,Estadio Cuauhtémoc,Fernando Guerrero,Match Report,,2.0,1.0,1,1523.36,1460.62,112.74,2.889,1.351,4.24
+Apertura 2024 Regular Season,16.0,Wed,2024-11-06,20:06,FC Juárez,1-1,Tijuana,6098.0,Estadio Olímpico Benito Juárez,Oscar Mejía,Match Report,,1.0,1.0,X,1455.34,1521.61,-16.269999999999982,2.044,3.267,5.311
+Apertura 2024 Regular Season,16.0,Wed,2024-11-06,21:05,Atlas,2-2,Cruz Azul,242024.0,Estadio Jalisco,Víctor Cáceres,Match Report,,2.0,2.0,X,1497.4,1596.35,-48.94999999999982,0.6,3.36,3.96
+Apertura 2024 Regular Season,17.0,Fri,2024-11-08,19:00,Querétaro,3-2,Santos Laguna,7046.0,Estadio La Corregidora,Óscar Macias,Match Report,,3.0,2.0,1,1430.91,1433.07,47.84000000000015,1.055,1.133,2.1879999999999997
+Apertura 2024 Regular Season,17.0,Fri,2024-11-08,20:00,Mazatlán,0-1,UNAM,8592.0,Estadio El Encanto,Erick Miranda,Match Report,,0.0,1.0,2,1471.45,1535.67,-14.220000000000027,0.508,1.406,1.914
+Apertura 2024 Regular Season,17.0,Sat,2024-11-09,17:05,Guadalajara,0-1,Atlético San Luis,35066.0,Estadio Akron,Daniel Quintero,Match Report,,0.0,1.0,2,1513.07,1525.41,37.659999999999854,1.781,1.422,3.203
+Apertura 2024 Regular Season,17.0,Sat,2024-11-09,19:00,Pachuca,0-1,FC Juárez,5879.0,Estadio Hidalgo,Jorge Camacho,Match Report,,0.0,1.0,2,1453.76,1455.81,47.950000000000045,2.812,2.297,5.109
+Apertura 2024 Regular Season,17.0,Sat,2024-11-09,19:00,Toluca,4-0,América,27273.0,Estadio Nemesio Díez,Víctor Cáceres,Match Report,,4.0,0.0,1,1553.48,1530.22,73.25999999999999,2.258,1.688,3.9459999999999997
+Apertura 2024 Regular Season,17.0,Sat,2024-11-09,21:05,Cruz Azul,1-1,UANL,26536.0,Estadio de la Ciudad de los Deportes,Adonai Escobedo,Match Report,,1.0,1.0,X,1594.95,1553.82,91.13000000000012,2.078,1.031,3.109
+Apertura 2024 Regular Season,17.0,Sun,2024-11-10,17:00,Necaxa,0-0,Atlas,19121.0,Estadio Victoria de Aguascalientes,Marco Antonio Ortíz,Match Report,,0.0,0.0,X,1455.48,1498.8,6.680000000000064,1.797,1.727,3.524
+Apertura 2024 Regular Season,17.0,Sun,2024-11-10,19:05,Monterrey,2-1,León,41874.0,Estadio BBVA Bancomer,César Arturo Ramos,Match Report,,2.0,1.0,1,1530.81,1494.71,86.09999999999991,1.969,1.406,3.375
+Apertura 2024 Regular Season,17.0,Sun,2024-11-10,19:10,Tijuana,2-1,Puebla,21333.0,Estadio Caliente,Ismael Lopez,Match Report,,2.0,1.0,1,1521.14,1447.44,123.70000000000005,2.492,1.5,3.992
+Apertura — 7-seed match,,Thu,2024-11-21,19:00,Tijuana, 2-2 ,América,29333.0,Estadio Caliente,Adonai Escobedo,Match Report,América won a penalty shoot-out following extra time,2.0,2.0,X,1527.72,1522.3,55.42000000000007,1.744,2.336,4.08
+Apertura — 9/10 match,,Thu,2024-11-21,19:05,Guadalajara,1-2,Atlas,40645.0,Estadio Akron,César Arturo Ramos,Match Report,,1.0,2.0,2,1501.99,1498.99,53.0,1.91,0.882,2.792
+Apertura — 8-seed match,,Sun,2024-11-24,19:00,Tijuana,3-0,Atlas,17333.0,Estadio Caliente,Víctor Cáceres,Match Report,,3.0,0.0,1,1526.14,1510.5,65.6400000000001,1.926,1.583,3.509
+Apertura — Quarter-finals,,Wed,2024-11-27,19:00,América,2-0,Toluca,27025.0,Estadio de la Ciudad de los Deportes,Oscar Mejía,Match Report,Leg 1 of 2,2.0,0.0,1,1523.88,1561.4,12.480000000000018,1.516,2.856,4.372
+Apertura — Quarter-finals,,Wed,2024-11-27,19:10,Tijuana,3-0,Cruz Azul,25333.0,Estadio Caliente,Fernando Hernández,Match Report,Leg 1 of 2,3.0,0.0,1,1534.27,1592.39,-8.120000000000118,1.077,3.26,4.337
+Apertura — Quarter-finals,,Thu,2024-11-28,19:00,Atlético San Luis,3-0,UANL,22102.0,Estadio Alfonso Lastras Ramírez,Jesus Lopez,Match Report,Leg 1 of 2,3.0,0.0,1,1536.49,1556.38,30.1099999999999,1.401,1.644,3.045
+Apertura — Quarter-finals,,Thu,2024-11-28,21:10,Monterrey,1-0,UNAM,37379.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,Leg 1 of 2,1.0,0.0,1,1538.38,1545.26,43.12000000000012,1.17,1.381,2.551
+Apertura — Quarter-finals,,Sat,2024-11-30,17:00,Toluca,0-2,América,27273.0,Estadio Nemesio Díez,César Arturo Ramos,Match Report,Leg 2 of 2; América won,0.0,2.0,2,1551.76,1533.52,68.24000000000001,2.556,1.632,4.188
+Apertura — Quarter-finals,,Sat,2024-11-30,19:10,Cruz Azul,3-0,Tijuana,24975.0,Estadio de la Ciudad de los Deportes,Víctor Cáceres,Match Report,Leg 2 of 2; Cruz Azul won,3.0,0.0,1,1582.16,1544.5,87.66000000000008,2.925,1.333,4.258
+Apertura — Quarter-finals,,Sun,2024-12-01,12:00,UNAM,3-5,Monterrey,37439.0,Estadio Olímpico Universitario de Colima,Marco Antonio Ortíz,Match Report,Leg 2 of 2; Monterrey won,3.0,5.0,2,1536.49,1547.15,39.33999999999992,1.231,1.167,2.398
+Apertura — Quarter-finals,,Sun,2024-12-01,19:00,UANL,0-0,Atlético San Luis,40271.0,Estadio Universitario de Nuevo León,Adonai Escobedo,Match Report,Leg 2 of 2; Atlético San Luis won,0.0,0.0,X,1547.24,1545.63,51.6099999999999,1.466,1.667,3.133
+Apertura — Semi-finals,,Wed,2024-12-04,21:00,Atlético San Luis,2-1,Monterrey,22803.0,Estadio Alfonso Lastras Ramírez,Fernando Hernández,Match Report,Leg 1 of 2,2.0,1.0,1,1547.1,1558.28,38.819999999999936,1.828,1.684,3.512
+Apertura — Semi-finals,,Thu,2024-12-05,20:00,América,0-0,Cruz Azul,29401.0,Estadio de la Ciudad de los Deportes,Oscar Mejía,Match Report,Leg 1 of 2,0.0,0.0,X,1545.46,1589.69,5.769999999999982,1.303,2.542,3.8449999999999998
+Apertura — Semi-finals,,Sat,2024-12-07,20:00,Monterrey,5-1,Atlético San Luis,48606.0,Estadio BBVA Bancomer,Marco Antonio Ortíz,Match Report,Leg 2 of 2; Monterrey won,5.0,1.0,1,1549.39,1555.99,43.40000000000009,1.65,1.92,3.57
+Apertura — Semi-finals,,Sun,2024-12-08,19:00,Cruz Azul,3-4,América,29404.0,Estadio de la Ciudad de los Deportes,Adonai Escobedo,Match Report,Leg 2 of 2; América won,3.0,4.0,2,1589.86,1545.29,94.56999999999994,2.3,1.179,3.479
+Apertura — Finals,,Thu,2024-12-12,20:00,América,2-1,Monterrey,36933.0,Estadio Cuauhtémoc,Víctor Cáceres,Match Report,Leg 1 of 2,2.0,1.0,1,1557.95,1558.15,49.79999999999996,2.002,2.139,4.141
+Apertura — Finals,,Sun,2024-12-15,19:00,Monterrey,1-1,América,52127.0,Estadio BBVA Bancomer,César Arturo Ramos,Match Report,Leg 2 of 2; América won,1.0,1.0,X,1549.57,1566.53,33.039999999999964,2.081,2.081,4.162
+Clausura 2025 Regular Season,1.0,Fri,2025-01-10,19:00,Querétaro,0-1,América,28922.0,Estadio La Corregidora,Jesus Lopez,Match Report,,0.0,1.0,2,1439.54,1567.48,-77.94000000000005,0.892,3.039,3.931
+Clausura 2025 Regular Season,1.0,Fri,2025-01-10,19:05,Tijuana,2-4,Toluca,20633.0,Estadio Caliente,Jorge Camacho,Match Report,,2.0,4.0,2,1536.97,1539.82,47.15000000000009,1.604,2.857,4.461
+Clausura 2025 Regular Season,1.0,Fri,2025-01-10,20:00,Mazatlán,1-1,FC Juárez,9193.0,Estadio El Encanto,Fernando Hernández,Match Report,,1.0,1.0,X,1461.86,1467.18,44.67999999999984,1.246,1.446,2.692
+Clausura 2025 Regular Season,1.0,Sat,2025-01-11,17:00,Atlético San Luis,1-3,UANL,16196.0,Estadio Alfonso Lastras Ramírez,Guillermo Pacheco,Match Report,,1.0,3.0,2,1547.23,1545.77,51.46000000000004,1.489,1.566,3.055
+Clausura 2025 Regular Season,1.0,Sat,2025-01-11,19:05,Guadalajara,1-0,Santos Laguna,32166.0,Estadio Akron,Daniel Quintero,Match Report,,1.0,0.0,1,1490.48,1424.44,116.03999999999996,2.451,0.667,3.1180000000000003
+Clausura 2025 Regular Season,1.0,Sat,2025-01-11,21:05,Cruz Azul,1-1,Atlas,9732.0,Estadio Olímpico de Universitario,Maximiliano Quintero,Match Report,,1.0,1.0,X,1577.2,1502.37,124.83000000000015,3.045,0.905,3.95
+Clausura 2025 Regular Season,1.0,Sun,2025-01-12,12:00,UNAM,2-1,Necaxa,18133.0,Estadio Olímpico de Universitario,Ismael Lopez,Match Report,,2.0,1.0,1,1525.36,1455.29,120.06999999999994,1.932,1.176,3.1079999999999997
+Clausura 2025 Regular Season,1.0,Sun,2025-01-12,19:00,Monterrey,1-1,Puebla,37244.0,Estadio BBVA Bancomer,Luis García,Match Report,,1.0,1.0,X,1548.62,1440.86,157.76,3.171,1.217,4.388
+Clausura 2025 Regular Season,2.0,Thu,2025-01-16,20:10,América,1-1,Tijuana,15499.0,Estadio de la Ciudad de los Deportes,Katia García,Match Report,,1.0,1.0,X,1575.27,1525.62,99.65000000000008,2.535,1.731,4.266
+Clausura 2025 Regular Season,2.0,Fri,2025-01-17,19:00,UANL,2-1,Mazatlán,38310.0,Estadio Universitario de Nuevo León,Oscar Mejía,Match Report,,2.0,1.0,1,1557.24,1460.58,146.66000000000008,1.556,0.581,2.137
+Clausura 2025 Regular Season,2.0,Fri,2025-01-17,19:00,Puebla,1-2,Atlético San Luis,14241.0,Estadio Cuauhtémoc,Abraham Quirarte,Match Report,,1.0,2.0,2,1445.11,1535.76,-40.65000000000009,1.273,2.747,4.02
+Clausura 2025 Regular Season,2.0,Fri,2025-01-17,21:05,Necaxa,3-2,Guadalajara,20706.0,Estadio Victoria de Aguascalientes,Salvador Pérez Villalobos,Match Report,,3.0,2.0,1,1448.61,1497.26,1.349999999999909,1.044,2.129,3.173
+Clausura 2025 Regular Season,2.0,Sat,2025-01-18,16:00,FC Juárez,1-0,Cruz Azul,13256.0,Estadio Olímpico Benito Juárez,Iván López,Match Report,,1.0,0.0,1,1468.46,1573.75,-55.28999999999997,1.162,4.298,5.46
+Clausura 2025 Regular Season,2.0,Sat,2025-01-18,19:00,Toluca,1-1,Monterrey,27273.0,Estadio Nemesio Díez,Fernando Guerrero,Match Report,,1.0,1.0,X,1551.17,1544.37,56.80000000000018,2.538,1.879,4.417
+Clausura 2025 Regular Season,2.0,Sat,2025-01-18,21:00,Atlas,1-2,León,25715.0,Estadio Jalisco,César Arturo Ramos,Match Report,,1.0,2.0,2,1505.82,1487.14,68.67999999999984,1.353,1.729,3.082
+Clausura 2025 Regular Season,2.0,Sun,2025-01-19,17:00,Querétaro,3-2,UNAM,19098.0,Estadio La Corregidora,Adonai Escobedo,Match Report,,3.0,2.0,1,1431.75,1532.04,-50.28999999999997,0.722,2.311,3.033
+Clausura 2025 Regular Season,2.0,Mon,2025-01-20,19:00,Pachuca,2-1,Santos Laguna,17097.0,Estadio Hidalgo,Vicente Arce,Match Report,,2.0,1.0,1,1442.39,1417.66,74.73000000000002,2.026,1.137,3.163
+Clausura 2025 Regular Season,3.0,Fri,2025-01-24,19:00,Atlético San Luis,0-3,Necaxa,13062.0,Estadio Alfonso Lastras Ramírez,Víctor Cáceres,Match Report,,0.0,3.0,2,1544.6,1458.57,136.02999999999997,2.471,1.593,4.064
+Clausura 2025 Regular Season,3.0,Fri,2025-01-24,19:00,Tijuana,2-1,Querétaro,16333.0,Estadio Caliente,Karen Hernández,Match Report,,2.0,1.0,1,1528.41,1443.19,135.22000000000003,2.723,1.281,4.004
+Clausura 2025 Regular Season,3.0,Fri,2025-01-24,20:00,Mazatlán,2-1,Toluca,7951.0,Estadio El Encanto,Adonai Escobedo,Match Report,,2.0,1.0,1,1454.57,1549.55,-44.98000000000002,0.692,2.371,3.0629999999999997
+Clausura 2025 Regular Season,3.0,Sat,2025-01-25,17:00,León,1-0,FC Juárez,26614.0,Estadio León,Charles Terrazas,Match Report,,1.0,0.0,1,1499.09,1480.04,69.04999999999995,2.488,1.684,4.172
+Clausura 2025 Regular Season,3.0,Sat,2025-01-25,17:00,Cruz Azul,1-1,Puebla,10074.0,Estadio Olímpico de Universitario,Jorge Camacho,Match Report,,1.0,1.0,X,1562.17,1436.27,175.9000000000001,3.579,0.913,4.492
+Clausura 2025 Regular Season,3.0,Sat,2025-01-25,19:05,Santos Laguna,1-4,América,21406.0,Estadio Nuevo Corona,Fernando Hernández,Match Report,,1.0,4.0,2,1409.78,1572.48,-112.70000000000005,0.763,2.806,3.569
+Clausura 2025 Regular Season,3.0,Sat,2025-01-25,19:05,Guadalajara,1-1,UANL,39017.0,Estadio Akron,Jesus Lopez,Match Report,,1.0,1.0,X,1487.3,1563.25,-25.950000000000045,1.333,1.429,2.762
+Clausura 2025 Regular Season,3.0,Sat,2025-01-25,21:10,Monterrey,2-3,Pachuca,43072.0,Estadio BBVA Bancomer,Guillermo Pacheco,Match Report,,2.0,3.0,2,1545.99,1450.27,145.72000000000003,2.8,1.467,4.2669999999999995
+Clausura 2025 Regular Season,3.0,Sun,2025-01-26,12:00,UNAM,0-0,Atlas,16087.0,Estadio Olímpico de Universitario,Martín Molina,Match Report,,0.0,0.0,X,1520.6,1493.87,76.73000000000002,1.905,1.095,3.0
+Clausura 2025 Regular Season,4.0,Tue,2025-01-28,19:00,América,3-0,Atlético San Luis,21306.0,Estadio de la Ciudad de los Deportes,Jorge Camacho,Match Report,,3.0,0.0,1,1579.35,1530.87,98.48000000000002,2.272,1.667,3.939
+Clausura 2025 Regular Season,4.0,Tue,2025-01-28,19:00,Puebla,0-1,Mazatlán,11030.0,Estadio Cuauhtémoc,Daniel Quintero,Match Report,,0.0,1.0,2,1440.94,1465.86,25.080000000000155,1.15,1.225,2.375
+Clausura 2025 Regular Season,4.0,Tue,2025-01-28,21:00,UANL,4-0,Tijuana,34668.0,Estadio Universitario de Nuevo León,Iván López,Match Report,,4.0,0.0,1,1562.5,1534.7,77.79999999999995,2.114,1.472,3.586
+Clausura 2025 Regular Season,4.0,Tue,2025-01-28,21:00,León,2-1,Guadalajara,26673.0,Estadio León,Oscar Mejía,Match Report,,2.0,1.0,1,1507.13,1488.05,69.08000000000015,1.263,1.744,3.0069999999999997
+Clausura 2025 Regular Season,4.0,Tue,2025-01-28,21:05,Necaxa,1-3,Cruz Azul,16866.0,Estadio Victoria de Aguascalientes,Luis García,Match Report,,1.0,3.0,2,1472.3,1557.5,-35.200000000000045,1.238,2.938,4.176
+Clausura 2025 Regular Season,4.0,Wed,2025-01-29,19:00,Atlas,3-3,Monterrey,18099.0,Estadio Jalisco,Maximiliano Quintero,Match Report,,3.0,3.0,X,1496.04,1532.03,14.009999999999993,1.212,2.308,3.5199999999999996
+Clausura 2025 Regular Season,4.0,Wed,2025-01-29,19:00,Querétaro,0-1,Pachuca,9635.0,Estadio La Corregidora,Salvador Pérez Villalobos,Match Report,,0.0,1.0,2,1436.9,1464.23,22.670000000000076,1.432,2.368,3.8
+Clausura 2025 Regular Season,4.0,Wed,2025-01-29,20:00,FC Juárez,1-0,Santos Laguna,7189.0,Estadio Olímpico Benito Juárez,Abraham Quirarte,Match Report,,1.0,0.0,1,1472.0,1402.91,119.08999999999992,2.22,1.33,3.5500000000000003
+Clausura 2025 Regular Season,4.0,Wed,2025-01-29,21:05,UNAM,1-1,Toluca,17148.0,Estadio Olímpico de Universitario,Óscar Macias,Match Report,,1.0,1.0,X,1518.43,1538.26,30.170000000000076,1.446,2.091,3.537
+Clausura 2025 Regular Season,5.0,Fri,2025-01-31,18:00,Mazatlán,1-2,León,12383.0,Estadio El Encanto,Luis Enrique Santander,Match Report,,1.0,2.0,2,1476.58,1515.17,11.409999999999854,0.893,1.424,2.317
+Clausura 2025 Regular Season,5.0,Fri,2025-01-31,19:05,Tijuana,2-3,Cruz Azul,23333.0,Estadio Caliente,Charles Terrazas,Match Report,,2.0,3.0,2,1526.9,1566.49,10.410000000000082,1.362,3.2,4.562
+Clausura 2025 Regular Season,5.0,Sat,2025-02-01,17:00,América,4-0,FC Juárez,27623.0,Estadio de la Ciudad de los Deportes,César Arturo Ramos,Match Report,,4.0,0.0,1,1586.59,1478.7,157.88999999999987,3.167,1.276,4.443
+Clausura 2025 Regular Season,5.0,Sat,2025-02-01,17:05,Guadalajara,1-1,Querétaro,32087.0,Estadio Akron,Ismael Lopez,Match Report,,1.0,1.0,X,1480.01,1426.25,103.76,2.403,0.846,3.249
+Clausura 2025 Regular Season,5.0,Sat,2025-02-01,19:00,Pachuca,0-0,Atlas,14479.0,Estadio Hidalgo,Jesus Lopez,Match Report,,0.0,0.0,X,1474.88,1495.64,29.24000000000001,1.865,1.67,3.535
+Clausura 2025 Regular Season,5.0,Sat,2025-02-01,19:05,Monterrey,1-0,Necaxa,44471.0,Estadio BBVA Bancomer,Marco Antonio Ortíz,Match Report,,1.0,0.0,1,1532.43,1463.31,119.12000000000012,2.735,1.778,4.513
+Clausura 2025 Regular Season,5.0,Sat,2025-02-01,21:15,Toluca,1-0,UANL,27273.0,Estadio Nemesio Díez,Fernando Hernández,Match Report,,1.0,0.0,1,1539.13,1570.3,18.830000000000155,1.786,1.72,3.5060000000000002
+Clausura 2025 Regular Season,5.0,Sun,2025-02-02,17:00,Santos Laguna,0-2,Puebla,11311.0,Estadio Nuevo Corona,Víctor Cáceres,Match Report,,0.0,2.0,2,1396.21,1430.22,15.990000000000007,1.143,1.723,2.866
+Clausura 2025 Regular Season,5.0,Sun,2025-02-02,19:00,Atlético San Luis,2-3,UNAM,18905.0,Estadio Alfonso Lastras Ramírez,Daniel Quintero,Match Report,,2.0,3.0,2,1523.63,1517.56,56.07000000000016,1.503,1.765,3.268
+Clausura 2025 Regular Season,1.0,Wed,2025-02-05,21:10,Pachuca,1-2,León,21224.0,Estadio Hidalgo,Adonai Escobedo,Match Report,,1.0,2.0,2,1474.04,1525.5,-1.4600000000000364,1.533,2.032,3.565
+Clausura 2025 Regular Season,6.0,Fri,2025-02-07,19:00,Querétaro,1-0,Atlético San Luis,8173.0,Estadio La Corregidora,Vicente Arce,Match Report,,1.0,0.0,1,1429.15,1512.03,-32.87999999999988,1.196,2.524,3.7199999999999998
+Clausura 2025 Regular Season,6.0,Fri,2025-02-07,19:00,Necaxa,3-2,Santos Laguna,15639.0,Estadio Victoria de Aguascalientes,Daniel Quintero,Match Report,,3.0,2.0,1,1456.61,1385.75,120.8599999999999,2.314,0.983,3.297
+Clausura 2025 Regular Season,6.0,Fri,2025-02-07,21:00,Puebla,1-2,América,36335.0,Estadio Cuauhtémoc,Ismael Lopez,Match Report,,1.0,2.0,2,1440.68,1592.33,-101.64999999999986,1.034,2.991,4.025
+Clausura 2025 Regular Season,6.0,Sat,2025-02-08,19:00,UANL,2-1,Atlas,39454.0,Estadio Universitario de Nuevo León,Adonai Escobedo,Match Report,,2.0,1.0,1,1560.84,1496.48,114.3599999999999,2.005,0.917,2.9219999999999997
+Clausura 2025 Regular Season,6.0,Sat,2025-02-08,19:00,León,3-3,Toluca,25425.0,Estadio León,Marco Antonio Ortíz,Match Report,,3.0,3.0,X,1535.46,1548.59,36.87000000000012,1.477,2.352,3.8289999999999997
+Clausura 2025 Regular Season,6.0,Sat,2025-02-08,20:00,FC Juárez,2-1,Monterrey,8785.0,Estadio Olímpico Benito Juárez,Luis Enrique Santander,Match Report,,2.0,1.0,1,1472.96,1539.13,-16.170000000000073,1.461,3.273,4.734
+Clausura 2025 Regular Season,6.0,Sat,2025-02-08,21:05,Cruz Azul,2-1,Pachuca,10733.0,Estadio Olímpico de Universitario,César Arturo Ramos,Match Report,,2.0,1.0,1,1576.79,1464.08,162.71000000000004,3.15,1.18,4.33
+Clausura 2025 Regular Season,6.0,Sun,2025-02-09,18:00,UNAM,1-0,Mazatlán,8845.0,Estadio Olímpico de Universitario,Víctor Cáceres,Match Report,,1.0,0.0,1,1529.16,1466.25,112.91000000000008,1.515,0.788,2.303
+Clausura 2025 Regular Season,6.0,Sun,2025-02-09,21:05,Guadalajara,2-1,Tijuana,24483.0,Estadio Akron,Fernando Hernández,Match Report,,2.0,1.0,1,1477.11,1516.6,10.509999999999993,2.229,1.565,3.794
+Clausura 2025 Regular Season,7.0,Fri,2025-02-14,19:00,Tijuana,1-2,FC Juárez,12233.0,Estadio Caliente,Guillermo Pacheco,Match Report,,1.0,2.0,2,1506.9,1483.43,73.47000000000003,2.77,1.957,4.727
+Clausura 2025 Regular Season,7.0,Fri,2025-02-14,20:00,Mazatlán,1-1,Santos Laguna,7274.0,Estadio El Encanto,Marco Antonio Ortíz,Match Report,,1.0,1.0,X,1459.39,1379.09,130.30000000000018,1.301,0.786,2.0869999999999997
+Clausura 2025 Regular Season,7.0,Fri,2025-02-14,21:00,América,2-3,Necaxa,25753.0,Estadio de la Ciudad de los Deportes,Oscar Mejía,Match Report,,2.0,3.0,2,1599.48,1463.27,186.21000000000004,2.87,1.393,4.263
+Clausura 2025 Regular Season,7.0,Sat,2025-02-15,17:00,Atlas,3-2,Puebla,16083.0,Estadio Jalisco,Luis Enrique Santander,Match Report,,3.0,2.0,1,1489.66,1433.53,106.13000000000012,1.652,1.4,3.0519999999999996
+Clausura 2025 Regular Season,7.0,Sat,2025-02-15,19:00,UANL,2-1,Cruz Azul,41615.0,Estadio Universitario de Nuevo León,Víctor Cáceres,Match Report,,2.0,1.0,1,1567.66,1582.42,35.24000000000001,1.425,1.874,3.2990000000000004
+Clausura 2025 Regular Season,7.0,Sat,2025-02-15,21:10,Toluca,2-1,Guadalajara,27273.0,Estadio Nemesio Díez,Jesus Lopez,Match Report,,2.0,1.0,1,1549.65,1486.81,112.84000000000016,2.042,1.595,3.6369999999999996
+Clausura 2025 Regular Season,7.0,Sun,2025-02-16,17:00,Querétaro,2-4,Monterrey,17494.0,Estadio La Corregidora,Fernando Hernández,Match Report,,2.0,4.0,2,1440.09,1528.66,-38.57000000000016,1.082,2.792,3.8739999999999997
+Clausura 2025 Regular Season,7.0,Sun,2025-02-16,19:00,Atlético San Luis,1-2,León,21212.0,Estadio Alfonso Lastras Ramírez,Maximiliano Quintero,Match Report,,1.0,2.0,2,1501.09,1534.4,16.689999999999827,1.836,2.072,3.9080000000000004
+Clausura 2025 Regular Season,7.0,Sun,2025-02-16,19:05,Pachuca,2-1,UNAM,12069.0,Estadio Hidalgo,Katia García,Match Report,,2.0,1.0,1,1458.45,1536.02,-27.569999999999936,1.266,2.066,3.332
+Clausura 2025 Regular Season,9.0,Tue,2025-02-18,21:10,Atlas,0-4,Necaxa,16031.0,Estadio Jalisco,Víctor Cáceres,Match Report,,0.0,4.0,2,1496.7,1478.17,68.52999999999997,1.705,2.016,3.721
+Clausura 2025 Regular Season,9.0,Wed,2025-02-19,19:00,América,1-1,León,29593.0,Estadio de la Ciudad de los Deportes,César Arturo Ramos,Match Report,,1.0,1.0,X,1584.58,1544.88,89.69999999999982,2.375,1.599,3.974
+Clausura 2025 Regular Season,9.0,Wed,2025-02-19,21:05,Santos Laguna,0-1,Cruz Azul,14020.0,Estadio Nuevo Corona,Jesus Lopez,Match Report,,0.0,1.0,2,1382.67,1573.43,-140.76,0.708,3.667,4.375
+Clausura 2025 Regular Season,8.0,Fri,2025-02-21,19:00,Necaxa,3-1,Mazatlán,17268.0,Estadio Victoria de Aguascalientes,Ismael Lopez,Match Report,,3.0,1.0,1,1490.12,1455.81,84.30999999999995,1.71,1.077,2.787
+Clausura 2025 Regular Season,8.0,Fri,2025-02-21,21:00,Puebla,2-0,Tijuana,13050.0,Estadio Cuauhtémoc,Marco Antonio Ortíz,Match Report,,2.0,0.0,1,1426.49,1494.82,-18.329999999999927,1.749,2.501,4.25
+Clausura 2025 Regular Season,8.0,Sat,2025-02-22,16:00,FC Juárez,0-4,Toluca,9572.0,Estadio Olímpico Benito Juárez,Adonai Escobedo,Match Report,,0.0,4.0,2,1495.51,1556.51,-11.0,1.394,3.596,4.99
+Clausura 2025 Regular Season,8.0,Sat,2025-02-22,19:00,León,1-0,UANL,25186.0,Estadio León,Oscar Mejía,Match Report,,1.0,0.0,1,1547.41,1576.65,20.75999999999999,1.329,1.92,3.2489999999999997
+Clausura 2025 Regular Season,8.0,Sat,2025-02-22,19:00,Monterrey,3-1,Atlético San Luis,50023.0,Estadio BBVA Bancomer,Daniel Quintero,Match Report,,3.0,1.0,1,1537.55,1490.61,96.94000000000004,2.587,1.857,4.444
+Clausura 2025 Regular Season,8.0,Sat,2025-02-22,19:05,Guadalajara,2-1,Pachuca,34690.0,Estadio Akron,Guillermo Pacheco,Match Report,,2.0,1.0,1,1479.95,1469.24,60.71000000000004,2.097,1.35,3.447
+Clausura 2025 Regular Season,8.0,Sat,2025-02-22,21:05,UNAM,0-2,América,38246.0,Estadio Olímpico de Universitario,Fernando Hernández,Match Report,,0.0,2.0,2,1525.23,1582.05,-6.819999999999936,1.43,1.952,3.3819999999999997
+Clausura 2025 Regular Season,8.0,Sun,2025-02-23,17:00,Santos Laguna,2-0,Atlas,11655.0,Estadio Nuevo Corona,Maximiliano Quintero,Match Report,,2.0,0.0,1,1376.51,1484.75,-58.24000000000001,1.033,1.867,2.9
+Clausura 2025 Regular Season,8.0,Sun,2025-02-23,19:05,Cruz Azul,1-0,Querétaro,11477.0,Estadio Olímpico de Universitario,Jorge Camacho,Match Report,,1.0,0.0,1,1579.59,1431.2,198.38999999999987,3.44,0.845,4.285
+Clausura 2025 Regular Season,9.0,Tue,2025-02-25,19:00,UANL,0-1,FC Juárez,31651.0,Estadio Universitario de Nuevo León,Daniel Quintero,Match Report,,0.0,1.0,2,1567.25,1485.83,131.42000000000007,2.773,1.074,3.8470000000000004
+Clausura 2025 Regular Season,9.0,Tue,2025-02-25,19:10,Tijuana,4-2,UNAM,20133.0,Estadio Caliente,Salvador Pérez Villalobos,Match Report,,4.0,2.0,1,1484.29,1515.43,18.8599999999999,1.571,2.128,3.699
+Clausura 2025 Regular Season,9.0,Tue,2025-02-25,20:00,Mazatlán,1-0,Monterrey,10473.0,Estadio El Encanto,Abraham Quirarte,Match Report,,1.0,0.0,1,1448.19,1544.83,-46.63999999999987,0.952,2.168,3.12
+Clausura 2025 Regular Season,9.0,Wed,2025-02-26,19:00,Pachuca,2-1,Puebla,10042.0,Estadio Hidalgo,Charles Terrazas,Match Report,,2.0,1.0,1,1460.97,1437.02,73.95000000000005,2.034,1.685,3.719
+Clausura 2025 Regular Season,9.0,Wed,2025-02-26,21:00,Toluca,5-0,Querétaro,24163.0,Estadio Nemesio Díez,Martín Molina,Match Report,,5.0,0.0,1,1566.19,1426.36,189.83000000000013,3.504,0.933,4.437
+Clausura 2025 Regular Season,9.0,Wed,2025-02-26,21:05,Atlético San Luis,3-1,Guadalajara,22529.0,Estadio Alfonso Lastras Ramírez,Ismael Lopez,Match Report,,3.0,1.0,1,1483.33,1488.22,45.1099999999999,1.485,2.101,3.5860000000000003
+Clausura 2025 Regular Season,10.0,Fri,2025-02-28,20:00,Mazatlán,1-1,Cruz Azul,12207.0,Estadio El Encanto,Luis García,Match Report,,1.0,1.0,X,1459.52,1584.43,-74.91000000000008,0.682,2.231,2.913
+Clausura 2025 Regular Season,10.0,Sat,2025-03-01,16:00,FC Juárez,2-2,Pachuca,6652.0,Estadio Olímpico Benito Juárez,Luis Enrique Santander,Match Report,,2.0,2.0,X,1499.44,1468.87,80.57000000000016,1.775,2.343,4.118
+Clausura 2025 Regular Season,10.0,Sat,2025-03-01,17:00,América,3-0,Toluca,29222.0,Estadio de la Ciudad de los Deportes,Jesus Lopez,Match Report,,3.0,0.0,1,1591.85,1571.21,70.63999999999987,1.948,2.273,4.221
+Clausura 2025 Regular Season,10.0,Sat,2025-03-01,19:00,León,2-1,Tijuana,25552.0,Estadio León,Ismael Lopez,Match Report,,2.0,1.0,1,1556.81,1493.75,113.05999999999996,2.419,1.846,4.265000000000001
+Clausura 2025 Regular Season,10.0,Sat,2025-03-01,19:05,Necaxa,1-2,UANL,19060.0,Estadio Victoria de Aguascalientes,Guillermo Pacheco,Match Report,,1.0,2.0,2,1497.74,1553.64,-5.900000000000091,1.464,2.089,3.553
+Clausura 2025 Regular Season,10.0,Sat,2025-03-01,21:10,UNAM,0-1,Guadalajara,33980.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,0.0,1.0,2,1505.97,1479.51,76.46000000000004,1.476,1.664,3.1399999999999997
+Clausura 2025 Regular Season,10.0,Sun,2025-03-02,16:00,Querétaro,2-0,Puebla,8489.0,Estadio La Corregidora,César Arturo Ramos,Match Report,,2.0,0.0,1,1421.34,1429.12,42.22000000000003,1.336,1.988,3.324
+Clausura 2025 Regular Season,10.0,Sun,2025-03-02,18:00,Atlas,3-1,Atlético San Luis,16331.0,Estadio Jalisco,Jorge Camacho,Match Report,,3.0,1.0,1,1473.09,1492.04,31.049999999999955,1.5,2.201,3.701
+Clausura 2025 Regular Season,10.0,Sun,2025-03-02,20:05,Monterrey,4-2,Santos Laguna,46665.0,Estadio BBVA Bancomer,Adonai Escobedo,Match Report,,4.0,2.0,1,1533.5,1388.17,195.32999999999996,3.029,0.959,3.988
+Clausura 2025 Regular Season,11.0,Fri,2025-03-07,19:00,Atlético San Luis,1-0,FC Juárez,11807.0,Estadio Alfonso Lastras Ramírez,Marco Antonio Ortíz,Match Report,,1.0,0.0,1,1482.93,1497.16,35.76999999999998,2.628,1.835,4.463
+Clausura 2025 Regular Season,11.0,Fri,2025-03-07,19:00,UANL,1-0,Querétaro,40297.0,Estadio Universitario de Nuevo León,Iván López,Match Report,,1.0,0.0,1,1563.47,1430.13,183.33999999999992,2.513,0.793,3.306
+Clausura 2025 Regular Season,11.0,Fri,2025-03-07,21:00,Puebla,1-3,UNAM,20140.0,Estadio Cuauhtémoc,Víctor Cáceres,Match Report,,1.0,3.0,2,1420.33,1493.8,-23.470000000000027,1.252,2.069,3.3209999999999997
+Clausura 2025 Regular Season,11.0,Sat,2025-03-08,17:00,Toluca,5-2,Necaxa,27273.0,Estadio Nemesio Díez,Katia García,Match Report,,5.0,2.0,1,1563.22,1487.91,125.30999999999996,3.142,1.77,4.912
+Clausura 2025 Regular Season,11.0,Sat,2025-03-08,19:00,Pachuca,1-1,Mazatlán,13335.0,Estadio Hidalgo,Maximiliano Quintero,Match Report,,1.0,1.0,X,1471.15,1461.64,59.50999999999999,1.488,1.152,2.6399999999999997
+Clausura 2025 Regular Season,11.0,Sat,2025-03-08,19:05,Cruz Azul,1-1,Monterrey,22895.0,Estadio Olímpico de Universitario,Oscar Mejía,Match Report,,1.0,1.0,X,1582.31,1538.4,93.90999999999984,2.538,1.701,4.239
+Clausura 2025 Regular Season,11.0,Sat,2025-03-08,21:05,Guadalajara,0-0,América,41003.0,Estadio Akron,Adonai Escobedo,Match Report,,0.0,0.0,X,1491.68,1599.84,-58.159999999999854,1.397,2.051,3.4480000000000004
+Clausura 2025 Regular Season,11.0,Sun,2025-03-09,17:00,Santos Laguna,2-1,León,23111.0,Estadio Nuevo Corona,Guillermo Pacheco,Match Report,,2.0,1.0,1,1383.27,1563.67,-130.4000000000001,0.951,2.621,3.572
+Clausura 2025 Regular Season,11.0,Sun,2025-03-09,20:00,Tijuana,3-4,Atlas,17633.0,Estadio Caliente,Fernando Hernández,Match Report,,3.0,4.0,2,1486.89,1482.2,54.690000000000055,2.251,1.828,4.079
+Clausura 2025 Regular Season,12.0,Fri,2025-03-14,19:00,Necaxa,2-1,León,20501.0,Estadio Victoria de Aguascalientes,Marco Antonio Ortíz,Match Report,,2.0,1.0,1,1481.37,1550.08,-18.71000000000004,1.964,2.347,4.311
+Clausura 2025 Regular Season,12.0,Fri,2025-03-14,19:00,Querétaro,1-0,Mazatlán,9871.0,Estadio La Corregidora,Luis Enrique Santander,Match Report,,1.0,0.0,1,1424.97,1463.34,11.63000000000011,0.939,1.312,2.251
+Clausura 2025 Regular Season,12.0,Fri,2025-03-14,21:05,Puebla,0-3,Toluca,15920.0,Estadio Cuauhtémoc,Salvador Pérez Villalobos,Match Report,,0.0,3.0,2,1411.0,1569.76,-108.76,1.208,3.714,4.922
+Clausura 2025 Regular Season,12.0,Sat,2025-03-15,17:00,UANL,3-0,Santos Laguna,40133.0,Estadio Universitario de Nuevo León,César Arturo Ramos,Match Report,,3.0,0.0,1,1568.63,1396.86,221.7700000000002,2.5,0.739,3.239
+Clausura 2025 Regular Season,12.0,Sat,2025-03-15,19:00,Cruz Azul,3-0,Atlético San Luis,15933.0,Estadio Olímpico de Universitario,Víctor Cáceres,Match Report,,3.0,0.0,1,1579.67,1491.9,137.76999999999998,2.812,1.318,4.13
+Clausura 2025 Regular Season,12.0,Sat,2025-03-15,19:10,FC Juárez,1-1,Guadalajara,19124.0,Estadio Olímpico Benito Juárez,Fernando Hernández,Match Report,,1.0,1.0,X,1488.19,1493.34,44.850000000000136,1.222,2.387,3.609
+Clausura 2025 Regular Season,12.0,Sat,2025-03-15,21:05,Atlas,1-3,América,34787.0,Estadio Jalisco,Oscar Mejía,Match Report,,1.0,3.0,2,1493.76,1598.18,-54.42000000000007,1.167,2.82,3.987
+Clausura 2025 Regular Season,12.0,Sun,2025-03-16,18:00,UNAM,1-3,Monterrey,34350.0,Estadio Olímpico de Universitario,Ismael Lopez,Match Report,,1.0,3.0,2,1503.13,1541.04,12.090000000000146,1.721,2.153,3.874
+Clausura 2025 Regular Season,12.0,Sun,2025-03-16,20:00,Pachuca,4-1,Tijuana,12158.0,Estadio Hidalgo,Jorge Camacho,Match Report,,4.0,1.0,1,1469.45,1475.33,44.12000000000012,2.29,2.352,4.6419999999999995
+Clausura 2025 Regular Season,13.0,Fri,2025-03-28,19:00,Necaxa,2-0,Querétaro,19029.0,Estadio Victoria de Aguascalientes,Abraham Quirarte,Match Report,,2.0,0.0,1,1491.91,1434.64,107.26999999999998,2.68,1.341,4.021
+Clausura 2025 Regular Season,13.0,Fri,2025-03-28,20:00,Mazatlán,3-2,Atlas,10166.0,Estadio El Encanto,César Arturo Ramos,Match Report,,3.0,2.0,1,1453.67,1485.31,18.360000000000127,1.168,1.321,2.489
+Clausura 2025 Regular Season,13.0,Sat,2025-03-29,17:00,Toluca,3-2,Pachuca,27273.0,Estadio Nemesio Díez,Marco Antonio Ortíz,Match Report,,3.0,2.0,1,1576.73,1478.19,148.53999999999996,3.328,1.557,4.885
+Clausura 2025 Regular Season,13.0,Sat,2025-03-29,17:00,FC Juárez,2-0,Puebla,6315.0,Estadio Olímpico Benito Juárez,Daniel Quintero,Match Report,,2.0,0.0,1,1486.91,1404.03,132.8800000000001,2.001,1.793,3.7939999999999996
+Clausura 2025 Regular Season,13.0,Sat,2025-03-29,19:05,América,3-0,UANL,29397.0,Estadio de la Ciudad de los Deportes,Víctor Cáceres,Match Report,,3.0,0.0,1,1606.63,1572.99,83.6400000000001,1.597,1.452,3.049
+Clausura 2025 Regular Season,13.0,Sat,2025-03-29,21:05,Guadalajara,0-1,Cruz Azul,30415.0,Estadio Jalisco,Jesus Lopez,Match Report,,0.0,1.0,2,1494.62,1585.9,-41.2800000000002,1.182,2.036,3.218
+Clausura 2025 Regular Season,13.0,Sat,2025-03-29,21:10,Monterrey,1-2,Tijuana,43514.0,Estadio BBVA Bancomer,Luis Enrique Santander,Match Report,,1.0,2.0,2,1551.39,1466.59,134.80000000000018,3.38,1.991,5.371
+Clausura 2025 Regular Season,13.0,Sun,2025-03-30,17:00,Santos Laguna,2-3,Atlético San Luis,12155.0,Estadio Nuevo Corona,Katia García,Match Report,,2.0,3.0,2,1392.5,1485.67,-43.17000000000007,1.226,2.492,3.718
+Clausura 2025 Regular Season,13.0,Sun,2025-03-30,19:05,León,1-2,UNAM,25571.0,Estadio León,Adonai Escobedo,Match Report,,1.0,2.0,2,1539.54,1492.78,96.76,1.779,1.646,3.425
+Clausura 2025 Regular Season,14.0,Fri,2025-04-04,19:00,Querétaro,1-1,León,17770.0,Estadio La Corregidora,Maximiliano Quintero,Match Report,,1.0,1.0,X,1427.63,1526.82,-49.18999999999983,1.04,2.38,3.42
+Clausura 2025 Regular Season,14.0,Fri,2025-04-04,20:00,Tijuana,1-2,Necaxa,20333.0,Estadio Caliente,Oscar Mejía,Match Report,,1.0,2.0,2,1480.29,1498.92,31.36999999999989,2.396,2.918,5.314
+Clausura 2025 Regular Season,14.0,Fri,2025-04-04,21:05,Puebla,0-0,UANL,14065.0,Estadio Cuauhtémoc,Jorge Camacho,Match Report,,0.0,0.0,X,1397.68,1565.35,-117.66999999999985,0.906,2.484,3.39
+Clausura 2025 Regular Season,14.0,Sat,2025-04-05,17:00,Atlas,1-1,FC Juárez,14312.0,Estadio Jalisco,Adonai Escobedo,Match Report,,1.0,1.0,X,1475.84,1493.26,32.57999999999993,2.058,1.932,3.9899999999999998
+Clausura 2025 Regular Season,14.0,Sat,2025-04-05,17:00,Pachuca,1-0,América,22186.0,Estadio Hidalgo,Fernando Hernández,Match Report,,1.0,0.0,1,1472.22,1614.27,-92.04999999999995,1.362,2.922,4.284000000000001
+Clausura 2025 Regular Season,14.0,Sat,2025-04-05,19:00,Atlético San Luis,2-1,Mazatlán,12154.0,Estadio Alfonso Lastras Ramírez,Jesus Lopez,Match Report,,2.0,1.0,1,1494.43,1463.14,81.28999999999996,1.647,1.247,2.894
+Clausura 2025 Regular Season,14.0,Sat,2025-04-05,19:05,Monterrey,3-1,Guadalajara,44481.0,Estadio BBVA Bancomer,Guillermo Pacheco,Match Report,,3.0,1.0,1,1537.69,1485.8,101.8900000000001,1.922,1.677,3.599
+Clausura 2025 Regular Season,14.0,Sat,2025-04-05,21:10,Cruz Azul,3-2,UNAM,37561.0,Estadio Cuauhtémoc,Daniel Quintero,Match Report,,3.0,2.0,1,1594.72,1505.5,139.22000000000003,2.353,1.158,3.511
+Clausura 2025 Regular Season,14.0,Sun,2025-04-06,18:00,Toluca,2-1,Santos Laguna,27273.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,,2.0,1.0,1,1582.7,1383.74,248.96000000000004,4.142,0.964,5.106
+Clausura 2025 Regular Season,15.0,Thu,2025-04-10,19:05,Tijuana,2-1,Atlético San Luis,12333.0,Estadio Caliente,Charles Terrazas,Match Report,,2.0,1.0,1,1469.39,1502.13,17.25999999999999,2.336,2.612,4.948
+Clausura 2025 Regular Season,15.0,Fri,2025-04-11,19:00,Necaxa,3-5,Pachuca,18292.0,Estadio Victoria de Aguascalientes,Jesus Lopez,Match Report,,3.0,5.0,2,1509.82,1484.81,75.00999999999999,2.445,2.148,4.593
+Clausura 2025 Regular Season,15.0,Fri,2025-04-11,20:05,Mazatlán,1-1,Guadalajara,14945.0,Estadio El Encanto,Fernando Hernández,Match Report,,1.0,1.0,X,1455.44,1478.65,26.789999999999964,0.907,1.492,2.399
+Clausura 2025 Regular Season,15.0,Sat,2025-04-12,17:00,León,1-0,Puebla,25437.0,Estadio León,Luis Enrique Santander,Match Report,,1.0,0.0,1,1525.41,1400.94,174.47000000000003,2.371,1.207,3.5780000000000003
+Clausura 2025 Regular Season,15.0,Sat,2025-04-12,17:00,UNAM,0-0,FC Juárez,10542.0,Estadio Olímpico de Universitario,Guillermo Pacheco,Match Report,,0.0,0.0,X,1499.31,1494.19,55.11999999999989,2.28,1.513,3.7929999999999997
+Clausura 2025 Regular Season,15.0,Sat,2025-04-12,19:00,Atlas,2-3,Toluca,19256.0,Estadio Jalisco,Daniel Quintero,Match Report,,2.0,3.0,2,1474.91,1586.55,-61.63999999999987,1.361,3.62,4.981
+Clausura 2025 Regular Season,15.0,Sat,2025-04-12,19:00,UANL,2-1,Monterrey,41615.0,Estadio Universitario de Nuevo León,Marco Antonio Ortíz,Match Report,,2.0,1.0,1,1562.09,1544.84,67.25,1.806,1.671,3.4770000000000003
+Clausura 2025 Regular Season,15.0,Sat,2025-04-12,21:15,América,0-0,Cruz Azul,24520.0,Estadio de la Ciudad de los Deportes,César Arturo Ramos,Match Report,,0.0,0.0,X,1601.68,1600.91,50.76999999999998,1.66,1.864,3.524
+Clausura 2025 Regular Season,15.0,Sun,2025-04-13,17:00,Santos Laguna,1-2,Querétaro,10255.0,Estadio Nuevo Corona,Víctor Cáceres,Match Report,,1.0,2.0,2,1379.89,1429.04,0.8500000000001364,1.407,1.509,2.916
+Clausura 2025 Regular Season,16.0,Tue,2025-04-15,19:00,Pachuca,0-0,UANL,20636.0,Estadio Hidalgo,César Arturo Ramos,Match Report,,0.0,0.0,X,1496.94,1570.18,-23.24000000000001,1.368,2.16,3.5280000000000005
+Clausura 2025 Regular Season,16.0,Tue,2025-04-15,19:05,Guadalajara,1-0,Puebla,29068.0,Estadio Akron,Katia García,Match Report,,1.0,0.0,1,1479.42,1395.58,133.84000000000017,2.097,1.016,3.113
+Clausura 2025 Regular Season,16.0,Tue,2025-04-15,21:00,FC Juárez,2-2,Necaxa,10704.0,Estadio Olímpico Benito Juárez,Jorge Camacho,Match Report,,2.0,2.0,X,1495.76,1497.69,48.069999999999936,1.863,2.743,4.606
+Clausura 2025 Regular Season,16.0,Tue,2025-04-15,21:05,Cruz Azul,2-1,León,37348.0,Estadio Olímpico de Universitario,Oscar Mejía,Match Report,,2.0,1.0,1,1602.36,1530.77,121.58999999999992,2.326,1.222,3.548
+Clausura 2025 Regular Season,16.0,Wed,2025-04-16,19:00,Monterrey,1-0,América,49098.0,Estadio BBVA Bancomer,Daniel Quintero,Match Report,,1.0,0.0,1,1536.75,1600.23,-13.480000000000018,1.723,2.374,4.097
+Clausura 2025 Regular Season,16.0,Wed,2025-04-16,19:00,Querétaro,1-2,Atlas,10721.0,Estadio La Corregidora,Marco Antonio Ortíz,Match Report,,1.0,2.0,2,1439.06,1466.67,22.389999999999876,1.415,1.997,3.412
+Clausura 2025 Regular Season,16.0,Wed,2025-04-16,20:00,Atlético San Luis,0-1,Toluca,16709.0,Estadio Alfonso Lastras Ramírez,Maximiliano Quintero,Match Report,,0.0,1.0,2,1492.63,1594.79,-52.159999999999854,1.667,3.477,5.144
+Clausura 2025 Regular Season,16.0,Wed,2025-04-16,20:00,Mazatlán,0-2,Tijuana,11323.0,Estadio El Encanto,Víctor Cáceres,Match Report,,0.0,2.0,2,1454.67,1478.89,25.779999999999973,1.467,1.814,3.281
+Clausura 2025 Regular Season,16.0,Wed,2025-04-16,21:05,UNAM,2-0,Santos Laguna,13230.0,Estadio Olímpico de Universitario,Adonai Escobedo,Match Report,,2.0,0.0,1,1497.74,1369.87,177.87000000000012,2.426,1.067,3.4930000000000003
+Clausura 2025 Regular Season,17.0,Fri,2025-04-18,19:00,Puebla,0-1,Necaxa,13225.0,Estadio Cuauhtémoc,Guillermo Pacheco,Match Report,,0.0,1.0,2,1389.25,1499.06,-59.809999999999945,1.465,2.778,4.243
+Clausura 2025 Regular Season,17.0,Sat,2025-04-19,17:00,América,5-0,Mazatlán,28252.0,Estadio de la Ciudad de los Deportes,Katia García,Match Report,,5.0,0.0,1,1589.84,1443.93,195.90999999999983,2.091,0.748,2.8390000000000004
+Clausura 2025 Regular Season,17.0,Sat,2025-04-19,19:05,Toluca,2-2,Cruz Azul,27263.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,,2.0,2.0,X,1603.3,1609.0,44.29999999999996,1.962,2.131,4.093
+Clausura 2025 Regular Season,17.0,Sat,2025-04-19,21:00,UANL,2-1,UNAM,38276.0,Estadio Universitario de Nuevo León,César Arturo Ramos,Match Report,,2.0,1.0,1,1569.51,1503.03,116.48000000000002,1.65,1.164,2.814
+Clausura 2025 Regular Season,17.0,Sat,2025-04-19,21:15,Atlas,1-1,Guadalajara,27504.0,Estadio Jalisco,Víctor Cáceres,Match Report,,1.0,1.0,X,1477.31,1485.75,41.559999999999945,1.337,2.047,3.3840000000000003
+Clausura 2025 Regular Season,17.0,Sun,2025-04-20,17:00,Santos Laguna,0-4,Tijuana,8585.0,Estadio Nuevo Corona,Marco Antonio Ortíz,Match Report,,0.0,4.0,2,1364.58,1489.63,-75.05000000000018,1.437,2.894,4.331
+Clausura 2025 Regular Season,17.0,Sun,2025-04-20,19:00,Atlético San Luis,2-1,Pachuca,10715.0,Estadio Alfonso Lastras Ramírez,Abraham Quirarte,Match Report,,2.0,1.0,1,1484.12,1497.61,36.50999999999999,2.088,2.241,4.329000000000001
+Clausura 2025 Regular Season,17.0,Sun,2025-04-20,19:05,León,0-2,Monterrey,26510.0,Estadio León,Adonai Escobedo,Match Report,,0.0,2.0,2,1524.13,1547.14,26.99000000000001,1.783,2.284,4.067
+Clausura 2025 Regular Season,17.0,Sun,2025-04-20,21:00,FC Juárez,0-2,Querétaro,6525.0,Estadio Olímpico Benito Juárez,Daniel Quintero,Match Report,,0.0,2.0,2,1494.39,1428.42,115.97000000000004,1.919,1.414,3.333
+Clausura — 9/10 match,,Sun,2025-04-27,17:00,FC Juárez, 1-1 ,UNAM,11074.0,Estadio Olímpico Benito Juárez,Víctor Cáceres,Match Report,UNAM won a penalty shoot-out following extra time,1.0,1.0,X,1481.17,1496.26,34.91000000000008,1.397,2.189,3.5860000000000003
+Clausura — 7-seed match,,Sun,2025-04-27,19:30,Monterrey,1-2,Pachuca,48353.0,Estadio BBVA Bancomer,Luis Enrique Santander,Match Report,,1.0,2.0,2,1557.92,1488.66,119.26,2.753,1.837,4.59
+Clausura — 8-seed match,,Sun,2025-05-04,19:30,Monterrey,2-0,UNAM,47715.0,Estadio BBVA Bancomer,Adonai Escobedo,Match Report,,2.0,0.0,1,1544.62,1497.26,97.3599999999999,2.214,1.677,3.891
+Clausura — Quarter-finals,,Wed,2025-05-07,19:00,Monterrey,3-2,Toluca,38647.0,Estadio BBVA Bancomer,Guillermo Pacheco,Match Report,Leg 1 of 2,3.0,2.0,1,1551.89,1602.03,-0.1399999999998726,2.083,2.769,4.852
+Clausura — Quarter-finals,,Wed,2025-05-07,21:10,Pachuca,0-0,América,13925.0,Estadio Hidalgo,Jesus Lopez,Match Report,Leg 1 of 2,0.0,0.0,X,1501.96,1594.73,-42.76999999999998,1.351,2.733,4.084
+Clausura — Quarter-finals,,Thu,2025-05-08,19:00,Necaxa,0-0,UANL,20641.0,Estadio Victoria de Aguascalientes,Oscar Mejía,Match Report,Leg 1 of 2,0.0,0.0,X,1507.36,1576.28,-18.920000000000076,1.464,2.202,3.666
+Clausura — Quarter-finals,,Thu,2025-05-08,21:10,León,2-3,Cruz Azul,13667.0,Estadio León,César Arturo Ramos,Match Report,Leg 1 of 2,2.0,3.0,2,1513.35,1610.27,-46.92000000000007,1.219,2.418,3.6370000000000005
+Clausura — Quarter-finals,,Sat,2025-05-10,19:00,Toluca,2-1,Monterrey,27273.0,Estadio Nemesio Díez,Fernando Hernández,Match Report,Leg 2 of 2; Toluca won,2.0,1.0,1,1592.03,1561.89,80.13999999999987,2.8,2.206,5.006
+Clausura — Quarter-finals,,Sat,2025-05-10,21:10,América,2-0,Pachuca,25417.0,Estadio de la Ciudad de los Deportes,Diana Pérez,Match Report,Leg 2 of 2; América won,2.0,0.0,1,1593.51,1503.18,140.32999999999993,2.594,1.282,3.876
+Clausura — Quarter-finals,,Sun,2025-05-11,19:00,Cruz Azul,2-1,León,20577.0,Estadio Olímpico de Universitario,Víctor Cáceres,Match Report,Leg 2 of 2; Cruz Azul won,2.0,1.0,1,1618.93,1504.69,164.24,2.548,1.274,3.822
+Clausura — Quarter-finals,,Sun,2025-05-11,21:10,UANL,2-2,Necaxa,39268.0,Estadio Universitario de Nuevo León,Marco Antonio Ortíz,Match Report,Leg 2 of 2; UANL won,2.0,2.0,X,1575.74,1507.9,117.83999999999992,2.081,1.384,3.465
+Clausura — Semi-finals,,Wed,2025-05-14,21:00,UANL,1-1,Toluca,41615.0,Estadio Universitario de Nuevo León,Adonai Escobedo,Match Report,Leg 1 of 2,1.0,1.0,X,1572.47,1599.76,22.71000000000004,1.625,1.954,3.5789999999999997
+Clausura — Semi-finals,,Thu,2025-05-15,20:00,Cruz Azul,1-0,América,34951.0,Estadio Olímpico de Universitario,Luis Enrique Santander,Match Report,Leg 1 of 2,1.0,0.0,1,1624.53,1599.68,74.84999999999991,1.679,1.679,3.358
+Clausura — Semi-finals,,Sat,2025-05-17,19:00,Toluca,3-0,UANL,27273.0,Estadio Nemesio Díez,Fernando Hernández,Match Report,Leg 2 of 2; Toluca won,3.0,0.0,1,1600.41,1571.82,78.59000000000015,1.933,1.607,3.54
+Clausura — Semi-finals,,Sun,2025-05-18,19:15,América,2-1,Cruz Azul,30872.0,Estadio de la Ciudad de los Deportes,Víctor Cáceres,Match Report,Leg 2 of 2; América won,2.0,1.0,1,1591.8,1632.41,9.389999999999873,1.601,1.665,3.266
+Clausura — Finals,,Thu,2025-05-22,20:00,América,0-0,Toluca,30406.0,Estadio de la Ciudad de los Deportes,Daniel Quintero,Match Report,Leg 1 of 2,0.0,0.0,X,1601.53,1608.19,43.33999999999992,2.037,1.933,3.9699999999999998
+Clausura — Finals,,Sun,2025-05-25,19:00,Toluca,2-0,América,27273.0,Estadio Nemesio Díez,César Arturo Ramos,Match Report,Leg 2 of 2; Toluca won,2.0,0.0,1,1609.43,1600.29,59.1400000000001,1.845,1.944,3.7889999999999997
+Apertura 2025 Regular Season,1.0,Fri,2025-07-11,19:00,Puebla,2-3,Atlas,11433.0,Estadio Cuauhtémoc,Charles Terrazas,Match Report,,2.0,3.0,2,1380.95,1476.12,-45.169999999999845,1.398,2.013,3.4109999999999996
+Apertura 2025 Regular Season,1.0,Fri,2025-07-11,20:05,Tijuana,1-0,Querétaro,18333.0,Estadio Caliente,Vicente Arce,Match Report,,1.0,0.0,1,1497.5,1441.64,105.8599999999999,2.597,1.509,4.106
+Apertura 2025 Regular Season,1.0,Fri,2025-07-11,21:00,FC Juárez,1-1,América,18098.0,Estadio Olímpico Benito Juárez,Ismael Lopez,Match Report,,1.0,1.0,X,1480.17,1591.98,-61.809999999999945,0.996,2.75,3.746
+Apertura 2025 Regular Season,1.0,Sat,2025-07-12,19:00,Santos Laguna,3-0,UNAM,11508.0,Estadio Nuevo Corona,Yonatan Peinado Aguirre,Match Report,,3.0,0.0,1,1356.71,1489.99,-83.27999999999997,1.003,2.452,3.455
+Apertura 2025 Regular Season,1.0,Sat,2025-07-12,19:00,Toluca,3-1,Necaxa,20273.0,Estadio Nemesio Díez,Fernando Hernández,Match Report,,3.0,1.0,1,1617.74,1511.17,156.56999999999994,3.355,1.803,5.1579999999999995
+Apertura 2025 Regular Season,1.0,Sat,2025-07-12,21:05,Cruz Azul,0-0,Mazatlán,20098.0,Estadio Olímpico de Universitario,Maximiliano Quintero,Match Report,,0.0,0.0,X,1622.68,1439.04,233.6400000000001,2.458,0.728,3.186
+Apertura 2025 Regular Season,1.0,Sun,2025-07-13,17:00,Pachuca,3-0,Monterrey,13915.0,Estadio Hidalgo,Víctor Cáceres,Match Report,,3.0,0.0,1,1497.01,1554.16,-7.150000000000091,1.786,2.669,4.455
+Apertura 2025 Regular Season,1.0,Sun,2025-07-13,19:00,León,0-1,Atlético San Luis,21957.0,Estadio León,Abraham Quirarte,Match Report,,0.0,1.0,2,1499.09,1493.07,56.01999999999998,2.035,1.898,3.933
+Apertura 2025 Regular Season,2.0,Wed,2025-07-16,19:00,América,3-1,Tijuana,30247.0,Estadio de la Ciudad de los Deportes,Marco Antonio Ortíz,Match Report,,3.0,1.0,1,1590.22,1504.54,135.68000000000006,2.743,1.424,4.167
+Apertura 2025 Regular Season,2.0,Wed,2025-07-16,21:05,Santos Laguna,2-4,Toluca,29101.0,Estadio Nuevo Corona,Salvador Pérez Villalobos,Match Report,,2.0,4.0,2,1369.06,1623.52,-204.46000000000004,0.957,4.035,4.992
+Apertura 2025 Regular Season,2.0,Fri,2025-07-18,19:00,Necaxa,3-1,Querétaro,19100.0,Estadio Victoria de Aguascalientes,Martín Molina,Match Report,,3.0,1.0,1,1505.39,1434.6,120.7900000000002,2.551,1.39,3.941
+Apertura 2025 Regular Season,2.0,Fri,2025-07-18,20:05,Mazatlán,2-1,Puebla,8703.0,Estadio El Encanto,Katia García,Match Report,,2.0,1.0,1,1444.91,1372.24,122.67000000000009,1.252,1.139,2.391
+Apertura 2025 Regular Season,2.0,Fri,2025-07-18,21:00,Atlético San Luis,0-1,Monterrey,16930.0,Estadio Alfonso Lastras Ramírez,Joaquín Vizcarra Armenta,Match Report,,0.0,1.0,2,1504.67,1543.95,10.720000000000027,1.846,2.611,4.457000000000001
+Apertura 2025 Regular Season,2.0,Sat,2025-07-19,19:00,UANL,1-0,FC Juárez,41615.0,Estadio Universitario de Nuevo León,Iván López,Match Report,,1.0,0.0,1,1564.04,1481.93,132.1099999999999,2.131,1.056,3.187
+Apertura 2025 Regular Season,2.0,Sat,2025-07-19,19:00,León,1-0,Guadalajara,22185.0,Estadio León,Adonai Escobedo,Match Report,,1.0,0.0,1,1487.49,1486.94,50.54999999999996,1.408,1.66,3.0679999999999996
+Apertura 2025 Regular Season,2.0,Sat,2025-07-19,21:05,Atlas,3-3,Cruz Azul,25098.0,Estadio Jalisco,Luis Enrique Santander,Match Report,,3.0,3.0,X,1484.83,1616.81,-81.98000000000002,1.182,2.991,4.173
+Apertura 2025 Regular Season,2.0,Sun,2025-07-20,12:00,UNAM,2-3,Pachuca,24277.0,Estadio Olímpico de Universitario,Luis García,Match Report,,2.0,3.0,2,1477.64,1507.22,20.420000000000076,1.781,1.858,3.6390000000000002
+Apertura 2025 Regular Season,3.0,Fri,2025-07-25,19:00,Puebla,1-0,Santos Laguna,13250.0,Estadio Cuauhtémoc,Jorge Camacho,Match Report,,1.0,0.0,1,1365.63,1364.35,51.2800000000002,1.728,1.506,3.234
+Apertura 2025 Regular Season,3.0,Fri,2025-07-25,19:00,Querétaro,0-2,UNAM,23432.0,Estadio La Corregidora,Charles Terrazas,Match Report,,0.0,2.0,2,1427.94,1467.05,10.8900000000001,1.163,2.049,3.2119999999999997
+Apertura 2025 Regular Season,3.0,Fri,2025-07-25,20:00,Tijuana,1-1,FC Juárez,18133.0,Estadio Caliente,Joaquín Vizcarra Armenta,Match Report,,1.0,1.0,X,1498.26,1475.56,72.70000000000005,2.554,1.838,4.3919999999999995
+Apertura 2025 Regular Season,3.0,Sat,2025-07-26,17:00,Pachuca,1-0,Mazatlán,11747.0,Estadio Hidalgo,Karen Hernández,Match Report,,1.0,0.0,1,1517.81,1451.52,116.28999999999996,1.868,1.137,3.005
+Apertura 2025 Regular Season,3.0,Sat,2025-07-26,17:07,Guadalajara,4-3,Atlético San Luis,38832.0,Estadio Akron,César Arturo Ramos,Match Report,,4.0,3.0,1,1478.38,1494.36,34.02000000000021,1.762,1.462,3.224
+Apertura 2025 Regular Season,3.0,Sat,2025-07-26,19:00,Monterrey,3-1,Atlas,41160.0,Estadio BBVA,Fernando Hernández,Match Report,,3.0,1.0,1,1554.26,1487.15,117.1099999999999,2.929,1.716,4.645
+Apertura 2025 Regular Season,3.0,Sat,2025-07-26,19:00,Cruz Azul,4-1,León,20094.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,4.0,1.0,1,1614.49,1496.05,168.44000000000003,2.422,1.26,3.6820000000000004
+Apertura 2025 Regular Season,3.0,Sat,2025-07-26,19:00,Toluca,3-4,UANL,27273.0,Estadio Nemesio Díez,Marco Antonio Ortíz,Match Report,,3.0,4.0,2,1628.23,1570.41,107.81999999999994,2.022,1.469,3.4909999999999997
+Apertura 2025 Regular Season,3.0,Sat,2025-07-26,21:05,Necaxa,1-1,América,20586.0,Estadio Victoria de Aguascalientes,Jesús López,Match Report,,1.0,1.0,X,1512.05,1596.5,-34.450000000000045,1.465,2.686,4.151
+Apertura 2025 Regular Season,4.0,Fri,2025-08-08,21:00,UANL,7-0,Puebla,10023.0,Estadio Universitario de Nuevo León,Yonatan Peinado Aguirre,Match Report,,7.0,0.0,1,1583.42,1374.16,259.26,2.237,0.871,3.108
+Apertura 2025 Regular Season,4.0,Sat,2025-08-09,19:00,América,1-0,Querétaro,23701.0,Estadio de la Ciudad de los Deportes,Adonai Escobedo,Match Report,,1.0,0.0,1,1595.51,1417.63,227.87999999999988,2.737,0.754,3.491
+Apertura 2025 Regular Season,4.0,Sat,2025-08-09,20:00,Mazatlán,2-2,Tijuana,9747.0,Estadio El Encanto,Maximiliano Quintero,Match Report,,2.0,2.0,X,1444.75,1496.2,-1.4500000000000457,1.274,1.983,3.257
+Apertura 2025 Regular Season,4.0,Sat,2025-08-09,21:05,Atlas,0-3,Pachuca,16773.0,Estadio Jalisco,Daniel Quintero,Match Report,,0.0,3.0,2,1480.4,1524.58,5.820000000000164,1.863,2.491,4.354
+Apertura 2025 Regular Season,4.0,Sun,2025-08-10,18:00,UNAM,1-1,Necaxa,34108.0,Estadio Olímpico de Universitario,Guillermo Pacheco,Match Report,,1.0,1.0,X,1477.36,1513.04,14.319999999999936,2.016,2.128,4.144
+Apertura 2025 Regular Season,4.0,Sun,2025-08-10,20:05,Santos Laguna,1-0,Guadalajara,16155.0,Estadio Nuevo Corona,Ismael López,Match Report,,1.0,0.0,1,1355.82,1487.4,-81.58000000000015,0.982,2.438,3.42
+Apertura 2025 Regular Season,4.0,Mon,2025-08-11,19:00,León,1-3,Monterrey,23057.0,Estadio León,Luis Enrique Santander,Match Report,,1.0,3.0,2,1490.55,1561.01,-20.46000000000004,1.664,2.445,4.109
+Apertura 2025 Regular Season,4.0,Mon,2025-08-11,21:00,FC Juárez,0-2,Toluca,7793.0,Estadio Olímpico Benito Juárez,Katia García,Match Report,,0.0,2.0,2,1477.62,1615.22,-87.60000000000014,1.295,3.532,4.827
+Apertura 2025 Regular Season,4.0,Mon,2025-08-11,21:05,Atlético San Luis,1-2,Cruz Azul,19335.0,Estadio Alfonso Lastras Ramírez,Vicente Arce,Match Report,,1.0,2.0,2,1485.34,1619.99,-84.65000000000009,1.359,2.902,4.261
+Apertura 2025 Regular Season,5.0,Fri,2025-08-15,19:00,Puebla,0-2,Atlético San Luis,10978.0,Estadio Cuauhtémoc,Luis García,Match Report,,0.0,2.0,2,1370.49,1477.73,-57.24000000000001,1.344,2.471,3.8150000000000004
+Apertura 2025 Regular Season,5.0,Fri,2025-08-15,21:05,Necaxa,0-1,León,19588.0,Estadio Victoria de Aguascalientes,Oscar Mejía,Match Report,,0.0,1.0,2,1513.45,1481.14,82.30999999999995,2.28,2.008,4.288
+Apertura 2025 Regular Season,5.0,Sat,2025-08-16,17:07,Guadalajara,1-2,FC Juárez,33176.0,Estadio Akron,Marco Antonio Ortíz,Match Report,,1.0,2.0,2,1475.09,1470.09,55.0,1.998,1.19,3.1879999999999997
+Apertura 2025 Regular Season,5.0,Sat,2025-08-16,19:00,Cruz Azul,3-2,Santos Laguna,14101.0,Estadio Olímpico de Universitario,Fernando Hernández,Match Report,,3.0,2.0,1,1627.6,1368.13,309.4699999999998,3.534,0.85,4.3839999999999995
+Apertura 2025 Regular Season,5.0,Sat,2025-08-16,19:00,Pachuca,0-2,Tijuana,11798.0,Estadio Hidalgo,Salvador Pérez Villalobos,Match Report,,0.0,2.0,2,1534.75,1496.16,88.58999999999992,2.515,2.185,4.7
+Apertura 2025 Regular Season,5.0,Sat,2025-08-16,19:00,UANL,1-3,América,41615.0,Estadio Universitario de Nuevo León,César Arturo Ramos,Match Report,,1.0,3.0,2,1587.09,1599.75,37.33999999999992,1.313,1.57,2.883
+Apertura 2025 Regular Season,5.0,Sat,2025-08-16,21:10,Toluca,1-1,UNAM,27273.0,Estadio Nemesio Díez,Víctor Cáceres,Match Report,,1.0,1.0,X,1622.75,1476.95,195.79999999999995,2.875,1.481,4.356
+Apertura 2025 Regular Season,5.0,Sun,2025-08-17,16:00,Querétaro,3-3,Atlas,9261.0,Estadio La Corregidora,Abraham Quirarte,Match Report,,3.0,3.0,X,1413.39,1470.23,-6.839999999999918,1.428,2.08,3.508
+Apertura 2025 Regular Season,5.0,Sun,2025-08-17,18:00,Monterrey,3-2,Mazatlán,45894.0,Estadio BBVA,Martín Molina,Match Report,,3.0,2.0,1,1570.42,1444.79,175.6300000000001,2.31,1.02,3.33
+Apertura 2025 Regular Season,6.0,Fri,2025-08-22,19:00,Querétaro,3-2,Atlético San Luis,8159.0,Estadio La Corregidora,Oscar Mejía,Match Report,,3.0,2.0,1,1413.59,1486.1,-22.50999999999999,1.318,2.326,3.644
+Apertura 2025 Regular Season,6.0,Fri,2025-08-22,19:00,FC Juárez,2-1,Santos Laguna,7518.0,Estadio Olímpico Benito Juárez,Jorge Camacho,Match Report,,2.0,1.0,1,1481.66,1365.25,166.41000000000008,2.04,1.436,3.476
+Apertura 2025 Regular Season,6.0,Fri,2025-08-22,20:00,Tijuana,3-3,Guadalajara,28553.0,Estadio Caliente,Katia García,Match Report,,3.0,3.0,X,1508.66,1463.52,95.1400000000001,1.825,2.032,3.857
+Apertura 2025 Regular Season,6.0,Sat,2025-08-23,17:00,León,1-1,Pachuca,20655.0,Estadio León,Jesús López,Match Report,,1.0,1.0,X,1493.47,1522.25,21.220000000000027,1.782,2.019,3.801
+Apertura 2025 Regular Season,6.0,Sat,2025-08-23,18:00,Mazatlán,2-2,UANL,13656.0,Estadio El Encanto,Joaquín Vizcarra Armenta,Match Report,,2.0,2.0,X,1439.45,1576.02,-86.56999999999994,0.821,1.97,2.791
+Apertura 2025 Regular Season,6.0,Sat,2025-08-23,19:00,Monterrey,3-0,Necaxa,45032.0,Estadio BBVA,Yonatan Peinado Aguirre,Match Report,,3.0,0.0,1,1575.76,1501.12,124.6400000000001,2.835,2.039,4.8740000000000006
+Apertura 2025 Regular Season,6.0,Sat,2025-08-23,21:05,Cruz Azul,1-0,Toluca,22867.0,Estadio Olímpico de Universitario,César Arturo Ramos,Match Report,,1.0,0.0,1,1630.48,1617.64,62.83999999999992,2.241,2.17,4.411
+Apertura 2025 Regular Season,6.0,Sun,2025-08-24,17:00,UNAM,0-0,Puebla,18450.0,Estadio Olímpico de Universitario,Iván López,Match Report,,0.0,0.0,X,1482.06,1362.12,169.94000000000003,2.254,1.102,3.356
+Apertura 2025 Regular Season,6.0,Sun,2025-08-24,19:05,Atlas,2-4,América,35588.0,Estadio Jalisco,Marco Antonio Ortíz,Match Report,,2.0,4.0,2,1470.03,1610.82,-90.78999999999996,1.165,2.979,4.144
+Apertura 2025 Regular Season,7.0,Fri,2025-08-29,19:00,FC Juárez,1-0,Mazatlán,6822.0,Estadio Olímpico Benito Juárez,Luis Enrique Santander,Match Report,,1.0,0.0,1,1487.21,1441.89,95.31999999999994,1.482,1.348,2.83
+Apertura 2025 Regular Season,7.0,Fri,2025-08-29,19:00,Atlético San Luis,1-3,Toluca,15150.0,Estadio Alfonso Lastras Ramírez,Jorge Camacho,Match Report,,1.0,3.0,2,1475.45,1609.43,-83.98000000000002,1.644,3.284,4.928
+Apertura 2025 Regular Season,7.0,Fri,2025-08-29,21:05,Puebla,2-4,Monterrey,21945.0,Estadio Cuauhtémoc,Jesús López,Match Report,,2.0,4.0,2,1366.66,1582.32,-165.65999999999983,1.056,3.22,4.276
+Apertura 2025 Regular Season,7.0,Sat,2025-08-30,17:00,León,3-0,Querétaro,21351.0,Estadio León,Yonatan Peinado Aguirre,Match Report,,3.0,0.0,1,1492.86,1424.24,118.61999999999988,2.114,1.277,3.391
+Apertura 2025 Regular Season,7.0,Sat,2025-08-30,19:00,Santos Laguna,0-1,UANL,15457.0,Estadio Nuevo Corona,Marco Antonio Ortíz,Match Report,,0.0,1.0,2,1359.7,1573.58,-163.87999999999988,0.92,2.829,3.749
+Apertura 2025 Regular Season,7.0,Sat,2025-08-30,19:07,Guadalajara,1-2,Cruz Azul,40170.0,Estadio Akron,Víctor Cáceres,Match Report,,1.0,2.0,2,1466.19,1638.69,-122.5,1.248,2.275,3.5229999999999997
+Apertura 2025 Regular Season,7.0,Sat,2025-08-30,21:05,América,2-0,Pachuca,,Estadio de la Ciudad de los Deportes,Ismael López,Match Report,,2.0,0.0,1,1618.26,1522.86,145.4000000000001,2.396,1.306,3.702
+Apertura 2025 Regular Season,7.0,Sun,2025-08-31,16:00,UNAM,1-0,Atlas,17195.0,Estadio Olímpico de Universitario,Martín Molina,Match Report,,1.0,0.0,1,1477.52,1462.59,64.93000000000006,2.25,1.697,3.947
+Apertura 2025 Regular Season,7.0,Sun,2025-08-31,20:00,Tijuana,3-0,Necaxa,17233.0,Estadio Caliente,César Arturo Ramos,Match Report,,3.0,0.0,1,1505.99,1494.56,61.430000000000064,2.574,2.563,5.1370000000000005
+Apertura 2025 Regular Season,8.0,Fri,2025-09-12,19:00,Necaxa,1-1,FC Juárez,10987.0,Estadio Victoria de Aguascalientes,Maximiliano Quintero,Match Report,,1.0,1.0,X,1486.31,1494.53,41.77999999999997,2.303,1.783,4.086
+Apertura 2025 Regular Season,8.0,Fri,2025-09-12,20:00,Mazatlán,1-4,UNAM,10606.0,Estadio El Encanto,Adonai Escobedo,Match Report,,1.0,4.0,2,1434.57,1485.67,-1.1000000000001364,1.032,1.64,2.6719999999999997
+Apertura 2025 Regular Season,8.0,Sat,2025-09-13,17:00,Pachuca,0-1,Cruz Azul,19479.0,Estadio Hidalgo,Joaquín Vizcarra Armenta,Match Report,,0.0,1.0,2,1516.82,1645.3,-78.48000000000002,1.38,2.674,4.054
+Apertura 2025 Regular Season,8.0,Sat,2025-09-13,19:00,Atlas,2-2,Santos Laguna,13982.0,Estadio Jalisco,Guillermo Pacheco,Match Report,,2.0,2.0,X,1454.44,1354.1,150.34000000000017,2.446,1.593,4.039
+Apertura 2025 Regular Season,8.0,Sat,2025-09-13,19:00,UANL,0-0,León,40186.0,Estadio Universitario de Nuevo León,Daniel Quintero,Match Report,,0.0,0.0,X,1579.18,1499.57,129.61000000000013,1.994,1.302,3.2960000000000003
+Apertura 2025 Regular Season,8.0,Sat,2025-09-13,21:00,Toluca,3-1,Puebla,26589.0,Estadio Nemesio Díez,Karen Hernández,Match Report,,3.0,1.0,1,1617.06,1361.1,305.96000000000004,3.868,0.993,4.861
+Apertura 2025 Regular Season,8.0,Sat,2025-09-13,21:15,América,1-2,Guadalajara,30247.0,Estadio de la Ciudad de los Deportes,Oscar Mejía,Match Report,,1.0,2.0,2,1624.3,1459.58,214.72000000000003,2.1,1.127,3.2270000000000003
+Apertura 2025 Regular Season,8.0,Sun,2025-09-14,17:00,Querétaro,0-1,Monterrey,15673.0,Estadio La Corregidora,Katia García,Match Report,,0.0,1.0,2,1417.53,1587.88,-120.35000000000014,1.168,3.214,4.382
+Apertura 2025 Regular Season,8.0,Sun,2025-09-14,19:00,Atlético San Luis,1-1,Tijuana,13178.0,Estadio Alfonso Lastras Ramírez,Charles Terrazas,Match Report,,1.0,1.0,X,1467.82,1514.24,3.5799999999999272,2.302,2.595,4.897
+Apertura 2025 Regular Season,1.0,Wed,2025-09-17,19:07,Guadalajara,0-0,UANL,29297.0,Estadio Akron,César Arturo Ramos,Match Report,,0.0,0.0,X,1475.08,1575.61,-50.52999999999997,1.258,1.757,3.0149999999999997
+Apertura 2025 Regular Season,9.0,Fri,2025-09-19,19:00,Necaxa,1-0,Puebla,11490.0,Estadio Victoria de Aguascalientes,Jorge Camacho,Match Report,,1.0,0.0,1,1485.11,1358.17,176.93999999999983,2.708,1.383,4.091
+Apertura 2025 Regular Season,9.0,Fri,2025-09-19,19:00,Cruz Azul,3-2,FC Juárez,15815.0,Estadio Olímpico de Universitario,Ismael López,Match Report,,3.0,2.0,1,1653.08,1495.73,207.3499999999999,2.886,1.049,3.935
+Apertura 2025 Regular Season,9.0,Fri,2025-09-19,20:00,Mazatlán,1-1,Atlas,9962.0,Estadio El Encanto,Luis García,Match Report,,1.0,1.0,X,1424.6,1450.36,24.24000000000001,1.515,1.852,3.367
+Apertura 2025 Regular Season,9.0,Fri,2025-09-19,20:05,Tijuana,5-0,León,18333.0,Estadio Caliente,Vicente Arce,Match Report,,5.0,0.0,1,1514.34,1503.14,61.19999999999982,2.149,2.075,4.224
+Apertura 2025 Regular Season,9.0,Sat,2025-09-20,17:00,Pachuca,0-2,Querétaro,6942.0,Estadio Hidalgo,Fernando Hernández,Match Report,,0.0,2.0,2,1509.04,1410.86,148.18000000000006,2.329,1.233,3.5620000000000003
+Apertura 2025 Regular Season,9.0,Sat,2025-09-20,19:00,UNAM,1-1,UANL,25935.0,Estadio Olímpico de Universitario,Oscar Mejía,Match Report,,1.0,1.0,X,1495.64,1574.17,-28.529999999999973,1.229,1.755,2.984
+Apertura 2025 Regular Season,9.0,Sat,2025-09-20,19:07,Guadalajara,0-3,Toluca,37731.0,Estadio Akron,Marco Antonio Ortíz,Match Report,,0.0,3.0,2,1476.52,1619.99,-93.47000000000004,1.457,2.562,4.019
+Apertura 2025 Regular Season,9.0,Sat,2025-09-20,21:05,Monterrey,2-2,América,50910.0,Estadio BBVA,Víctor Cáceres,Match Report,,2.0,2.0,X,1594.55,1608.8,35.75,1.696,2.169,3.865
+Apertura 2025 Regular Season,9.0,Sun,2025-09-21,17:00,Santos Laguna,1-4,Atlético San Luis,9032.0,Estadio Nuevo Corona,Abraham Quirarte,Match Report,,1.0,4.0,2,1358.18,1467.72,-59.53999999999997,1.416,2.617,4.0329999999999995
+Apertura 2025 Regular Season,10.0,Tue,2025-09-23,19:00,Puebla,2-2,Pachuca,9939.0,Estadio Cuauhtémoc,Yonatan Peinado Aguirre,Match Report,,2.0,2.0,X,1352.86,1495.02,-92.16000000000008,1.183,2.445,3.628
+Apertura 2025 Regular Season,10.0,Tue,2025-09-23,19:07,Guadalajara,3-1,Necaxa,25130.0,Estadio Akron,Maximiliano Quintero,Match Report,,3.0,1.0,1,1469.15,1490.42,28.730000000000015,1.936,1.8,3.7359999999999998
+Apertura 2025 Regular Season,10.0,Tue,2025-09-23,21:00,FC Juárez,3-1,UNAM,10090.0,Estadio Olímpico Benito Juárez,Salvador Pérez Villalobos,Match Report,,3.0,1.0,1,1491.08,1496.46,44.61999999999989,1.374,2.002,3.376
+Apertura 2025 Regular Season,10.0,Tue,2025-09-23,21:05,León,2-2,Mazatlán,24335.0,Estadio León,Martín Molina,Match Report,,2.0,2.0,X,1494.88,1423.9,120.98000000000002,1.736,1.172,2.908
+Apertura 2025 Regular Season,10.0,Wed,2025-09-24,18:00,Cruz Azul,2-2,Querétaro,16783.0,Estadio Olímpico de Universitario,Karen Hernández,Match Report,,2.0,2.0,X,1657.73,1424.88,282.8499999999999,3.14,0.889,4.029
+Apertura 2025 Regular Season,10.0,Wed,2025-09-24,19:00,UANL,2-0,Atlas,36168.0,Estadio Universitario de Nuevo León,Vicente Arce,Match Report,,2.0,0.0,1,1573.35,1451.06,172.28999999999996,2.535,1.258,3.793
+Apertura 2025 Regular Season,10.0,Wed,2025-09-24,20:00,Toluca,6-2,Monterrey,25772.0,Estadio Nemesio Díez,César Arturo Ramos,Match Report,,6.0,2.0,1,1627.36,1593.52,83.83999999999992,2.792,2.124,4.916
+Apertura 2025 Regular Season,10.0,Wed,2025-09-24,21:00,Santos Laguna,1-0,Tijuana,7154.0,Estadio Nuevo Corona,Iván López,Match Report,,1.0,0.0,1,1349.88,1522.6,-122.7199999999998,1.447,3.286,4.7330000000000005
+Apertura 2025 Regular Season,10.0,Wed,2025-09-24,21:00,Atlético San Luis,0-1,América,22841.0,Estadio Alfonso Lastras Ramírez,Fernando Hernández,Match Report,,0.0,1.0,2,1476.02,1609.83,-83.80999999999995,1.343,2.663,4.006
+Apertura 2025 Regular Season,11.0,Fri,2025-09-26,19:00,FC Juárez,2-0,León,7008.0,Estadio Olímpico Benito Juárez,Charles Terrazas,Match Report,,2.0,0.0,1,1499.8,1491.53,58.26999999999998,1.633,1.961,3.5940000000000003
+Apertura 2025 Regular Season,11.0,Sat,2025-09-27,17:00,Pachuca,2-1,Atlético San Luis,10450.0,Estadio Hidalgo,Marco Antonio Ortíz,Match Report,,2.0,1.0,1,1492.43,1468.39,74.03999999999996,2.099,2.02,4.119
+Apertura 2025 Regular Season,11.0,Sat,2025-09-27,17:00,Puebla,0-2,Guadalajara,22177.0,Estadio Cuauhtémoc,Ismael López,Match Report,,0.0,2.0,2,1355.45,1478.32,-72.86999999999989,1.056,2.303,3.359
+Apertura 2025 Regular Season,11.0,Sat,2025-09-27,17:00,Atlas,3-2,Necaxa,13567.0,Estadio Jalisco,Víctor Cáceres,Match Report,,3.0,2.0,1,1445.65,1481.25,14.400000000000093,2.063,2.628,4.691000000000001
+Apertura 2025 Regular Season,11.0,Sat,2025-09-27,19:00,Toluca,3-1,Mazatlán,22273.0,Estadio Nemesio Díez,Abraham Quirarte,Match Report,,3.0,1.0,1,1634.99,1427.25,257.74,3.17,0.997,4.167
+Apertura 2025 Regular Season,11.0,Sat,2025-09-27,19:00,Monterrey,1-0,Santos Laguna,46290.0,Estadio BBVA,Luis Enrique Santander,Match Report,,1.0,0.0,1,1585.89,1363.27,272.6200000000001,3.528,1.246,4.774
+Apertura 2025 Regular Season,11.0,Sat,2025-09-27,21:05,América,4-1,UNAM,26387.0,Estadio de la Ciudad de los Deportes,César Arturo Ramos,Match Report,,4.0,1.0,1,1617.46,1487.74,179.72000000000003,2.163,1.159,3.322
+Apertura 2025 Regular Season,11.0,Sun,2025-09-28,17:00,Querétaro,0-2,UANL,17710.0,Estadio La Corregidora,Guillermo Pacheco,Match Report,,0.0,2.0,2,1431.6,1578.76,-97.16000000000008,0.876,2.356,3.2319999999999998
+Apertura 2025 Regular Season,11.0,Sun,2025-09-28,20:05,Tijuana,2-0,Cruz Azul,29333.0,Estadio Caliente,Jorge Camacho,Match Report,,2.0,0.0,1,1509.21,1651.01,-91.79999999999995,1.667,3.014,4.681
+Apertura 2025 Regular Season,12.0,Fri,2025-10-03,19:00,Necaxa,0-1,Pachuca,12777.0,Estadio Victoria de Aguascalientes,Guillermo Pacheco,Match Report,,0.0,1.0,2,1471.66,1500.33,21.330000000000155,2.08,2.253,4.333
+Apertura 2025 Regular Season,12.0,Fri,2025-10-03,20:00,Mazatlán,2-1,Atlético San Luis,7993.0,Estadio El Encanto,Iván López,Match Report,,2.0,1.0,1,1423.55,1460.49,13.059999999999944,1.344,2.034,3.378
+Apertura 2025 Regular Season,12.0,Fri,2025-10-03,21:05,Atlas,3-1,FC Juárez,13504.0,Estadio Jalisco,Yonatan Peinado Aguirre,Match Report,,3.0,1.0,1,1455.24,1508.14,-2.900000000000091,2.007,2.123,4.130000000000001
+Apertura 2025 Regular Season,12.0,Sat,2025-10-04,17:00,Querétaro,3-1,Puebla,7763.0,Estadio La Corregidora,Vicente Arce,Match Report,,3.0,1.0,1,1424.33,1347.52,126.80999999999996,1.66,1.407,3.067
+Apertura 2025 Regular Season,12.0,Sat,2025-10-04,19:00,UANL,1-1,Cruz Azul,41615.0,Estadio Universitario de Nuevo León,Ismael López,Match Report,,1.0,1.0,X,1586.03,1638.43,-2.400000000000091,1.458,1.721,3.1790000000000003
+Apertura 2025 Regular Season,12.0,Sat,2025-10-04,19:00,León,2-4,Toluca,25795.0,Estadio León,Jesús López,Match Report,,2.0,4.0,2,1483.19,1638.69,-105.5,1.42,3.228,4.648
+Apertura 2025 Regular Season,12.0,Sat,2025-10-04,21:05,América,3-0,Santos Laguna,21870.0,Estadio de la Ciudad de los Deportes,Maximiliano Quintero,Match Report,,3.0,0.0,1,1622.7,1359.82,312.8800000000001,3.251,0.812,4.063
+Apertura 2025 Regular Season,12.0,Sun,2025-10-05,19:35,UNAM,1-2,Guadalajara,41350.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,1.0,2.0,2,1482.5,1486.25,46.25,1.513,1.701,3.214
+Apertura 2025 Regular Season,12.0,Sun,2025-10-05,20:05,Tijuana,2-2,Monterrey,22333.0,Estadio Caliente,Adonai Escobedo,Match Report,,2.0,2.0,X,1521.79,1589.34,-17.549999999999955,2.252,2.876,5.128
+Apertura 2025 Regular Season,13.0,Fri,2025-10-17,19:00,Puebla,4-3,Tijuana,6955.0,Estadio Cuauhtémoc,Marco Antonio Ortíz,Match Report,,4.0,3.0,1,1341.02,1522.29,-131.26999999999998,1.323,3.104,4.427
+Apertura 2025 Regular Season,13.0,Fri,2025-10-17,21:00,Atlético San Luis,2-0,Atlas,13534.0,Estadio Alfonso Lastras Ramírez,Joaquín Vizcarra Armenta,Match Report,,2.0,0.0,1,1450.87,1465.32,35.549999999999955,2.508,2.113,4.621
+Apertura 2025 Regular Season,13.0,Fri,2025-10-17,21:00,UANL,5-3,Necaxa,41615.0,Estadio Universitario de Nuevo León,Adonai Escobedo,Match Report,,5.0,3.0,1,1586.1,1461.05,175.04999999999995,2.312,1.327,3.639
+Apertura 2025 Regular Season,13.0,Sat,2025-10-18,17:00,FC Juárez,2-2,Pachuca,6053.0,Estadio Olímpico Benito Juárez,César Arturo Ramos,Match Report,,2.0,2.0,X,1498.06,1510.94,37.11999999999989,1.624,2.124,3.748
+Apertura 2025 Regular Season,13.0,Sat,2025-10-18,17:00,Toluca,4-0,Querétaro,27273.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,,4.0,0.0,1,1645.74,1430.83,264.9100000000001,3.794,1.116,4.91
+Apertura 2025 Regular Season,13.0,Sat,2025-10-18,17:00,Santos Laguna,2-0,León,8217.0,Estadio Nuevo Corona,Daniel Quintero,Match Report,,2.0,0.0,1,1356.99,1476.14,-69.15000000000009,1.286,2.364,3.65
+Apertura 2025 Regular Season,13.0,Sat,2025-10-18,19:00,Monterrey,1-1,UNAM,47706.0,Estadio BBVA,Víctor Cáceres,Match Report,,1.0,1.0,X,1588.84,1471.18,167.65999999999983,2.489,1.71,4.199
+Apertura 2025 Regular Season,13.0,Sat,2025-10-18,19:07,Guadalajara,2-0,Mazatlán,34478.0,Estadio Akron,Fernando Hernández,Match Report,,2.0,0.0,1,1497.57,1433.17,114.39999999999986,1.862,1.062,2.9240000000000004
+Apertura 2025 Regular Season,13.0,Sat,2025-10-18,21:05,Cruz Azul,2-1,América,40237.0,Estadio Olímpico de Universitario,Jesús López,Match Report,,2.0,1.0,1,1638.36,1625.53,62.82999999999993,1.664,1.795,3.4589999999999996
+Apertura 2025 Regular Season,14.0,Tue,2025-10-21,19:00,Necaxa,1-1,Cruz Azul,17523.0,Estadio Victoria de Aguascalientes,Vicente Arce,Match Report,,1.0,1.0,X,1455.7,1646.57,-140.8699999999999,1.496,3.141,4.6370000000000005
+Apertura 2025 Regular Season,14.0,Tue,2025-10-21,19:00,América,2-1,Puebla,18130.0,Estadio de la Ciudad de los Deportes,Martín Molina,Match Report,,2.0,1.0,1,1617.32,1354.63,312.6899999999998,3.277,0.839,4.116
+Apertura 2025 Regular Season,14.0,Tue,2025-10-21,20:00,Mazatlán,2-2,Santos Laguna,6528.0,Estadio El Encanto,Karen Hernández,Match Report,,2.0,2.0,X,1426.35,1368.95,107.39999999999986,1.615,1.293,2.908
+Apertura 2025 Regular Season,14.0,Tue,2025-10-21,21:05,Monterrey,4-2,FC Juárez,38734.0,Estadio BBVA,Iván López,Match Report,,4.0,2.0,1,1584.36,1497.0,137.3599999999999,2.878,1.604,4.482
+Apertura 2025 Regular Season,14.0,Wed,2025-10-22,19:00,Querétaro,1-0,Guadalajara,27712.0,Estadio La Corregidora,Maximiliano Quintero,Match Report,,1.0,0.0,1,1427.26,1504.39,-27.13000000000011,1.092,2.234,3.326
+Apertura 2025 Regular Season,14.0,Wed,2025-10-22,19:00,Pachuca,1-2,UANL,10485.0,Estadio Hidalgo,Abraham Quirarte,Match Report,,1.0,2.0,2,1512.0,1591.45,-29.450000000000045,1.328,2.087,3.415
+Apertura 2025 Regular Season,14.0,Wed,2025-10-22,20:00,Tijuana,0-0,Toluca,23333.0,Estadio Caliente,Oscar Mejía,Match Report,,0.0,0.0,X,1508.68,1649.31,-90.62999999999988,1.954,3.742,5.696
+Apertura 2025 Regular Season,14.0,Wed,2025-10-22,21:00,Atlas,2-0,León,16256.0,Estadio Jalisco,Ismael López,Match Report,,2.0,0.0,1,1456.34,1464.18,42.159999999999854,1.976,2.199,4.175
+Apertura 2025 Regular Season,14.0,Wed,2025-10-22,21:05,UNAM,0-1,Atlético San Luis,10235.0,Estadio Olímpico de Universitario,Luis García,Match Report,,0.0,1.0,2,1475.66,1459.85,65.81000000000017,1.919,1.882,3.801
+Apertura 2025 Regular Season,15.0,Fri,2025-10-24,19:00,FC Juárez,4-4,Puebla,7006.0,Estadio Olímpico Benito Juárez,Fernando Hernández,Match Report,,4.0,4.0,X,1490.76,1351.79,188.97000000000003,2.258,1.478,3.7359999999999998
+Apertura 2025 Regular Season,15.0,Fri,2025-10-24,20:00,Mazatlán,2-2,América,18660.0,Estadio El Encanto,Guillermo Pacheco,Match Report,,2.0,2.0,X,1423.35,1620.16,-146.81000000000017,0.822,2.558,3.38
+Apertura 2025 Regular Season,15.0,Sat,2025-10-25,17:00,UANL,2-0,Tijuana,41615.0,Estadio Universitario de Nuevo León,Jorge Camacho,Match Report,,2.0,0.0,1,1600.6,1511.23,139.3699999999999,2.365,1.611,3.976
+Apertura 2025 Regular Season,15.0,Sat,2025-10-25,19:00,León,1-1,UNAM,21151.0,Estadio León,Adonai Escobedo,Match Report,,1.0,1.0,X,1455.39,1463.79,41.600000000000136,1.592,1.846,3.438
+Apertura 2025 Regular Season,15.0,Sat,2025-10-25,19:07,Guadalajara,4-1,Atlas,40699.0,Estadio Akron,Marco Antonio Ortíz,Match Report,,4.0,1.0,1,1493.61,1465.13,78.47999999999979,2.263,1.559,3.822
+Apertura 2025 Regular Season,15.0,Sat,2025-10-25,21:05,Cruz Azul,2-0,Monterrey,18406.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,2.0,0.0,1,1642.72,1590.6,102.12000000000012,2.505,1.913,4.418
+Apertura 2025 Regular Season,15.0,Sun,2025-10-26,17:00,Santos Laguna,3-1,Querétaro,8563.0,Estadio Nuevo Corona,Katia García,Match Report,,3.0,1.0,1,1371.95,1438.04,-16.089999999999918,1.528,1.738,3.266
+Apertura 2025 Regular Season,15.0,Sun,2025-10-26,19:00,Atlético San Luis,3-4,Necaxa,12494.0,Estadio Alfonso Lastras Ramírez,Luis Enrique Santander,Match Report,,3.0,4.0,2,1471.72,1459.55,62.17000000000007,2.358,2.19,4.548
+Apertura 2025 Regular Season,15.0,Sun,2025-10-26,19:00,Toluca,2-2,Pachuca,24000.0,Estadio Nemesio Díez,Jesús López,Match Report,,2.0,2.0,X,1646.76,1502.85,193.91000000000008,3.227,1.544,4.771
+Apertura 2025 Regular Season,16.0,Fri,2025-10-31,19:00,Necaxa,4-1,Santos Laguna,14747.0,Estadio Victoria de Aguascalientes,Jesús López,Match Report,,4.0,1.0,1,1471.32,1382.41,138.90999999999983,2.773,1.636,4.409
+Apertura 2025 Regular Season,16.0,Fri,2025-10-31,21:00,Atlético San Luis,1-2,FC Juárez,10237.0,Estadio Alfonso Lastras Ramírez,Daniel Quintero,Match Report,,1.0,2.0,2,1459.95,1485.8,24.15000000000009,2.38,1.949,4.329
+Apertura 2025 Regular Season,16.0,Fri,2025-10-31,21:05,Puebla,0-3,Cruz Azul,25644.0,Estadio Cuauhtémoc,Guillermo Pacheco,Match Report,,0.0,3.0,2,1356.75,1649.86,-243.1099999999999,0.98,3.534,4.513999999999999
+Apertura 2025 Regular Season,16.0,Sat,2025-11-01,17:00,Atlas,0-0,Toluca,15921.0,Estadio Jalisco,Fernando Hernández,Match Report,,0.0,0.0,X,1457.35,1641.69,-134.34000000000017,1.52,4.114,5.634
+Apertura 2025 Regular Season,16.0,Sat,2025-11-01,19:05,Monterrey,1-1,UANL,50447.0,Estadio BBVA,César Arturo Ramos,Match Report,,1.0,1.0,X,1583.46,1606.79,26.670000000000076,1.747,2.072,3.819
+Apertura 2025 Regular Season,16.0,Sat,2025-11-01,21:10,América,2-0,León,20029.0,Estadio de la Ciudad de los Deportes,Víctor Cáceres,Match Report,,2.0,0.0,1,1616.17,1454.2,211.97000000000003,2.62,1.119,3.739
+Apertura 2025 Regular Season,16.0,Sun,2025-11-02,12:00,UNAM,4-1,Tijuana,13901.0,Estadio Olímpico de Universitario,Maximiliano Quintero,Match Report,,4.0,1.0,1,1464.98,1505.04,9.940000000000056,1.944,2.168,4.112
+Apertura 2025 Regular Season,16.0,Sun,2025-11-02,17:00,Querétaro,1-0,Mazatlán,8803.0,Estadio La Corregidora,Yonatan Peinado Aguirre,Match Report,,1.0,0.0,1,1427.58,1427.34,50.24000000000001,1.379,1.556,2.935
+Apertura 2025 Regular Season,16.0,Sun,2025-11-02,19:00,Pachuca,0-1,Guadalajara,14967.0,Estadio Hidalgo,Adonai Escobedo,Match Report,,0.0,1.0,2,1507.92,1501.39,56.52999999999997,1.606,1.907,3.513
+Apertura 2025 Regular Season,17.0,Fri,2025-11-07,18:00,FC Juárez,1-2,Querétaro,8556.0,Estadio Olímpico Benito Juárez,Vicente Arce,Match Report,,1.0,2.0,2,1496.49,1436.14,110.34999999999992,2.116,1.548,3.664
+Apertura 2025 Regular Season,17.0,Fri,2025-11-07,19:00,Tijuana,2-0,Atlas,18733.0,Estadio Caliente,Ismael López,Match Report,,2.0,0.0,1,1495.33,1461.03,84.29999999999995,2.883,2.131,5.013999999999999
+Apertura 2025 Regular Season,17.0,Fri,2025-11-07,20:00,Mazatlán,1-1,Necaxa,9546.0,Estadio El Encanto,Katia García,Match Report,,1.0,1.0,X,1418.78,1477.52,-8.740000000000009,1.523,2.274,3.7969999999999997
+Apertura 2025 Regular Season,17.0,Sat,2025-11-08,17:00,UANL,3-1,Atlético San Luis,41615.0,Estadio Universitario de Nuevo León,Iván López,Match Report,,3.0,1.0,1,1607.56,1449.26,208.29999999999995,2.333,1.35,3.6830000000000003
+Apertura 2025 Regular Season,17.0,Sat,2025-11-08,17:07,Guadalajara,4-2,Monterrey,40396.0,Estadio Akron,Oscar Mejía,Match Report,,4.0,2.0,1,1513.0,1582.69,-19.69000000000005,1.822,2.085,3.907
+Apertura 2025 Regular Season,17.0,Sat,2025-11-08,19:00,Toluca,2-0,América,27273.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,,2.0,0.0,1,1638.01,1620.73,67.27999999999997,2.063,1.975,4.038
+Apertura 2025 Regular Season,17.0,Sat,2025-11-08,19:00,León,1-2,Puebla,25032.0,Estadio León,Karen Hernández,Match Report,,1.0,2.0,2,1449.64,1352.79,146.85000000000014,2.276,1.44,3.7159999999999997
+Apertura 2025 Regular Season,17.0,Sat,2025-11-08,21:05,Cruz Azul,2-3,UNAM,36025.0,Estadio Cuauhtémoc,Fernando Hernández,Match Report,,2.0,3.0,2,1653.82,1474.69,229.12999999999988,2.448,1.256,3.7039999999999997
+Apertura 2025 Regular Season,17.0,Sun,2025-11-09,17:00,Santos Laguna,1-0,Pachuca,8740.0,Estadio Nuevo Corona,Marco Antonio Ortíz,Match Report,,1.0,0.0,1,1376.21,1496.31,-70.09999999999991,1.358,2.554,3.912
+Apertura — 7-seed match,,Thu,2025-11-20,19:00,Tijuana,3-1,FC Juárez,13800.0,Estadio Caliente,Marco Antonio Ortíz,Match Report,,3.0,1.0,1,1502.95,1483.42,69.52999999999997,2.706,2.031,4.737
+Apertura — 9/10 match,,Thu,2025-11-20,19:00,Pachuca,3-1,UNAM,12385.0,Estadio Hidalgo,Luis Enrique Santander,Match Report,,3.0,1.0,1,1484.32,1490.47,43.84999999999991,1.77,1.842,3.612
+Apertura — 8-seed match,,Sun,2025-11-23,18:00,FC Juárez,2-1,Pachuca,12500.0,Estadio Olímpico Benito Juárez,Oscar Mejía,Match Report,,2.0,1.0,1,1475.39,1493.06,32.330000000000155,1.77,2.29,4.0600000000000005
+Apertura — Quarter-finals,,Wed,2025-11-26,18:00,FC Juárez,1-2,Toluca,14500.0,Estadio Olímpico Benito Juárez,Maximiliano Quintero,Match Report,Leg 1 of 2,1.0,2.0,2,1484.46,1646.1,-111.63999999999989,1.408,3.729,5.1370000000000005
+Apertura — Quarter-finals,,Wed,2025-11-26,21:00,Tijuana,3-0,UANL,20733.0,Estadio Caliente,Vicente Arce,Match Report,Leg 1 of 2,3.0,0.0,1,1510.98,1612.19,-51.21000000000004,1.573,2.426,3.999
+Apertura — Quarter-finals,,Wed,2025-11-26,21:05,Monterrey,2-0,América,43688.0,Estadio BBVA,Jesús López,Match Report,Leg 1 of 2,2.0,0.0,1,1572.12,1612.64,9.47999999999979,1.721,2.445,4.166
+Apertura — Quarter-finals,,Thu,2025-11-27,20:07,Guadalajara,0-0,Cruz Azul,41476.0,Estadio Akron,Guillermo Pacheco,Match Report,Leg 1 of 2,0.0,0.0,X,1523.57,1638.04,-64.47000000000003,1.408,2.151,3.5589999999999997
+Apertura — Quarter-finals,,Sat,2025-11-29,17:00,América,2-1,Monterrey,30681.0,Estadio de la Ciudad de los Deportes,César Arturo Ramos,Match Report,Leg 2 of 2; Monterrey won,2.0,1.0,1,1602.91,1581.85,71.06000000000017,2.369,1.754,4.123
+Apertura — Quarter-finals,,Sat,2025-11-29,19:05,Toluca,0-0,FC Juárez,28237.0,Estadio Nemesio Díez,Katia García,Match Report,Leg 2 of 2; Toluca won,0.0,0.0,X,1652.99,1477.57,225.42000000000007,3.736,1.4,5.136
+Apertura — Quarter-finals,,Sat,2025-11-29,21:10,UANL,5-0,Tijuana,41615.0,Estadio Universitario de Nuevo León,Marco Antonio Ortíz,Match Report,Leg 2 of 2; UANL won,5.0,0.0,1,1600.73,1522.44,128.28999999999996,2.342,1.655,3.997
+Apertura — Quarter-finals,,Sun,2025-11-30,19:00,Cruz Azul,3-2,Guadalajara,58445.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,Leg 2 of 2; Cruz Azul won,3.0,2.0,1,1636.21,1525.4,160.80999999999997,2.075,1.358,3.4330000000000003
+Apertura — Semi-finals,,Wed,2025-12-03,19:00,Cruz Azul,1-1,UANL,58445.0,Estadio Olímpico de Universitario,Ismael López,Match Report,Leg 1 of 2,1.0,1.0,X,1641.89,1607.2,84.69000000000005,1.79,1.585,3.375
+Apertura — Semi-finals,,Wed,2025-12-03,21:10,Monterrey,1-0,Toluca,50716.0,Estadio BBVA,Daniel Quintero,Match Report,Leg 1 of 2,1.0,0.0,1,1573.87,1647.28,-23.41000000000008,1.975,3.068,5.043
+Apertura — Semi-finals,,Sat,2025-12-06,19:00,Toluca,3-2,Monterrey,28237.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,Leg 2 of 2; Toluca won,3.0,2.0,1,1636.61,1584.54,102.06999999999994,2.972,1.959,4.931
+Apertura — Semi-finals,,Sat,2025-12-06,21:10,UANL,1-1,Cruz Azul,41615.0,Estadio Universitario de Nuevo León,Víctor Cáceres,Match Report,Leg 2 of 2; UANL won,1.0,1.0,X,1609.59,1639.5,20.08999999999992,1.575,1.777,3.352
+Apertura — Finals,,Thu,2025-12-11,20:00,UANL,1-0,Toluca,41000.0,Estadio Universitario de Nuevo León,Marco Antonio Ortíz,Match Report,Leg 1 of 2,1.0,0.0,1,1609.01,1643.75,15.259999999999993,1.688,2.103,3.7910000000000004
+Apertura — Finals,,Sun,2025-12-14,19:00,Toluca, 2-1 ,UANL,28237.0,Estadio Nemesio Díez,César Arturo Ramos,Match Report,Leg 2 of 2; Toluca won; Toluca won a penalty shoot-out following extra time,2.0,1.0,1,1634.19,1618.57,65.62000000000012,2.037,1.676,3.713
+Clausura 2026 Regular Season,1.0,Fri,2026-01-09,18:00,Mazatlán,1-2,FC Juárez,6472.0,Estadio El Encanto,Iván López,Match Report,,1.0,2.0,2,1419.03,1483.28,-14.25,1.482,1.814,3.2960000000000003
+Clausura 2026 Regular Season,1.0,Fri,2026-01-09,19:00,Tijuana,0-0,América,28833.0,Estadio Caliente,Ismael López,Match Report,,0.0,0.0,X,1515.97,1610.89,-44.92000000000007,1.58,2.775,4.355
+Clausura 2026 Regular Season,1.0,Fri,2026-01-09,21:00,Atlas,1-0,Puebla,17086.0,Estadio Jalisco,César Arturo Ramos,Match Report,,1.0,0.0,1,1453.41,1366.78,136.6300000000001,2.465,1.739,4.204
+Clausura 2026 Regular Season,1.0,Sat,2026-01-10,17:07,Guadalajara,2-0,Pachuca,35278.0,Estadio Akron,Marco Antonio Ortíz,Match Report,,2.0,0.0,1,1519.72,1483.99,85.73000000000002,1.933,1.583,3.516
+Clausura 2026 Regular Season,1.0,Sat,2026-01-10,19:00,Santos Laguna,1-3,Necaxa,15174.0,Estadio Nuevo Corona,Luis García,Match Report,,1.0,3.0,2,1388.2,1477.27,-39.069999999999936,1.613,2.852,4.465
+Clausura 2026 Regular Season,1.0,Sat,2026-01-10,19:00,León,2-1,Cruz Azul,18694.0,Estadio León,Víctor Cáceres,Match Report,,2.0,1.0,1,1435.65,1640.08,-154.42999999999984,1.188,2.755,3.9429999999999996
+Clausura 2026 Regular Season,1.0,Sat,2026-01-10,21:05,Monterrey,0-1,Toluca,45238.0,Estadio BBVA,Luis Enrique Santander,Match Report,,0.0,1.0,2,1577.4,1642.32,-14.919999999999844,1.983,2.994,4.977
+Clausura 2026 Regular Season,1.0,Sun,2026-01-11,12:00,UNAM,1-1,Querétaro,22135.0,Estadio Olímpico de Universitario,Maximiliano Quintero,Match Report,,1.0,1.0,X,1481.73,1449.21,82.51999999999998,2.147,1.304,3.4509999999999996
+Clausura 2026 Regular Season,1.0,Sun,2026-01-11,19:00,Atlético San Luis,1-2,UANL,16900.0,Estadio Alfonso Lastras Ramírez,Daniel Quintero,Match Report,,1.0,2.0,2,1444.63,1610.44,-115.80999999999996,1.373,2.41,3.7830000000000004
+Clausura 2026 Regular Season,2.0,Tue,2026-01-13,17:00,Puebla,2-1,Mazatlán,8696.0,Estadio Cuauhtémoc,Joaquín Vizcarra Armenta,Match Report,,2.0,1.0,1,1360.52,1409.44,1.0799999999999272,1.405,1.721,3.1260000000000003
+Clausura 2026 Regular Season,2.0,Tue,2026-01-13,19:00,Necaxa,0-2,Monterrey,12638.0,Estadio Victoria de Aguascalientes,Fernando Hernández,Match Report,,0.0,2.0,2,1486.15,1567.83,-31.67999999999984,2.194,2.98,5.1739999999999995
+Clausura 2026 Regular Season,2.0,Tue,2026-01-13,19:06,Pachuca,2-1,León,9114.0,Estadio Hidalgo,Guillermo Pacheco,Match Report,,2.0,1.0,1,1476.41,1449.82,76.59000000000015,2.0,1.684,3.684
+Clausura 2026 Regular Season,2.0,Tue,2026-01-13,20:10,FC Juárez,0-1,Guadalajara,14558.0,Estadio Olímpico Benito Juárez,Adonai Escobedo,Match Report,,0.0,1.0,2,1492.87,1527.3,15.569999999999936,1.447,2.255,3.702
+Clausura 2026 Regular Season,2.0,Wed,2026-01-14,17:00,Cruz Azul,2-0,Atlas,7519.0,Estadio Cuauhtémoc,Yonatan Peinado Aguirre,Match Report,,2.0,0.0,1,1625.91,1459.67,216.24,3.155,1.318,4.473
+Clausura 2026 Regular Season,2.0,Wed,2026-01-14,19:00,Querétaro,1-2,Tijuana,10915.0,Estadio La Corregidora,Karen Hernández,Match Report,,1.0,2.0,2,1451.54,1517.26,-15.720000000000027,1.532,2.66,4.192
+Clausura 2026 Regular Season,2.0,Wed,2026-01-14,19:05,América,0-2,Atlético San Luis,15331.0,Estadio de la Ciudad de los Deportes,Vicente Arce,Match Report,,0.0,2.0,2,1609.6,1437.85,221.75,2.68,1.326,4.006
+Clausura 2026 Regular Season,2.0,Wed,2026-01-14,21:06,UANL,0-1,UNAM,40074.0,Estadio Universitario de Nuevo León,Jesús López,Match Report,,0.0,1.0,2,1617.22,1479.4,187.81999999999996,2.069,1.258,3.327
+Clausura 2026 Regular Season,2.0,Wed,2026-01-14,21:10,Toluca,3-1,Santos Laguna,26513.0,Estadio Nemesio Díez,Martín Molina,Match Report,,3.0,1.0,1,1651.89,1379.32,322.57000000000016,3.957,1.034,4.991
+Clausura 2026 Regular Season,3.0,Fri,2026-01-16,20:00,Mazatlán,1-5,Monterrey,9411.0,Estadio El Encanto,Ismael López,Match Report,,1.0,5.0,2,1399.47,1576.92,-127.45000000000005,1.244,2.636,3.88
+Clausura 2026 Regular Season,3.0,Sat,2026-01-17,17:00,Necaxa,0-1,Atlas,17557.0,Estadio Victoria de Aguascalientes,Maximiliano Quintero,Match Report,,0.0,1.0,2,1477.06,1455.2,71.8599999999999,2.698,2.099,4.797000000000001
+Clausura 2026 Regular Season,3.0,Sat,2026-01-17,17:07,Guadalajara,2-1,Querétaro,34839.0,Estadio Akron,Jorge Camacho,Match Report,,2.0,1.0,1,1537.75,1441.99,145.76,2.257,1.083,3.34
+Clausura 2026 Regular Season,3.0,Sat,2026-01-17,19:00,UANL,0-0,Toluca,40319.0,Estadio Universitario de Nuevo León,Oscar Mejía,Match Report,,0.0,0.0,X,1602.29,1654.59,-2.2999999999999545,1.62,2.069,3.689
+Clausura 2026 Regular Season,3.0,Sat,2026-01-17,19:06,Tijuana,1-1,Atlético San Luis,17733.0,Estadio Caliente,Víctor Cáceres,Match Report,,1.0,1.0,X,1526.81,1453.49,123.31999999999994,2.55,2.25,4.8
+Clausura 2026 Regular Season,3.0,Sat,2026-01-17,21:05,Cruz Azul,1-0,Puebla,15440.0,Estadio Cuauhtémoc,Charles Terrazas,Match Report,,1.0,0.0,1,1630.38,1370.49,309.8900000000001,3.425,0.996,4.420999999999999
+Clausura 2026 Regular Season,3.0,Sun,2026-01-18,12:00,UNAM,1-1,León,21487.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,1.0,1.0,X,1494.33,1441.99,102.33999999999992,1.951,1.569,3.52
+Clausura 2026 Regular Season,3.0,Sun,2026-01-18,17:00,Santos Laguna,2-2,FC Juárez,11746.0,Estadio Nuevo Corona,Marco Antonio Ortíz,Match Report,,2.0,2.0,X,1376.62,1482.42,-55.80000000000018,1.56,2.342,3.902
+Clausura 2026 Regular Season,3.0,Sun,2026-01-18,19:06,Pachuca,0-0,América,13403.0,Estadio Hidalgo,Luis Enrique Santander,Match Report,,0.0,0.0,X,1484.24,1593.96,-59.72000000000003,1.285,2.349,3.6340000000000003
+Clausura 2026 Regular Season,4.0,Fri,2026-01-30,19:00,Puebla,0-0,Toluca,20503.0,Estadio Cuauhtémoc,Abraham Quirarte,Match Report,,0.0,0.0,X,1367.61,1654.52,-236.91000000000008,1.02,3.933,4.952999999999999
+Clausura 2026 Regular Season,4.0,Fri,2026-01-30,20:06,FC Juárez,3-4,Cruz Azul,14124.0,Estadio Olímpico Benito Juárez,Jesús López,Match Report,,3.0,4.0,2,1480.83,1633.26,-102.43000000000006,1.254,2.934,4.188000000000001
+Clausura 2026 Regular Season,4.0,Fri,2026-01-30,21:00,UNAM,4-0,Santos Laguna,20130.0,Estadio Olímpico de Universitario,Vicente Arce,Match Report,,4.0,0.0,1,1491.47,1378.21,163.26,2.433,1.298,3.731
+Clausura 2026 Regular Season,4.0,Sat,2026-01-31,16:00,América,2-0,Necaxa,26544.0,Estadio de la Ciudad de los Deportes,Ismael López,Match Report,,2.0,0.0,1,1592.26,1465.02,177.24,2.72,1.43,4.15
+Clausura 2026 Regular Season,4.0,Sat,2026-01-31,17:00,Atlas,1-0,Mazatlán,19723.0,Estadio Jalisco,Salvador Pérez Villalobos,Match Report,,1.0,0.0,1,1467.24,1392.98,124.26,1.921,1.556,3.4770000000000003
+Clausura 2026 Regular Season,4.0,Sat,2026-01-31,17:00,Atlético San Luis,2-3,Guadalajara,22883.0,Estadio Alfonso Lastras Ramírez,Yonatan Peinado Aguirre,Match Report,,2.0,3.0,2,1456.9,1543.78,-36.87999999999988,1.587,2.151,3.7379999999999995
+Clausura 2026 Regular Season,4.0,Sat,2026-01-31,19:00,Monterrey,2-2,Tijuana,44748.0,Estadio BBVA,César Arturo Ramos,Match Report,,2.0,2.0,X,1583.41,1523.4,110.01,2.893,2.22,5.1129999999999995
+Clausura 2026 Regular Season,4.0,Sat,2026-01-31,19:10,León,1-2,UANL,22565.0,Estadio León,Adonai Escobedo,Match Report,,1.0,2.0,2,1444.85,1602.36,-107.51,1.125,2.227,3.352
+Clausura 2026 Regular Season,4.0,Sun,2026-02-01,17:00,Querétaro,0-0,Pachuca,12338.0,Estadio La Corregidora,Fernando Hernández,Match Report,,0.0,0.0,X,1435.96,1485.94,0.0199999999999818,1.338,2.179,3.517
+Clausura 2026 Regular Season,5.0,Fri,2026-02-06,19:00,Necaxa,4-1,Atlético San Luis,13337.0,Estadio Victoria de Aguascalientes,Iván López,Match Report,,4.0,1.0,1,1459.72,1447.96,61.75999999999999,2.351,2.373,4.724
+Clausura 2026 Regular Season,5.0,Fri,2026-02-06,19:00,UANL,5-1,Santos Laguna,38487.0,Estadio Universitario de Nuevo León,Katia García,Match Report,,5.0,1.0,1,1609.36,1372.59,286.77,2.877,0.92,3.7969999999999997
+Clausura 2026 Regular Season,5.0,Fri,2026-02-06,19:06,Tijuana,0-0,Puebla,16933.0,Estadio Caliente,Karen Hernández,Match Report,,0.0,0.0,X,1526.46,1373.54,202.92000000000007,2.991,1.494,4.485
+Clausura 2026 Regular Season,5.0,Fri,2026-02-06,20:06,Mazatlán,1-2,Guadalajara,16251.0,Estadio El Encanto,Vicente Arce,Match Report,,1.0,2.0,2,1386.41,1552.72,-116.30999999999996,1.014,2.159,3.173
+Clausura 2026 Regular Season,5.0,Sat,2026-02-07,17:00,Toluca,1-1,Cruz Azul,27273.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,,1.0,1.0,X,1648.59,1640.39,58.19999999999982,2.134,1.916,4.05
+Clausura 2026 Regular Season,5.0,Sat,2026-02-07,17:00,Querétaro,2-0,León,11333.0,Estadio La Corregidora,Marco Antonio Ortíz,Match Report,,2.0,0.0,1,1435.96,1437.85,48.11000000000013,1.426,1.902,3.328
+Clausura 2026 Regular Season,5.0,Sat,2026-02-07,19:05,Atlas,2-2,UNAM,22127.0,Estadio Jalisco,Jorge Camacho,Match Report,,2.0,2.0,X,1473.81,1497.09,26.720000000000027,1.619,2.246,3.865
+Clausura 2026 Regular Season,5.0,Sat,2026-02-07,19:06,Pachuca,2-0,FC Juárez,7112.0,Estadio Hidalgo,Daniel Quintero,Match Report,,2.0,0.0,1,1485.94,1473.7,62.24000000000001,2.167,1.754,3.921
+Clausura 2026 Regular Season,5.0,Sat,2026-02-07,21:10,América,1-0,Monterrey,23939.0,Estadio de la Ciudad de los Deportes,Oscar Mejía,Match Report,,1.0,0.0,1,1597.56,1580.35,67.21000000000004,2.262,1.709,3.971
+Clausura 2026 Regular Season,6.0,Fri,2026-02-13,19:00,Puebla,2-3,UNAM,16340.0,Estadio Cuauhtémoc,Ismael López,Match Report,,2.0,3.0,2,1378.8,1497.86,-69.05999999999995,1.218,2.424,3.642
+Clausura 2026 Regular Season,6.0,Fri,2026-02-13,21:05,Toluca,1-0,Tijuana,27273.0,Estadio Nemesio Díez,Joaquín Vizcarra Armenta,Match Report,,1.0,0.0,1,1646.93,1521.2,175.73000000000002,3.2,1.672,4.872
+Clausura 2026 Regular Season,6.0,Sat,2026-02-14,17:00,Pachuca,3-1,Atlas,10627.0,Estadio Hidalgo,Víctor Cáceres,Match Report,,3.0,1.0,1,1494.17,1473.04,71.13000000000011,2.216,1.692,3.9080000000000004
+Clausura 2026 Regular Season,6.0,Sat,2026-02-14,17:00,Atlético San Luis,3-0,Querétaro,13170.0,Estadio Alfonso Lastras Ramírez,Adonai Escobedo,Match Report,,3.0,0.0,1,1439.72,1444.58,45.1400000000001,2.251,1.559,3.8099999999999996
+Clausura 2026 Regular Season,6.0,Sat,2026-02-14,18:06,FC Juárez,1-2,Necaxa,6796.0,Estadio Olímpico Benito Juárez,Oscar Mejía,Match Report,,1.0,2.0,2,1465.47,1467.96,47.50999999999999,2.089,2.566,4.654999999999999
+Clausura 2026 Regular Season,6.0,Sat,2026-02-14,19:00,Monterrey,1-0,León,44902.0,Estadio BBVA,Fernando Hernández,Match Report,,1.0,0.0,1,1572.26,1429.23,193.03,2.753,1.584,4.337
+Clausura 2026 Regular Season,6.0,Sat,2026-02-14,21:07,Guadalajara,1-0,América,43078.0,Estadio Akron,César Arturo Ramos,Match Report,,1.0,0.0,1,1559.49,1605.65,3.839999999999918,1.303,1.855,3.158
+Clausura 2026 Regular Season,6.0,Sun,2026-02-15,16:30,Cruz Azul,2-1,UANL,16419.0,Estadio Cuauhtémoc,Daniel Quintero,Match Report,,2.0,1.0,1,1642.05,1612.58,79.47000000000003,1.743,1.59,3.333
+Clausura 2026 Regular Season,6.0,Sun,2026-02-15,17:00,Santos Laguna,1-2,Mazatlán,10767.0,Estadio Nuevo Corona,Luis García,Match Report,,1.0,2.0,2,1369.37,1379.64,39.72999999999979,1.481,1.77,3.2510000000000003
+Clausura 2026 Regular Season,7.0,Fri,2026-02-20,19:00,UANL,1-2,Pachuca,41615.0,Estadio Universitario de Nuevo León,Marco Antonio Ortíz,Match Report,,1.0,2.0,2,1604.83,1502.15,152.67999999999984,2.057,1.3,3.357
+Clausura 2026 Regular Season,7.0,Fri,2026-02-20,21:06,Puebla,0-4,América,37204.0,Estadio Cuauhtémoc,Katia García,Match Report,,0.0,4.0,2,1370.76,1595.76,-175.0,0.868,2.94,3.808
+Clausura 2026 Regular Season,7.0,Sat,2026-02-21,17:00,Atlas,3-2,Atlético San Luis,16057.0,Estadio Jalisco,Fernando Hernández,Match Report,,3.0,2.0,1,1465.06,1448.43,66.62999999999988,1.994,2.47,4.464
+Clausura 2026 Regular Season,7.0,Sat,2026-02-21,19:00,Necaxa,0-3,Toluca,20013.0,Estadio Victoria de Aguascalientes,Yonatan Peinado Aguirre,Match Report,,0.0,3.0,2,1479.32,1652.26,-122.94000000000004,1.586,3.358,4.944
+Clausura 2026 Regular Season,7.0,Sat,2026-02-21,19:00,León,2-1,Santos Laguna,25098.0,Estadio León,Salvador Pérez Villalobos,Match Report,,2.0,1.0,1,1424.28,1358.23,116.04999999999995,2.251,1.456,3.707
+Clausura 2026 Regular Season,7.0,Sat,2026-02-21,21:05,Cruz Azul,2-1,Guadalajara,43134.0,Estadio Cuauhtémoc,Maximiliano Quintero,Match Report,,2.0,1.0,1,1649.8,1569.38,130.41999999999985,2.039,1.458,3.497
+Clausura 2026 Regular Season,7.0,Sat,2026-02-21,21:10,Tijuana,1-1,Mazatlán,15333.0,Estadio Caliente,Martín Molina,Match Report,,1.0,1.0,X,1515.87,1390.78,175.08999999999992,2.409,1.411,3.82
+Clausura 2026 Regular Season,7.0,Sun,2026-02-22,17:00,UNAM,2-0,Monterrey,21867.0,Estadio Olímpico de Universitario,Vicente Arce,Match Report,,2.0,0.0,1,1505.9,1577.21,-21.309999999999945,1.854,2.384,4.2379999999999995
+Clausura 2026 Regular Season,8.0,Fri,2026-02-27,18:00,Mazatlán,1-0,Pachuca,6971.0,Estadio El Encanto,Charles Terrazas,Match Report,,1.0,0.0,1,1395.43,1516.28,-70.84999999999991,1.218,2.047,3.265
+Clausura 2026 Regular Season,8.0,Fri,2026-02-27,19:00,Querétaro,2-2,Santos Laguna,9911.0,Estadio La Corregidora,Abraham Quirarte,Match Report,,2.0,2.0,X,1435.87,1351.45,134.41999999999985,1.878,1.558,3.436
+Clausura 2026 Regular Season,8.0,Fri,2026-02-27,19:06,Tijuana,1-1,UNAM,21333.0,Estadio Caliente,Luis Enrique Santander,Match Report,,1.0,1.0,X,1511.22,1516.51,44.71000000000004,2.042,2.125,4.167
+Clausura 2026 Regular Season,8.0,Fri,2026-02-27,20:00,FC Juárez,3-1,Atlas,8242.0,Estadio Olímpico Benito Juárez,Vicente Arce,Match Report,,3.0,1.0,1,1454.11,1473.17,30.939999999999827,2.16,2.153,4.313000000000001
+Clausura 2026 Regular Season,8.0,Sat,2026-02-28,17:00,Atlético San Luis,0-1,Puebla,11416.0,Estadio Alfonso Lastras Ramírez,Maximiliano Quintero,Match Report,,0.0,1.0,2,1440.32,1365.41,124.90999999999984,2.703,1.502,4.205
+Clausura 2026 Regular Season,8.0,Sat,2026-02-28,17:00,Toluca,2-0,Guadalajara,27273.0,Estadio Nemesio Díez,Oscar Mejía,Match Report,,2.0,0.0,1,1658.86,1562.97,145.88999999999987,2.325,1.429,3.7540000000000004
+Clausura 2026 Regular Season,8.0,Sat,2026-02-28,19:05,Monterrey,0-2,Cruz Azul,47907.0,Estadio BBVA,Guillermo Pacheco,Match Report,,0.0,2.0,2,1566.6,1656.21,-39.61000000000013,1.829,2.489,4.318
+Clausura 2026 Regular Season,8.0,Sat,2026-02-28,19:06,León,2-1,Necaxa,24456.0,Estadio León,Víctor Cáceres,Match Report,,2.0,1.0,1,1431.06,1472.72,8.339999999999918,1.917,2.275,4.192
+Clausura 2026 Regular Season,8.0,Sat,2026-02-28,21:10,América,1-4,UANL,26410.0,Estadio de la Ciudad de los Deportes,Jorge Camacho,Match Report,,1.0,4.0,2,1601.11,1590.7,60.409999999999854,1.62,1.382,3.002
+Clausura 2026 Regular Season,9.0,Tue,2026-03-03,19:00,Santos Laguna,1-2,Cruz Azul,15065.0,Estadio Nuevo Corona,Iván López,Match Report,,1.0,2.0,2,1355.14,1665.07,-259.92999999999984,0.997,3.631,4.628
+Clausura 2026 Regular Season,9.0,Tue,2026-03-03,19:00,Pachuca,2-1,Necaxa,8601.0,Estadio Hidalgo,Katia García,Match Report,,2.0,1.0,1,1504.27,1462.96,91.30999999999996,2.221,2.003,4.224
+Clausura 2026 Regular Season,9.0,Tue,2026-03-03,21:00,Atlético San Luis,4-1,Mazatlán,8808.0,Estadio Alfonso Lastras Ramírez,Yonatan Peinado Aguirre,Match Report,,4.0,1.0,1,1426.87,1407.44,69.42999999999984,2.131,1.467,3.598
+Clausura 2026 Regular Season,9.0,Tue,2026-03-03,21:10,UNAM,2-3,Toluca,29068.0,Estadio Olímpico de Universitario,Marco Antonio Ortíz,Match Report,,2.0,3.0,2,1517.79,1664.89,-97.10000000000014,1.375,2.665,4.04
+Clausura 2026 Regular Season,9.0,Wed,2026-03-04,19:00,Puebla,3-1,UANL,15661.0,Estadio Cuauhtémoc,Joaquín Vizcarra Armenta,Match Report,,3.0,1.0,1,1378.86,1602.42,-173.56000000000017,0.919,2.862,3.781
+Clausura 2026 Regular Season,9.0,Wed,2026-03-04,19:00,Monterrey,4-0,Querétaro,36491.0,Estadio BBVA,Salvador Pérez Villalobos,Match Report,,4.0,0.0,1,1557.74,1432.18,175.55999999999997,2.842,1.323,4.165
+Clausura 2026 Regular Season,9.0,Wed,2026-03-04,21:00,América,1-2,FC Juárez,12560.0,Estadio de la Ciudad de los Deportes,Maximiliano Quintero,Match Report,,1.0,2.0,2,1589.39,1463.22,176.17000000000007,2.725,1.216,3.941
+Clausura 2026 Regular Season,9.0,Wed,2026-03-04,21:00,Atlas,2-1,Tijuana,15171.0,Estadio Jalisco,Adonai Escobedo,Match Report,,2.0,1.0,1,1464.06,1509.94,4.119999999999891,1.957,2.712,4.6690000000000005
+Clausura 2026 Regular Season,10.0,Fri,2026-03-06,18:00,Mazatlán,4-2,León,6792.0,Estadio El Encanto,Daniel Quintero,Match Report,,4.0,2.0,1,1399.41,1440.82,8.590000000000146,1.367,1.785,3.152
+Clausura 2026 Regular Season,10.0,Fri,2026-03-06,21:00,Necaxa,0-1,UNAM,18290.0,Estadio Victoria de Aguascalientes,Jorge Camacho,Match Report,,0.0,1.0,2,1455.53,1510.51,-4.980000000000018,1.985,2.323,4.308
+Clausura 2026 Regular Season,10.0,Sat,2026-03-07,17:00,Querétaro,1-2,América,29388.0,Estadio La Corregidora,Víctor Cáceres,Match Report,,1.0,2.0,2,1426.84,1574.71,-97.87000000000012,0.911,2.702,3.613
+Clausura 2026 Regular Season,10.0,Sat,2026-03-07,17:00,Cruz Azul,3-0,Atlético San Luis,10090.0,Estadio Cuauhtémoc,Vicente Arce,Match Report,,3.0,0.0,1,1668.73,1434.9,283.8299999999999,2.922,1.489,4.4110000000000005
+Clausura 2026 Regular Season,10.0,Sat,2026-03-07,19:05,Atlas,1-2,Guadalajara,36767.0,Estadio Jalisco,Marco Antonio Ortíz,Match Report,,1.0,2.0,2,1473.94,1556.94,-33.0,1.478,2.394,3.872
+Clausura 2026 Regular Season,10.0,Sat,2026-03-07,19:06,Pachuca,2-1,Puebla,10893.0,Estadio Hidalgo,Jesús López,Match Report,,2.0,1.0,1,1511.7,1393.48,168.22000000000003,2.432,1.279,3.711
+Clausura 2026 Regular Season,10.0,Sat,2026-03-07,21:00,UANL,1-0,Monterrey,41615.0,Estadio Universitario de Nuevo León,Ismael López,Match Report,,1.0,0.0,1,1587.8,1563.08,74.72000000000003,2.102,1.809,3.9109999999999996
+Clausura 2026 Regular Season,10.0,Sun,2026-03-08,17:00,Toluca,3-1,FC Juárez,27273.0,Estadio Nemesio Díez,Luis Enrique Santander,Match Report,,3.0,1.0,1,1672.17,1477.9,244.27,3.424,1.314,4.7379999999999995
+Clausura 2026 Regular Season,10.0,Sun,2026-03-08,20:06,Tijuana,1-2,Santos Laguna,14833.0,Estadio Caliente,Guillermo Pacheco,Match Report,,1.0,2.0,2,1500.06,1351.48,198.57999999999996,3.079,1.512,4.591
+Clausura 2026 Regular Season,11.0,Fri,2026-03-13,19:00,Puebla,0-0,Necaxa,12190.0,Estadio Cuauhtémoc,Ismael López,Match Report,,0.0,0.0,X,1387.98,1445.67,-7.690000000000055,1.612,2.686,4.298
+Clausura 2026 Regular Season,11.0,Fri,2026-03-13,21:00,FC Juárez,2-2,Monterrey,9425.0,Estadio Olímpico Benito Juárez,Marco Antonio Ortíz,Match Report,,2.0,2.0,X,1473.96,1555.2,-31.24000000000001,1.74,2.951,4.691
+Clausura 2026 Regular Season,11.0,Sat,2026-03-14,17:00,Atlético San Luis,1-1,Pachuca,11096.0,Estadio Alfonso Lastras Ramírez,Jorge Camacho,Match Report,,1.0,1.0,X,1431.63,1517.2,-35.569999999999936,1.906,2.178,4.084
+Clausura 2026 Regular Season,11.0,Sat,2026-03-14,17:07,Guadalajara,3-0,Santos Laguna,36263.0,Estadio Akron,Adonai Escobedo,Match Report,,3.0,0.0,1,1565.99,1366.65,249.33999999999992,2.748,1.143,3.891
+Clausura 2026 Regular Season,11.0,Sat,2026-03-14,19:00,León,0-3,Tijuana,23301.0,Estadio León,Katia García,Match Report,,0.0,3.0,2,1431.07,1484.89,-3.820000000000164,1.818,2.366,4.184
+Clausura 2026 Regular Season,11.0,Sat,2026-03-14,19:00,Toluca,1-1,Atlas,27272.0,Estadio Nemesio Díez,César Arturo Ramos,Match Report,,1.0,1.0,X,1676.11,1464.89,261.2199999999998,3.599,1.303,4.902
+Clausura 2026 Regular Season,11.0,Sat,2026-03-14,21:10,UNAM,2-2,Cruz Azul,42223.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,,2.0,2.0,X,1520.37,1672.0,-101.63000000000012,1.379,2.41,3.789
+Clausura 2026 Regular Season,11.0,Sun,2026-03-15,17:00,UANL,0-0,Querétaro,40217.0,Estadio Universitario de Nuevo León,Oscar Mejía,Match Report,,0.0,0.0,X,1595.68,1419.58,226.1000000000001,2.58,0.95,3.5300000000000002
+Clausura 2026 Regular Season,11.0,Sun,2026-03-15,19:00,América,2-0,Mazatlán,24786.0,Estadio de la Ciudad de los Deportes,Karen Hernández,Match Report,,2.0,0.0,1,1581.97,1409.16,222.80999999999997,2.514,0.929,3.4429999999999996
+Clausura 2026 Regular Season,9.0,Wed,2026-03-18,20:07,Guadalajara,5-0,León,35150.0,Estadio Akron,Jorge Camacho,Match Report,,5.0,0.0,1,1569.84,1421.18,198.65999999999983,2.212,1.304,3.516
+Clausura 2026 Regular Season,12.0,Fri,2026-03-20,19:00,Necaxa,3-0,Tijuana,14840.0,Estadio Victoria de Aguascalientes,Martín Molina,Match Report,,3.0,0.0,1,1445.45,1494.78,0.6700000000000728,2.211,2.568,4.779
+Clausura 2026 Regular Season,12.0,Fri,2026-03-20,20:06,Mazatlán,1-1,Cruz Azul,13746.0,Estadio El Encanto,Maximiliano Quintero,Match Report,,1.0,1.0,X,1404.82,1669.16,-214.34000000000012,0.964,2.867,3.831
+Clausura 2026 Regular Season,12.0,Sat,2026-03-21,17:00,Atlas,0-0,Querétaro,15321.0,Estadio Jalisco,Luis García,Match Report,,0.0,0.0,X,1471.25,1425.3,95.95000000000005,2.1,1.606,3.7060000000000004
+Clausura 2026 Regular Season,12.0,Sat,2026-03-21,19:00,Atlético San Luis,1-2,León,10659.0,Estadio Alfonso Lastras Ramírez,Luis Enrique Santander,Match Report,,1.0,2.0,2,1432.65,1416.35,66.30000000000018,2.317,1.832,4.149
+Clausura 2026 Regular Season,12.0,Sat,2026-03-21,19:05,Monterrey,2-3,Guadalajara,48853.0,Estadio BBVA,Víctor Cáceres,Match Report,,2.0,3.0,2,1554.3,1574.67,29.62999999999988,1.953,2.002,3.955
+Clausura 2026 Regular Season,12.0,Sat,2026-03-21,21:10,UNAM,1-0,América,42610.0,Estadio Olímpico de Universitario,César Arturo Ramos,Match Report,,1.0,0.0,1,1523.21,1586.31,-13.099999999999907,1.316,2.149,3.465
+Clausura 2026 Regular Season,12.0,Sun,2026-03-22,17:00,Pachuca,1-1,Toluca,18509.0,Estadio Hidalgo,Vicente Arce,Match Report,,1.0,1.0,X,1516.18,1669.75,-103.56999999999994,1.361,2.713,4.074
+Clausura 2026 Regular Season,12.0,Sun,2026-03-22,17:00,Santos Laguna,2-1,Puebla,10821.0,Estadio Nuevo Corona,Yonatan Peinado Aguirre,Match Report,,2.0,1.0,1,1362.8,1388.2,24.59999999999991,1.761,1.888,3.649
+Clausura 2026 Regular Season,12.0,Sun,2026-03-22,19:06,FC Juárez,2-1,UANL,11511.0,Estadio Olímpico Benito Juárez,Adonai Escobedo,Match Report,,2.0,1.0,1,1474.86,1589.96,-65.10000000000014,1.285,2.568,3.8529999999999998
+Clausura 2026 Regular Season,13.0,Fri,2026-04-03,19:00,Puebla,1-1,FC Juárez,14344.0,Estadio Cuauhtémoc,Charles Terrazas,Match Report,,1.0,1.0,X,1378.91,1486.71,-57.79999999999996,1.592,2.356,3.948
+Clausura 2026 Regular Season,13.0,Fri,2026-04-03,20:06,Tijuana,1-0,UANL,21533.0,Estadio Caliente,Daniel Quintero,Match Report,,1.0,0.0,1,1484.8,1578.11,-43.309999999999945,1.543,2.345,3.888
+Clausura 2026 Regular Season,13.0,Fri,2026-04-03,21:00,Necaxa,2-1,Mazatlán,16632.0,Estadio Victoria de Aguascalientes,César Arturo Ramos,Match Report,,2.0,1.0,1,1455.43,1410.31,95.12000000000012,2.274,1.538,3.8120000000000003
+Clausura 2026 Regular Season,13.0,Sat,2026-04-04,17:00,Monterrey,1-2,Atlético San Luis,41467.0,Estadio BBVA,Joaquín Vizcarra Armenta,Match Report,,1.0,2.0,2,1543.45,1420.76,172.69000000000003,2.847,1.972,4.819
+Clausura 2026 Regular Season,13.0,Sat,2026-04-04,17:00,Querétaro,1-0,Toluca,21363.0,Estadio La Corregidora,Karen Hernández,Match Report,,1.0,0.0,1,1427.99,1666.85,-188.8599999999999,0.931,3.31,4.241
+Clausura 2026 Regular Season,13.0,Sat,2026-04-04,19:00,León,2-0,Atlas,22437.0,Estadio León,Guillermo Pacheco,Match Report,,2.0,0.0,1,1428.24,1468.56,9.680000000000064,1.953,2.018,3.971
+Clausura 2026 Regular Season,13.0,Sat,2026-04-04,19:05,Cruz Azul,1-2,Pachuca,14726.0,Estadio Cuauhtémoc,Víctor Cáceres,Match Report,,1.0,2.0,2,1663.67,1519.08,194.59000000000012,2.408,1.356,3.7640000000000002
+Clausura 2026 Regular Season,13.0,Sat,2026-04-04,21:10,Santos Laguna,1-1,América,23258.0,Estadio Nuevo Corona,Fernando Hernández,Match Report,,1.0,1.0,X,1372.09,1575.93,-153.84000000000017,0.949,3.179,4.128
+Clausura 2026 Regular Season,13.0,Sun,2026-04-05,20:07,Guadalajara,2-2,UNAM,40907.0,Estadio Akron,Ismael López,Match Report,,2.0,2.0,X,1585.52,1533.59,101.93000000000006,1.941,1.55,3.491
+Clausura 2026 Regular Season,7.0,Tue,2026-04-07,18:00,Querétaro,1-1,FC Juárez,7593.0,Estadio La Corregidora,Jesús López,Match Report,,1.0,1.0,X,1442.95,1485.06,7.8900000000001,1.53,2.077,3.607
+Clausura 2026 Regular Season,14.0,Fri,2026-04-10,19:00,Puebla,0-1,León,11503.0,Estadio Cuauhtémoc,Fernando Hernández,Match Report,,0.0,1.0,2,1380.56,1437.96,-7.400000000000091,1.502,2.078,3.58
+Clausura 2026 Regular Season,14.0,Fri,2026-04-10,21:06,FC Juárez,1-2,Tijuana,8752.0,Estadio Olímpico Benito Juárez,Jorge Camacho,Match Report,,1.0,2.0,2,1485.29,1496.04,39.25,1.984,2.536,4.52
+Clausura 2026 Regular Season,14.0,Sat,2026-04-11,17:00,UANL,4-1,Guadalajara,41615.0,Estadio Universitario de Nuevo León,Maximiliano Quintero,Match Report,,4.0,1.0,1,1566.87,1582.67,34.19999999999982,1.701,1.507,3.208
+Clausura 2026 Regular Season,14.0,Sat,2026-04-11,17:00,Querétaro,3-1,Necaxa,9663.0,Estadio La Corregidora,Marco Antonio Ortíz,Match Report,,3.0,1.0,1,1442.72,1462.76,29.96000000000004,1.481,2.343,3.824
+Clausura 2026 Regular Season,14.0,Sat,2026-04-11,19:00,Atlas,0-0,Monterrey,19217.0,Estadio Jalisco,Yonatan Peinado Aguirre,Match Report,,0.0,0.0,X,1458.84,1528.85,-20.00999999999999,1.72,2.981,4.701
+Clausura 2026 Regular Season,14.0,Sat,2026-04-11,19:00,Pachuca,4-2,Santos Laguna,9365.0,Estadio Hidalgo,Martín Molina,Match Report,,4.0,2.0,1,1534.16,1376.25,207.91000000000008,2.632,1.304,3.936
+Clausura 2026 Regular Season,14.0,Sat,2026-04-11,21:05,América,1-1,Cruz Azul,46884.0,Estadio Banorte,Oscar Mejía,Match Report,,1.0,1.0,X,1571.77,1648.59,-26.819999999999936,1.65,1.736,3.386
+Clausura 2026 Regular Season,14.0,Sun,2026-04-12,12:00,UNAM,3-1,Mazatlán,25820.0,Estadio Olímpico de Universitario,Katia García,Match Report,,3.0,1.0,1,1536.44,1402.98,183.46000000000004,2.152,1.243,3.3950000000000005
+Clausura 2026 Regular Season,14.0,Sun,2026-04-12,19:00,Toluca,1-1,Atlético San Luis,27272.0,Estadio Nemesio Díez,Adonai Escobedo,Match Report,,1.0,1.0,X,1651.89,1435.36,266.5300000000002,3.247,1.46,4.707
+Clausura 2026 Regular Season,15.0,Fri,2026-04-17,18:00,Mazatlán,1-1,Querétaro,11581.0,Estadio El Encanto,Guillermo Pacheco,Match Report,,1.0,1.0,X,1397.82,1451.86,-4.039999999999964,1.497,1.497,2.994
+Clausura 2026 Regular Season,15.0,Fri,2026-04-17,19:00,Atlético San Luis,0-2,UNAM,21016.0,Estadio Alfonso Lastras Ramírez,Luis García,Match Report,,0.0,2.0,2,1441.81,1541.6,-49.78999999999997,1.865,2.255,4.12
+Clausura 2026 Regular Season,15.0,Sat,2026-04-18,17:00,Cruz Azul,1-1,Tijuana,8336.0,Estadio Cuauhtémoc,Luis Enrique Santander,Match Report,,1.0,1.0,X,1647.82,1507.16,190.65999999999983,2.753,1.582,4.335
+Clausura 2026 Regular Season,15.0,Sat,2026-04-18,17:00,Necaxa,1-1,UANL,15936.0,Estadio Victoria de Aguascalientes,Katia García,Match Report,,1.0,1.0,X,1453.62,1575.89,-72.27000000000021,1.478,2.493,3.971
+Clausura 2026 Regular Season,15.0,Sat,2026-04-18,19:05,Monterrey,1-3,Pachuca,39138.0,Estadio BBVA,Daniel Quintero,Match Report,,1.0,3.0,2,1528.27,1538.8,39.47000000000003,2.279,1.894,4.173
+Clausura 2026 Regular Season,15.0,Sat,2026-04-18,19:07,Guadalajara,5-0,Puebla,38266.0,Estadio Akron,César Arturo Ramos,Match Report,,5.0,0.0,1,1573.65,1370.77,252.8800000000001,2.654,1.104,3.758
+Clausura 2026 Regular Season,15.0,Sat,2026-04-18,21:06,León,3-1,FC Juárez,24792.0,Estadio León,Víctor Cáceres,Match Report,,3.0,1.0,1,1447.75,1474.17,23.579999999999927,1.929,2.018,3.947
+Clausura 2026 Regular Season,15.0,Sat,2026-04-18,21:10,América,2-1,Toluca,34253.0,Estadio Banorte,Ismael López,Match Report,,2.0,1.0,1,1572.54,1645.44,-22.90000000000009,1.62,1.912,3.532
+Clausura 2026 Regular Season,15.0,Sun,2026-04-19,17:00,Santos Laguna,0-1,Atlas,12312.0,Estadio Nuevo Corona,Jesús López,Match Report,,0.0,1.0,2,1371.61,1459.42,-37.81000000000017,1.697,2.429,4.1259999999999994
+Clausura 2026 Regular Season,16.0,Tue,2026-04-21,19:00,Querétaro,1-1,Cruz Azul,29822.0,Estadio La Corregidora,Vicente Arce,Match Report,,1.0,1.0,X,1451.74,1642.82,-141.07999999999993,0.979,2.821,3.8000000000000003
+Clausura 2026 Regular Season,16.0,Tue,2026-04-21,19:00,UNAM,4-2,FC Juárez,19156.0,Estadio Olímpico de Universitario,Oscar Mejía,Match Report,,4.0,2.0,1,1550.18,1464.85,135.33000000000015,2.384,1.661,4.045
+Clausura 2026 Regular Season,16.0,Tue,2026-04-21,21:05,Monterrey,2-1,Puebla,28391.0,Estadio BBVA,Luis Enrique Santander,Match Report,,2.0,1.0,1,1517.14,1366.99,200.1500000000001,3.136,1.282,4.418
+Clausura 2026 Regular Season,16.0,Tue,2026-04-21,21:06,León,2-3,América,26668.0,Estadio León,César Arturo Ramos,Match Report,,2.0,3.0,2,1457.07,1583.2,-76.13000000000011,1.132,2.478,3.6100000000000003
+Clausura 2026 Regular Season,16.0,Wed,2026-04-22,18:00,Mazatlán,4-3,Toluca,19384.0,Estadio El Encanto,Marco Antonio Ortíz,Match Report,,4.0,3.0,1,1397.94,1634.78,-186.83999999999992,0.978,3.121,4.099
+Clausura 2026 Regular Season,16.0,Wed,2026-04-22,19:00,Atlético San Luis,2-0,Santos Laguna,10695.0,Estadio Alfonso Lastras Ramírez,Maximiliano Quintero,Match Report,,2.0,0.0,1,1433.23,1362.69,120.53999999999996,2.786,1.6,4.386
+Clausura 2026 Regular Season,16.0,Wed,2026-04-22,19:00,Atlas,0-0,UANL,22052.0,Estadio Jalisco,Fernando Hernández,Match Report,,0.0,0.0,X,1468.34,1573.84,-55.5,1.221,2.513,3.734
+Clausura 2026 Regular Season,16.0,Wed,2026-04-22,20:06,Tijuana,3-1,Pachuca,17333.0,Estadio Caliente,Adonai Escobedo,Match Report,,3.0,1.0,1,1512.16,1549.93,12.230000000000018,2.01,2.122,4.132
+Clausura 2026 Regular Season,16.0,Wed,2026-04-22,21:10,Necaxa,0-0,Guadalajara,20598.0,Estadio Victoria de Aguascalientes,Joaquín Vizcarra Armenta,Match Report,,0.0,0.0,X,1455.67,1577.43,-71.75999999999999,1.705,2.509,4.214
+Clausura 2026 Regular Season,17.0,Fri,2026-04-24,21:00,Puebla,1-2,Querétaro,9979.0,Estadio Cuauhtémoc,Salvador Pérez Villalobos,Match Report,,1.0,2.0,2,1362.19,1455.59,-43.39999999999986,1.436,1.739,3.175
+Clausura 2026 Regular Season,17.0,Sat,2026-04-25,17:00,UANL,5-1,Mazatlán,41615.0,Estadio Universitario de Nuevo León,Ismael López,Match Report,,5.0,1.0,1,1572.26,1412.85,209.41000000000008,2.383,0.987,3.37
+Clausura 2026 Regular Season,17.0,Sat,2026-04-25,17:00,Pachuca,0-2,UNAM,20263.0,Estadio Hidalgo,Yonatan Peinado Aguirre,Match Report,,0.0,2.0,2,1540.28,1556.47,33.809999999999945,1.812,1.944,3.7560000000000002
+Clausura 2026 Regular Season,17.0,Sat,2026-04-25,19:05,Toluca,4-1,León,27273.0,Estadio Nemesio Díez,Daniel Quintero,Match Report,,4.0,1.0,1,1619.87,1449.23,220.63999999999987,3.15,1.277,4.427
+Clausura 2026 Regular Season,17.0,Sat,2026-04-25,19:07,Guadalajara,0-0,Tijuana,39994.0,Estadio Akron,Katia García,Match Report,,0.0,0.0,X,1575.39,1521.81,103.58000000000015,2.293,1.776,4.069
+Clausura 2026 Regular Season,17.0,Sat,2026-04-25,21:00,FC Juárez,2-1,Atlético San Luis,6942.0,Estadio Olímpico Benito Juárez,Karen Hernández,Match Report,,2.0,1.0,1,1458.56,1439.89,68.66999999999985,2.059,2.43,4.489000000000001
+Clausura 2026 Regular Season,17.0,Sat,2026-04-25,21:10,América,0-1,Atlas,37516.0,Estadio Banorte,Víctor Cáceres,Match Report,,0.0,1.0,2,1591.04,1469.92,171.1199999999999,2.633,1.159,3.792
+Clausura 2026 Regular Season,17.0,Sun,2026-04-26,17:00,Santos Laguna,3-0,Monterrey,11568.0,Estadio Nuevo Corona,Abraham Quirarte,Match Report,,3.0,0.0,1,1356.03,1521.94,-115.91000000000008,1.362,3.405,4.7669999999999995
+Clausura 2026 Regular Season,17.0,Sun,2026-04-26,19:05,Cruz Azul,4-1,Necaxa,20448.0,Estadio Banorte,Iván López,Match Report,,4.0,1.0,1,1638.97,1457.71,231.26,2.866,1.486,4.352
+Clausura — Quarter-finals,,Sat,2026-05-02,19:00,UANL,3-1,Guadalajara,42392.0,Estadio Universitario de Nuevo León,Vicente Arce,Match Report,Leg 1 of 2,3.0,1.0,1,1576.87,1572.49,54.37999999999988,1.746,1.488,3.234
+Clausura — Quarter-finals,,Sat,2026-05-02,21:15,Atlas,2-3,Cruz Azul,29514.0,Estadio Jalisco,Yonatan Peinado Aguirre,Match Report,Leg 1 of 2,2.0,3.0,2,1484.48,1643.15,-108.67000000000009,1.23,2.92,4.15
+Clausura — Quarter-finals,,Sun,2026-05-03,17:00,América,3-3,UNAM,26480.0,Estadio Banorte,Luis Enrique Santander,Match Report,Leg 1 of 2,3.0,3.0,X,1576.48,1567.44,59.03999999999997,2.041,1.413,3.4539999999999997
+Clausura — Quarter-finals,,Sun,2026-05-03,19:15,Toluca,0-1,Pachuca,24561.0,Estadio Nemesio Díez,Fernando Hernández,Match Report,Leg 1 of 2,0.0,1.0,2,1624.25,1529.31,144.94000000000003,2.734,1.468,4.202
+Clausura — Quarter-finals,,Sat,2026-05-09,19:07,Guadalajara,2-0,UANL,42854.0,Estadio Akron,Marco Antonio Ortíz,Match Report,Leg 2 of 2; Guadalajara won,2.0,0.0,1,1564.04,1585.32,28.720000000000027,1.481,1.807,3.2880000000000003
+Clausura — Quarter-finals,,Sat,2026-05-09,21:15,Cruz Azul,1-0,Atlas,32840.0,Estadio Banorte,Katia García,Match Report,Leg 2 of 2; Cruz Azul won,1.0,0.0,1,1650.12,1477.51,222.6099999999999,2.979,1.256,4.235
+Clausura — Quarter-finals,,Sun,2026-05-10,17:00,Pachuca,2-0,Toluca,21880.0,Estadio Hidalgo,Adonai Escobedo,Match Report,Leg 2 of 2; Pachuca won,2.0,0.0,1,1543.26,1610.3,-17.039999999999964,1.461,2.665,4.126
+Clausura — Quarter-finals,,Sun,2026-05-10,19:15,UNAM,3-3,América,48297.0,Estadio Olímpico de Universitario,César Arturo Ramos,Match Report,Leg 2 of 2; UNAM won,3.0,3.0,X,1569.12,1574.8,44.319999999999936,1.469,2.1,3.569
+Clausura — Semi-finals,,Wed,2026-05-13,20:00,Cruz Azul,2-2,Guadalajara,63375.0,Estadio Banorte,Maximiliano Quintero,Match Report,Leg 1 of 2,2.0,2.0,X,1654.47,1573.22,131.25,2.08,1.544,3.624
+Clausura — Semi-finals,,Thu,2026-05-14,19:00,Pachuca,1-0,UNAM,25920.0,Estadio Hidalgo,Ismael López,Match Report,Leg 1 of 2,1.0,0.0,1,1553.75,1567.85,35.90000000000009,1.83,1.969,3.7990000000000004
+Clausura — Semi-finals,,Sat,2026-05-16,19:07,Guadalajara,1-2,Cruz Azul,46200.0,Estadio Jalisco,César Arturo Ramos,Match Report,Leg 2 of 2; Cruz Azul won,1.0,2.0,2,1576.83,1650.86,-24.029999999999973,1.568,2.104,3.672
+Clausura — Semi-finals,,Sun,2026-05-17,19:00,UNAM,1-0,Pachuca,48410.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,Leg 2 of 2; UNAM won,1.0,0.0,1,1558.88,1562.72,46.16000000000008,1.917,1.818,3.7350000000000003
+Clausura — Finals,,Thu,2026-05-21,20:00,Cruz Azul,0-0,UNAM,27500.0,Estadio de la Ciudad de los Deportes,Ismael López,Match Report,Leg 1 of 2,0.0,0.0,X,1660.17,1567.56,142.61000000000013,2.381,1.533,3.9139999999999997
+Clausura — Finals,,Sun,2026-05-24,19:00,UNAM,1-2,Cruz Azul,48445.0,Estadio Olímpico de Universitario,Daniel Quintero,Match Report,Leg 2 of 2; Cruz Azul won,1.0,2.0,2,1571.45,1656.28,-34.82999999999993,1.496,2.323,3.819
+,1.0,Thu,2026-07-16,19:00,Necaxa,2-1,Atlante,18511.0,Estadio Victoria de Aguascalientes,Yonatan Peinado Aguirre,Match Report,,2.0,1.0,1,1453.53,1500.0,3.5299999999999727,1.443,1.629,3.072
+,1.0,Thu,2026-07-16,20:10,Tijuana,3-1,UANL,25333.0,Estadio Caliente,Ismael López,Match Report,,3.0,1.0,1,1524.71,1576.14,-1.4300000000000637,1.533,2.292,3.8249999999999997
+,1.0,Fri,2026-07-17,19:00,Atlético San Luis,2-3,Cruz Azul,21945.0,Estadio Alfonso Lastras Ramírez,Adonai Escobedo,Match Report,,2.0,3.0,2,1431.84,1665.28,-183.44000000000003,1.45,2.872,4.322
+,1.0,Fri,2026-07-17,19:00,León,2-3,Atlas,24997.0,Estadio León,Rafael López,Match Report,,2.0,3.0,2,1444.85,1473.16,21.689999999999827,1.933,1.911,3.8440000000000003
+,1.0,Fri,2026-07-17,21:00,FC Juárez,0-1,Puebla,7004.0,Estadio Olímpico Benito Juárez,Fernando Hernández,Match Report,,0.0,1.0,2,1466.61,1353.43,163.17999999999984,2.398,1.574,3.9720000000000004
+,1.0,Sat,2026-07-18,17:00,UNAM,0-3,Pachuca,15021.0,Estadio Olímpico de Universitario,Vicente Arce,Match Report,,0.0,3.0,2,1562.45,1554.04,58.41000000000008,1.872,1.761,3.633
+,1.0,Sat,2026-07-18,19:05,Monterrey,3-2,Santos Laguna,47872.0,Estadio BBVA,Marco Antonio Ortíz,Match Report,,3.0,2.0,1,1508.72,1369.25,189.47000000000003,3.314,1.423,4.737
+,1.0,Sat,2026-07-18,19:07,Guadalajara,0-2,Toluca,41182.0,Estadio Akron,Daniel Quintero,Match Report,,0.0,2.0,2,1567.52,1599.81,17.710000000000036,1.614,2.306,3.92
+,1.0,Sat,2026-07-18,21:10,Querétaro,0-1,América,30229.0,Estadio La Corregidora,Luis Enrique Santander,Match Report,,0.0,1.0,2,1464.35,1576.07,-61.72000000000003,0.982,2.525,3.5069999999999997
+,2.0,Tue,2026-07-21,19:00,Cruz Azul,2-1,Puebla,33185.0,Estadio Banorte,Karen Hernández,Match Report,,2.0,1.0,1,1670.44,1367.81,352.6300000000001,3.284,0.96,4.244
+,2.0,Tue,2026-07-21,21:05,Toluca,1-2,UNAM,27273.0,Estadio Nemesio Díez,Víctor Cáceres,Match Report,,1.0,2.0,2,1610.32,1550.78,109.53999999999996,2.61,1.522,4.132
+,2.0,Fri,2026-07-24,20:00,Tijuana,1-0,León,25233.0,Estadio Caliente,Joaquín Vizcarra Armenta,Match Report,,1.0,0.0,1,1534.75,1434.23,150.51999999999998,2.515,1.785,4.3
+,2.0,Fri,2026-07-24,21:00,Atlante,1-1,América,58576.0,Estadio Banorte,Katia García,Match Report,,1.0,1.0,X,1490.1,1584.31,-44.21000000000004,1.0,3.256,4.256
+,2.0,Sat,2026-07-25,17:07,Guadalajara,1-0,FC Juárez,38426.0,Estadio Akron,César Arturo Ramos,Match Report,,1.0,0.0,1,1557.01,1452.23,154.77999999999997,2.512,1.519,4.031
+,2.0,Sat,2026-07-25,21:00,Santos Laguna,0-1,Atlas,21333.0,Estadio Nuevo Corona,Martín Molina,Match Report,,0.0,1.0,2,1364.22,1483.78,-69.55999999999995,1.663,2.385,4.048
+,2.0,Sat,2026-07-25,21:00,UANL,2-2,Atlético San Luis,41615.0,Estadio Universitario de Nuevo León,Luis García,Match Report,,2.0,2.0,X,1566.1,1426.68,189.41999999999985,2.472,1.459,3.931
+,2.0,Sun,2026-07-26,17:00,Necaxa,2-1,Monterrey,14557.0,Estadio Victoria de Aguascalientes,Iván López,Match Report,,2.0,1.0,1,1463.43,1513.75,-0.3199999999999363,2.045,2.791,4.836
+,2.0,Sun,2026-07-26,19:06,Pachuca,1-2,Querétaro,12440.0,Estadio Hidalgo,Maximiliano Quintero,Match Report,,1.0,2.0,2,1565.71,1456.11,159.60000000000014,2.127,1.214,3.3409999999999997
+,3.0,Fri,2026-07-31,19:00,Puebla,1-1,Guadalajara,42714.0,Estadio Cuauhtémoc,Adonai Escobedo,Match Report,,1.0,1.0,X,1365.49,1562.83,-147.33999999999992,1.073,2.665,3.738
+,3.0,Fri,2026-07-31,21:00,FC Juárez,1-5,UNAM,9594.0,Estadio Olímpico Benito Juárez,Mario Terrazas Chávez,Match Report,,1.0,5.0,2,1446.41,1563.83,-67.41999999999985,1.675,2.427,4.102
+,3.0,Fri,2026-07-31,21:00,Atlético San Luis,0-0,Tijuana,22140.0,Estadio Alfonso Lastras Ramírez,Vicente Arce,Match Report,,0.0,0.0,X,1431.65,1540.67,-59.01999999999998,2.084,2.485,4.569
+,3.0,Sat,2026-08-01,17:00,Querétaro,3-2,UANL,13457.0,Estadio La Corregidora,Katia García,Match Report,,3.0,2.0,1,1470.41,1561.13,-40.72000000000003,1.006,2.366,3.372
+,3.0,Sat,2026-08-01,19:05,Atlas,0-2,Monterrey,46460.0,Estadio Jalisco,Jorge Camacho,Match Report,,0.0,2.0,2,1491.8,1503.74,38.059999999999945,1.723,2.734,4.457
+,3.0,Sat,2026-08-01,19:06,León,1-0,Pachuca,21523.0,Estadio León,Fernando Hernández,Match Report,,1.0,0.0,1,1428.31,1551.41,-73.10000000000014,1.527,2.223,3.75
+,3.0,Sat,2026-08-01,21:00,Cruz Azul,2-3,Atlante,53136.0,Estadio Banorte,Abraham Quirarte,Match Report,,2.0,3.0,2,1672.76,1491.37,231.3900000000001,2.744,1.034,3.7780000000000005
+,3.0,Sun,2026-08-02,17:00,América,3-0,Santos Laguna,31368.0,Estadio Banorte,Víctor Cáceres,Match Report,,3.0,0.0,1,1583.04,1356.2,276.8399999999999,3.149,1.014,4.163
+,3.0,Sun,2026-08-02,19:05,Toluca,3-1,Necaxa,27273.0,Estadio Nemesio Díez,Rafael López,Match Report,,3.0,1.0,1,1597.27,1473.44,173.82999999999993,3.185,1.56,4.745
+,4.0,Sat,2026-08-15,17:00,Atlante,0-0,Toluca,22090.0,Estadio Banorte,Salvador Pérez Villalobos,Match Report,,0.0,0.0,X,1507.19,1602.65,-45.46000000000004,1.782,3.314,5.096
+,4.0,Sat,2026-08-15,19:10,Monterrey,6-1,FC Juárez,46593.0,Estadio BBVA,Luis García,Match Report,,6.0,1.0,1,1514.83,1438.33,126.5,2.961,1.787,4.747999999999999
+,4.0,Sat,2026-08-15,21:10,Atlas,2-1,UANL,47543.0,Estadio Jalisco,César Arturo Ramos,Match Report,,2.0,1.0,1,1480.71,1549.96,-19.25,1.271,2.485,3.756
+,4.0,Sun,2026-08-16,12:00,UNAM,0-0,Querétaro,17420.0,Estadio Olímpico de Universitario,Karen Hernández,Match Report,,0.0,0.0,X,1571.91,1481.58,140.33000000000015,2.284,1.305,3.5889999999999995
+,4.0,Sun,2026-08-16,17:00,América,3-0,Atlético San Luis,25634.0,Estadio Banorte,Maximiliano Quintero,Match Report,,3.0,0.0,1,1586.42,1433.33,203.09000000000012,2.596,1.397,3.9930000000000003
+,4.0,Sun,2026-08-16,19:10,Santos Laguna,0-1,Guadalajara,24444.0,Estadio Nuevo Corona,Vicente Arce,Match Report,,0.0,1.0,2,1352.82,1558.83,-156.01,1.154,2.886,4.04
+,4.0,Sun,2026-08-16,20:00,Tijuana,2-1,Cruz Azul,29533.0,Estadio Caliente,Víctor Cáceres,Match Report,,2.0,1.0,1,1538.99,1656.94,-67.95000000000005,1.611,2.63,4.241
+,4.0,Mon,2026-08-17,19:00,Necaxa,1-2,León,17132.0,Estadio Victoria de Aguascalientes,Luis Enrique Santander,Match Report,,1.0,2.0,2,1468.06,1440.38,77.67999999999984,2.307,1.943,4.25
+,4.0,Mon,2026-08-17,21:06,Pachuca,2-3,Puebla,7732.0,Estadio Hidalgo,Aldo Ballesteros Barba,Match Report,,2.0,3.0,2,1539.34,1369.49,219.8499999999999,2.437,1.185,3.622
+,5.0,Fri,2026-08-21,19:00,León,2-0,Monterrey,20066.0,Estadio León,César Arturo Ramos,Match Report,,2.0,0.0,1,1452.58,1521.34,-18.75999999999999,1.678,2.794,4.4719999999999995
+,5.0,Fri,2026-08-21,19:00,UANL,2-0,Atlante,35027.0,Estadio Universitario de Nuevo León,Fernando Hernández,Match Report,,2.0,0.0,1,1539.41,1508.49,80.92000000000007,1.933,1.337,3.27
+,5.0,Fri,2026-08-21,21:10,FC Juárez,1-2,América,17497.0,Estadio Olímpico Benito Juárez,Ismael López,Match Report,,1.0,2.0,2,1431.82,1591.16,-109.34000000000016,1.244,2.939,4.183
+,5.0,Fri,2026-08-21,21:10,Querétaro,1-2,Toluca,17917.0,Estadio La Corregidora,Yonatan Peinado Aguirre,Match Report,,1.0,2.0,2,1485.41,1601.35,-65.93999999999983,1.042,2.976,4.018
+,5.0,Sat,2026-08-22,17:07,Guadalajara,5-2,Tijuana,39746.0,Estadio Akron,Mario Terrazas Chávez,Match Report,,5.0,2.0,1,1564.62,1550.92,63.69999999999982,2.1,1.745,3.845
+,5.0,Sat,2026-08-22,19:00,Puebla,3-2,Santos Laguna,13761.0,Estadio Cuauhtémoc,Daniel Quintero,Match Report,,3.0,2.0,1,1385.09,1347.03,88.05999999999995,1.863,1.767,3.63
+,5.0,Sat,2026-08-22,21:00,Cruz Azul,0-2,Atlas,20263.0,Estadio Banorte,Guillermo Pacheco,Match Report,,0.0,2.0,2,1645.01,1491.26,203.75,2.901,1.291,4.192
+,5.0,Sun,2026-08-23,17:00,Atlético San Luis,1-1,Pachuca,13569.0,Estadio Alfonso Lastras Ramírez,Adonai Escobedo,Match Report,,1.0,1.0,X,1428.59,1523.74,-45.15000000000009,1.808,2.2,4.008
+,5.0,Sun,2026-08-23,19:00,UNAM,1-1,Necaxa,13323.0,Estadio Olímpico de Universitario,Marco Antonio Ortíz,Match Report,,1.0,1.0,X,1568.08,1455.86,162.22000000000003,2.403,1.864,4.267
+,6.0,Fri,2026-08-28,19:00,Necaxa,1-3,Cruz Azul,19308.0,Estadio Victoria de Aguascalientes,Ismael López,Match Report,,1.0,3.0,2,1460.22,1629.74,-119.51999999999998,1.551,2.932,4.483
+,6.0,Fri,2026-08-28,20:00,Atlante,1-1,León,,Estadio Banorte,Martín Molina,Match Report,,1.0,1.0,X,1500.78,1463.12,87.66000000000008,1.56,1.699,3.2590000000000003
+,6.0,Fri,2026-08-28,20:10,Tijuana,2-0,UNAM,24333.0,Estadio Caliente,César Arturo Ramos,Match Report,,2.0,0.0,1,1542.73,1563.72,29.00999999999999,1.977,2.16,4.1370000000000005
+,6.0,Sat,2026-08-29,17:00,Pachuca,1-1,Guadalajara,21673.0,Estadio Hidalgo,Víctor Cáceres,Match Report,,1.0,1.0,X,1522.45,1572.81,-0.3599999999998999,1.571,1.955,3.526
+,6.0,Sat,2026-08-29,17:00,Atlas,1-3,Querétaro,37141.0,Estadio Jalisco,Marco Antonio Ortíz,Match Report,,1.0,3.0,2,1506.53,1477.29,79.24000000000001,1.856,1.55,3.406
+,6.0,Sat,2026-08-29,19:05,América,2-0,Puebla,29778.0,Estadio Banorte,Salvador Pérez Villalobos,Match Report,,2.0,0.0,1,1598.11,1392.61,255.5,2.971,0.964,3.935
+,6.0,Sat,2026-08-29,21:10,Santos Laguna,0-0,UANL,15633.0,Estadio Nuevo Corona,Rafael López,Match Report,,0.0,0.0,X,1339.51,1547.12,-157.6099999999999,1.057,3.04,4.0969999999999995
+,6.0,Sun,2026-08-30,18:00,Toluca,4-0,FC Juárez,25599.0,Estadio Nemesio Díez,Abraham Quirarte,Match Report,,4.0,0.0,1,1609.47,1424.87,234.6000000000001,3.504,1.341,4.845
+,6.0,Sun,2026-08-30,20:10,Monterrey,1-3,Atlético San Luis,46255.0,Estadio BBVA,Luis Enrique Santander,Match Report,,1.0,3.0,2,1510.8,1429.88,130.91999999999985,2.791,1.949,4.74
+,7.0,Fri,2026-09-04,21:00,FC Juárez,0-2,Pachuca,9208.0,Estadio Olímpico Benito Juárez,Katia García,Match Report,,0.0,2.0,2,1420.75,1522.46,-51.71000000000004,1.616,2.464,4.08
+,7.0,Sat,2026-09-05,17:00,Atlético San Luis,0-3,Guadalajara,22270.0,Estadio Alfonso Lastras Ramírez,Jorge Camacho,Match Report,,0.0,3.0,2,1443.48,1572.8,-79.31999999999994,1.619,2.394,4.013
+,7.0,Sat,2026-09-05,19:00,UANL,1-1,Necaxa,32079.0,Estadio Universitario de Nuevo León,Karen Hernández,Match Report,,1.0,1.0,X,1542.87,1453.53,139.33999999999992,2.523,1.499,4.022
+,7.0,Sat,2026-09-05,21:00,Atlas,1-1,Atlante,31870.0,Estadio Jalisco,Iván López,Match Report,,1.0,1.0,X,1494.29,1498.31,45.98000000000002,1.624,1.59,3.2140000000000004
+,7.0,Sun,2026-09-06,17:00,Cruz Azul,1-0,Santos Laguna,10478.0,Estadio Banorte,Maximiliano Quintero,Match Report,,1.0,0.0,1,1636.43,1343.76,342.6700000000001,3.508,1.062,4.57
+,7.0,Thu,2026-09-10,21:05,UNAM,3-1,León,,Estadio Olímpico de Universitario,Salvador Pérez Villalobos,Match Report,,3.0,1.0,1,1554.55,1465.59,138.96000000000004,2.247,1.567,3.814
+,8.0,Fri,2026-09-11,19:00,Necaxa,0-1,Puebla,,Estadio Victoria de Aguascalientes,Joaquín Vizcarra Armenta,Match Report,,0.0,1.0,2,1457.34,1388.87,118.47000000000004,2.568,1.592,4.16
+,8.0,Fri,2026-09-11,20:10,Tijuana,0-1,Querétaro,,Estadio Caliente,Fernando Hernández,Match Report,,0.0,1.0,2,1551.9,1489.53,112.37000000000012,2.336,1.476,3.812
+,8.0,Fri,2026-09-11,21:00,Atlante,0-3,Pachuca,,Estadio Banorte,Marco Antonio Ortíz,Match Report,,0.0,3.0,2,1499.63,1530.98,18.65000000000009,1.274,1.76,3.034
+,8.0,Sat,2026-09-12,17:05,Toluca,5-2,Atlas,,Estadio Nemesio Díez,Mario Terrazas Chávez,Match Report,,5.0,2.0,1,1613.59,1492.97,170.6199999999999,3.147,1.269,4.4159999999999995
+,8.0,Sat,2026-09-12,19:10,Monterrey,0-0,UANL,,Estadio BBVA,Ismael López,Match Report,,0.0,0.0,X,1497.2,1539.06,8.1400000000001,1.817,2.171,3.9879999999999995
+,8.0,Sat,2026-09-12,21:15,Cruz Azul,4-3,América,,Estadio Banorte,Luis Enrique Santander,Match Report,,4.0,3.0,1,1638.87,1601.85,87.01999999999998,1.747,1.766,3.513
+,8.0,Sun,2026-09-13,19:00,Santos Laguna,2-1,FC Juárez,,Estadio Nuevo Corona,Guillermo Pacheco,Match Report,,2.0,1.0,1,1341.32,1412.23,-20.91000000000008,1.764,2.376,4.14
+,8.0,Sun,2026-09-13,19:07,Guadalajara,3-0,UNAM,,Estadio Akron,Maximiliano Quintero,Match Report,,3.0,0.0,1,1580.56,1560.75,69.80999999999995,1.968,1.662,3.63
+,8.0,Mon,2026-09-14,19:00,León,2-0,Atlético San Luis,,Estadio León,Daniel Quintero,Match Report,,2.0,0.0,1,1459.39,1435.72,73.67000000000007,1.942,2.188,4.13
+,7.0,Tue,2026-09-15,19:00,Puebla,,Toluca,,Estadio Cuauhtémoc,,Head-to-Head,,,,,1402.15,1619.04,-166.88999999999987,1.027,3.586,4.6129999999999995
+,9.0,Fri,2026-09-18,19:00,Puebla,,Atlante,,Estadio Cuauhtémoc,,Head-to-Head,,,,,1402.15,1489.09,-36.93999999999983,1.46,1.552,3.012
+,9.0,Fri,2026-09-18,21:00,FC Juárez,,UANL,,Estadio Olímpico Benito Juárez,,Head-to-Head,,,,,1401.63,1539.29,-87.65999999999985,1.276,2.742,4.018
+,9.0,Sat,2026-09-19,17:00,Atlas,,UNAM,,Estadio Jalisco,,Head-to-Head,,,,,1487.52,1552.73,-15.210000000000036,1.605,2.353,3.958
+,9.0,Sat,2026-09-19,17:00,Atlético San Luis,,Necaxa,,Estadio Alfonso Lastras Ramírez,,Head-to-Head,,,,,1427.81,1444.06,33.75,2.239,2.274,4.513
+,9.0,Sat,2026-09-19,19:10,Monterrey,,Cruz Azul,,Estadio BBVA,,Head-to-Head,,,,,1496.97,1646.42,-99.45000000000005,1.865,2.57,4.435
+,9.0,Sat,2026-09-19,21:15,América,,Guadalajara,,Estadio Banorte,,Head-to-Head,,,,,1594.3,1588.58,55.72000000000003,1.876,1.542,3.418
+,9.0,Sun,2026-09-20,18:00,Pachuca,,Tijuana,,Estadio Hidalgo,,Head-to-Head,,,,,1541.52,1538.77,52.75,2.015,1.919,3.934
+,9.0,Sun,2026-09-20,18:00,Toluca,,Santos Laguna,,Estadio Nemesio Díez,,Head-to-Head,,,,,1619.04,1351.92,317.1199999999999,3.858,1.041,4.899
+,9.0,Sun,2026-09-20,20:05,Querétaro,,León,,Estadio La Corregidora,,Head-to-Head,,,,,1502.66,1467.3,85.36000000000013,1.572,1.819,3.391
+,10.0,Fri,2026-09-25,19:00,Atlante,,Monterrey,,Estadio Banorte,,Head-to-Head,,,,,1489.09,1496.97,42.11999999999989,1.229,2.579,3.8080000000000003
+,10.0,Fri,2026-09-25,20:00,Tijuana,,Atlas,,Estadio Caliente,,Head-to-Head,,,,,1538.77,1487.52,101.25,2.477,1.778,4.255
+,10.0,Sat,2026-09-26,17:00,Cruz Azul,,Toluca,,Estadio Banorte,,Head-to-Head,,,,,1646.42,1619.04,77.38000000000011,1.93,2.194,4.124
+,10.0,Sat,2026-09-26,17:07,Guadalajara,,Querétaro,,Estadio Akron,,Head-to-Head,,,,,1588.58,1502.66,135.91999999999985,2.303,1.135,3.4379999999999997
+,10.0,Sat,2026-09-26,19:00,Santos Laguna,,Pachuca,,Estadio Nuevo Corona,,Head-to-Head,,,,,1351.92,1541.52,-139.5999999999999,1.242,2.649,3.891
+,10.0,Sat,2026-09-26,19:00,UANL,,Puebla,,Estadio Universitario de Nuevo León,,Head-to-Head,,,,,1539.29,1402.15,187.13999999999987,2.68,1.006,3.686
+,10.0,Sun,2026-09-27,12:00,UNAM,,Atlético San Luis,,Estadio Olímpico de Universitario,,Head-to-Head,,,,,1552.73,1427.81,174.92000000000007,2.335,1.802,4.1370000000000005
+,10.0,Sun,2026-09-27,19:00,León,,FC Juárez,,Estadio León,,Head-to-Head,,,,,1467.3,1401.63,115.66999999999985,2.21,1.915,4.125
+,10.0,Sun,2026-09-27,21:00,Necaxa,,América,,Estadio Victoria de Aguascalientes,,Head-to-Head,,,,,1444.06,1594.3,-100.24,1.41,2.725,4.135
+,11.0,Fri,2026-10-09,19:00,Querétaro,,Atlante,,Estadio La Corregidora,,Head-to-Head,,,,,1502.66,1489.09,63.57000000000016,1.52,1.307,2.827
+,11.0,Fri,2026-10-09,19:00,Puebla,,León,,Estadio Cuauhtémoc,,Head-to-Head,,,,,1402.15,1467.3,-15.149999999999864,1.51,2.16,3.67
+,11.0,Fri,2026-10-09,21:00,UANL,,Toluca,,Estadio Universitario de Nuevo León,,Head-to-Head,,,,,1539.29,1619.04,-29.75,1.594,2.089,3.683
+,11.0,Sat,2026-10-10,17:00,FC Juárez,,Tijuana,,Estadio Olímpico Benito Juárez,,Head-to-Head,,,,,1401.63,1538.77,-87.13999999999987,1.792,2.766,4.558
+,11.0,Sat,2026-10-10,19:00,Atlas,,Guadalajara,,Estadio Jalisco,,Head-to-Head,,,,,1487.52,1588.58,-51.059999999999945,1.373,2.506,3.8789999999999996
+,11.0,Sat,2026-10-10,21:00,América,,Monterrey,,Estadio Banorte,,Head-to-Head,,,,,1594.3,1496.97,147.32999999999993,2.351,1.719,4.07
+,11.0,Sun,2026-10-11,17:00,Atlético San Luis,,Santos Laguna,,Estadio Alfonso Lastras Ramírez,,Head-to-Head,,,,,1427.81,1351.92,125.88999999999989,2.623,1.591,4.214
+,11.0,Sun,2026-10-11,17:00,Pachuca,,Necaxa,,Estadio Hidalgo,,Head-to-Head,,,,,1541.52,1444.06,147.46000000000004,2.26,1.775,4.035
+,11.0,Sun,2026-10-11,19:00,UNAM,,Cruz Azul,,Estadio Olímpico de Universitario,,Head-to-Head,,,,,1552.73,1646.42,-43.690000000000055,1.572,2.398,3.97
+,12.0,Fri,2026-10-16,19:00,Necaxa,,Atlas,,Estadio Victoria de Aguascalientes,,Head-to-Head,,,,,1444.06,1487.52,6.539999999999964,2.292,1.995,4.287
+,12.0,Fri,2026-10-16,20:00,Tijuana,,Puebla,,Estadio Caliente,,Head-to-Head,,,,,1538.77,1402.15,186.6199999999999,2.703,1.413,4.116
+,12.0,Fri,2026-10-16,21:00,Atlante,,UNAM,,Estadio Banorte,,Head-to-Head,,,,,1489.09,1552.73,-13.6400000000001,1.147,2.172,3.319
+,12.0,Sat,2026-10-17,17:00,Santos Laguna,,Querétaro,,Estadio Nuevo Corona,,Head-to-Head,,,,,1351.92,1502.66,-100.74,1.474,1.933,3.407
+,12.0,Sat,2026-10-17,17:07,Guadalajara,,UANL,,Estadio Akron,,Head-to-Head,,,,,1588.58,1539.29,99.28999999999996,1.594,1.693,3.287
+,12.0,Sat,2026-10-17,19:00,León,,América,,Estadio León,,Head-to-Head,,,,,1467.3,1594.3,-77.0,1.218,2.597,3.815
+,12.0,Sat,2026-10-17,19:00,Toluca,,Atlético San Luis,,Estadio Nemesio Díez,,Head-to-Head,,,,,1619.04,1427.81,241.23,3.26,1.451,4.711
+,12.0,Sat,2026-10-17,21:00,Cruz Azul,,FC Juárez,,Estadio Banorte,,Head-to-Head,,,,,1646.42,1401.63,294.79,3.321,1.34,4.6610000000000005
+,12.0,Sun,2026-10-18,19:00,Monterrey,,Pachuca,,Estadio BBVA,,Head-to-Head,,,,,1496.97,1541.52,5.4500000000000455,2.164,1.95,4.114
+,13.0,Tue,2026-10-20,18:07,Guadalajara,,Necaxa,,Estadio Akron,,Head-to-Head,,,,,1588.58,1444.06,194.52,2.511,1.58,4.091
+,13.0,Tue,2026-10-20,19:00,FC Juárez,,Atlante,,Estadio Olímpico Benito Juárez,,Head-to-Head,,,,,1401.63,1489.09,-37.45999999999981,1.852,1.588,3.4400000000000004
+,13.0,Tue,2026-10-20,19:00,Atlético San Luis,,Querétaro,,Estadio Alfonso Lastras Ramírez,,Head-to-Head,,,,,1427.81,1502.66,-24.850000000000136,2.053,1.634,3.687
+,13.0,Tue,2026-10-20,21:00,UANL,,León,,Estadio Universitario de Nuevo León,,Head-to-Head,,,,,1539.29,1467.3,121.99,2.344,1.259,3.6029999999999998
+,13.0,Wed,2026-10-21,19:00,Atlas,,América,,Estadio Jalisco,,Head-to-Head,,,,,1487.52,1594.3,-56.77999999999997,1.225,2.72,3.9450000000000003
+,13.0,Wed,2026-10-21,19:00,Puebla,,Monterrey,,Estadio Cuauhtémoc,,Head-to-Head,,,,,1402.15,1496.97,-44.819999999999936,1.367,3.049,4.416
+,13.0,Wed,2026-10-21,19:00,Toluca,,Tijuana,,Estadio Nemesio Díez,,Head-to-Head,,,,,1619.04,1538.77,130.26999999999998,2.934,1.608,4.542
+,13.0,Wed,2026-10-21,21:00,Santos Laguna,,UNAM,,Estadio Nuevo Corona,,Head-to-Head,,,,,1351.92,1552.73,-150.80999999999997,1.293,2.763,4.056
+,13.0,Wed,2026-10-21,21:00,Pachuca,,Cruz Azul,,Estadio Hidalgo,,Head-to-Head,,,,,1541.52,1646.42,-54.90000000000009,1.506,2.303,3.809
+,14.0,Fri,2026-10-23,19:00,Necaxa,,FC Juárez,,Estadio Victoria de Aguascalientes,,Head-to-Head,,,,,1444.06,1401.63,92.42999999999984,2.559,2.01,4.569
+,14.0,Fri,2026-10-23,21:00,Atlante,,Atlético San Luis,,Estadio Banorte,,Head-to-Head,,,,,1489.09,1427.81,111.27999999999996,1.411,2.062,3.473
+,14.0,Sat,2026-10-24,17:00,León,,Toluca,,Estadio León,,Head-to-Head,,,,,1467.3,1619.04,-101.74,1.285,3.137,4.422
+,14.0,Sat,2026-10-24,19:00,Monterrey,,Guadalajara,,Estadio BBVA,,Head-to-Head,,,,,1496.97,1588.58,-41.6099999999999,1.926,2.166,4.092
+,14.0,Sat,2026-10-24,21:00,UNAM,,UANL,,Estadio Olímpico de Universitario,,Head-to-Head,,,,,1552.73,1539.29,63.440000000000055,1.497,1.98,3.4770000000000003
+,14.0,Sun,2026-10-25,17:00,Atlas,,Puebla,,Estadio Jalisco,,Head-to-Head,,,,,1487.52,1402.15,135.3699999999999,2.172,1.582,3.7540000000000004
+,14.0,Sun,2026-10-25,17:00,América,,Pachuca,,Estadio Banorte,,Head-to-Head,,,,,1594.3,1541.52,102.77999999999996,2.107,1.388,3.495
+,14.0,Sun,2026-10-25,19:00,Querétaro,,Cruz Azul,,Estadio La Corregidora,,Head-to-Head,,,,,1502.66,1646.42,-93.76,1.1,2.732,3.8320000000000003
+,14.0,Sun,2026-10-25,20:00,Tijuana,,Santos Laguna,,Estadio Caliente,,Head-to-Head,,,,,1538.77,1351.92,236.8499999999999,2.908,1.432,4.34
+,7.0,Wed,2026-10-28,21:00,América,,Tijuana,,Estadio Banorte,,Head-to-Head,,,,,1594.3,1538.77,105.52999999999996,2.429,1.524,3.953
+,15.0,Fri,2026-10-30,19:00,Atlético San Luis,,Atlas,,Estadio Alfonso Lastras Ramírez,,Head-to-Head,,,,,1427.81,1487.52,-9.710000000000036,2.234,1.975,4.209
+,15.0,Fri,2026-10-30,19:00,FC Juárez,,Querétaro,,Estadio Olímpico Benito Juárez,,Head-to-Head,,,,,1401.63,1502.66,-51.02999999999997,1.844,1.839,3.683
+,15.0,Fri,2026-10-30,21:00,Puebla,,UNAM,,Estadio Cuauhtémoc,,Head-to-Head,,,,,1402.15,1552.73,-100.57999999999991,1.275,2.568,3.843
+,15.0,Sat,2026-10-31,17:00,Pachuca,,UANL,,Estadio Hidalgo,,Head-to-Head,,,,,1541.52,1539.29,52.23000000000002,1.435,1.902,3.3369999999999997
+,15.0,Sat,2026-10-31,19:00,Monterrey,,Tijuana,,Estadio BBVA,,Head-to-Head,,,,,1496.97,1538.77,8.200000000000045,2.495,2.141,4.636
+,15.0,Sat,2026-10-31,19:00,Guadalajara,,Atlante,,Estadio Akron,,Head-to-Head,,,,,1588.58,1489.09,149.49,2.313,0.98,3.293
+,15.0,Sat,2026-10-31,21:00,América,,Toluca,,Estadio Banorte,,Head-to-Head,,,,,1594.3,1619.04,25.25999999999999,1.766,2.022,3.788
+,15.0,Sun,2026-11-01,17:00,Santos Laguna,,Necaxa,,Estadio Nuevo Corona,,Head-to-Head,,,,,1351.92,1444.06,-42.13999999999987,1.607,2.691,4.298
+,15.0,Sun,2026-11-01,19:00,Cruz Azul,,León,,Estadio Banorte,,Head-to-Head,,,,,1646.42,1467.3,229.1200000000001,2.839,1.322,4.161
+,16.0,Fri,2026-11-06,19:00,Necaxa,,Tijuana,,Estadio Victoria de Aguascalientes,,Head-to-Head,,,,,1444.06,1538.77,-44.71000000000004,2.047,2.482,4.529
+,16.0,Fri,2026-11-06,19:00,Atlético San Luis,,FC Juárez,,Estadio Alfonso Lastras Ramírez,,Head-to-Head,,,,,1427.81,1401.63,76.17999999999984,2.495,1.991,4.486000000000001
+,16.0,Fri,2026-11-06,21:00,Atlante,,Santos Laguna,,Estadio Banorte,,Head-to-Head,,,,,1489.09,1351.92,187.16999999999985,1.669,1.48,3.149
+,16.0,Sat,2026-11-07,17:00,UANL,,Cruz Azul,,Estadio Universitario de Nuevo León,,Head-to-Head,,,,,1539.29,1646.42,-57.13000000000011,1.64,1.891,3.5309999999999997
+,16.0,Sat,2026-11-07,17:00,Atlas,,Pachuca,,Estadio Jalisco,,Head-to-Head,,,,,1487.52,1541.52,-4.0,1.542,2.256,3.798
+,16.0,Sat,2026-11-07,19:00,Toluca,,Monterrey,,Estadio Nemesio Díez,,Head-to-Head,,,,,1619.04,1496.97,172.06999999999994,2.84,1.814,4.654
+,16.0,Sat,2026-11-07,21:00,UNAM,,América,,Estadio Olímpico de Universitario,,Head-to-Head,,,,,1552.73,1594.3,8.430000000000064,1.448,2.193,3.641
+,16.0,Sun,2026-11-08,18:00,Querétaro,,Puebla,,Estadio La Corregidora,,Head-to-Head,,,,,1502.66,1402.15,150.51,1.797,1.454,3.251
+,16.0,Sun,2026-11-08,19:00,León,,Guadalajara,,Estadio León,,Head-to-Head,,,,,1467.3,1588.58,-71.27999999999997,1.365,2.392,3.7569999999999997
+,7.0,Sat,2026-11-14,17:00,Querétaro,,Monterrey,,Estadio La Corregidora,,Head-to-Head,,,,,1502.66,1496.97,55.690000000000055,1.423,2.567,3.99
+,17.0,Fri,2026-11-20,19:00,Tijuana,,Atlante,,Estadio Caliente,,Head-to-Head,,,,,1538.77,1489.09,99.68000000000006,2.287,1.27,3.557
+,17.0,Fri,2026-11-20,19:00,Puebla,,Atlético San Luis,,Estadio Cuauhtémoc,,Head-to-Head,,,,,1402.15,1427.81,24.340000000000146,1.57,2.438,4.008
+,17.0,Fri,2026-11-20,20:00,FC Juárez,,Atlas,,Estadio Olímpico Benito Juárez,,Head-to-Head,,,,,1401.63,1487.52,-35.88999999999987,2.006,2.223,4.228999999999999
+,17.0,Sat,2026-11-21,17:00,Santos Laguna,,León,,Estadio Nuevo Corona,,Head-to-Head,,,,,1351.92,1467.3,-65.37999999999988,1.531,2.324,3.8549999999999995
+,17.0,Sat,2026-11-21,17:00,Pachuca,,Toluca,,Estadio Hidalgo,,Head-to-Head,,,,,1541.52,1619.04,-27.519999999999985,1.465,2.545,4.01
+,17.0,Sat,2026-11-21,19:00,UNAM,,Monterrey,,Estadio Olímpico de Universitario,,Head-to-Head,,,,,1552.73,1496.97,105.76,2.034,2.253,4.287
+,17.0,Sat,2026-11-21,21:00,UANL,,América,,Estadio Universitario de Nuevo León,,Head-to-Head,,,,,1539.29,1594.3,-5.009999999999991,1.511,1.73,3.2409999999999997
+,17.0,Sun,2026-11-22,17:00,Guadalajara,,Cruz Azul,,Estadio Akron,,Head-to-Head,,,,,1588.58,1646.42,-7.8400000000001455,1.673,2.05,3.723
+,17.0,Sun,2026-11-22,19:00,Querétaro,,Necaxa,,Estadio La Corregidora,,Head-to-Head,,,,,1502.66,1444.06,108.60000000000014,1.65,2.106,3.756
