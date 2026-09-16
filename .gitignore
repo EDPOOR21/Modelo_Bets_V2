@@ -1,5 +1,18 @@
-venv/ 
---pycache__/
+# Entornos Virtuales
+venv/
+env/
+.env
+
+# Caché y binarios de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modelos
 *.pkl
 *.json
-*.env
+*.joblib
+
+# Configuración local
+.vscode/
+.ipynb_checkpoints
