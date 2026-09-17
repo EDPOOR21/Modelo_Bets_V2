@@ -1,0 +1,15 @@
+[theme]
+# Color de los botones y acentos visuales
+primaryColor = "#00FF00"
+
+# Fondo negro absoluto estilo terminal
+backgroundColor = "#0E1117"
+
+# Fondo de los menús laterales o tarjetas internas (ligeramente más gris)
+secondaryBackgroundColor = "#161B22"
+
+# Texto verde fósforo
+textColor = "#00FF00"
+
+# Tipografía de programación
+font = "monospace"
