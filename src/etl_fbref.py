@@ -16,6 +16,13 @@ def procesar_csvs_crudos():
         return
 
     print(f"Iniciando limpieza de {len(archivos_csv)} archivos...\n")
+    
+    # Diccionario de reemplazo para el arranque en frío (Cold Start)
+    equipos_a_reemplazar = {
+        'Mazatlán': 'Atlante', 
+        'Mazatlan FC': 'Atlante',
+        'Mazatlan': 'Atlante' # Por si acaso FBref lo trae sin tilde
+    }
 
     for ruta_archivo in archivos_csv:
         nombre_archivo = os.path.basename(ruta_archivo)
@@ -24,23 +31,35 @@ def procesar_csvs_crudos():
             # Intentamos leer el CSV asumiendo estructura simple
             df = pd.read_csv(ruta_archivo)
             
-            # Validar doble cabecera: Si 'Squad' o 'Wk' (Jornada) no están en las columnas,
-            # significa que FBref puso una cabecera inútil en la fila 0.
+            # Validar doble cabecera
             if 'Squad' not in df.columns and 'Wk' not in df.columns:
                 df = pd.read_csv(ruta_archivo, header=1)
             
             # LIMPIEZA CLAVE: Eliminar columnas que estén 100% vacías (NaN)
-            # Esto borrará todas esas columnas de "Touches", "Take-Ons" que viste vacías.
             df = df.dropna(axis=1, how='all')
             
             # Limpiar espacios en los nombres de las columnas
             df.columns = df.columns.str.strip()
 
+            # --- PARCHE DE ARRANQUE EN FRÍO (COLD START) ---
+            # Aplicar el reemplazo sólo en las columnas que existan en este CSV
+            if 'Squad' in df.columns:
+                df['Squad'] = df['Squad'].replace(equipos_a_reemplazar)
+            
+            if 'Home' in df.columns:
+                df['Home'] = df['Home'].replace(equipos_a_reemplazar)
+                
+            if 'Away' in df.columns:
+                df['Away'] = df['Away'].replace(equipos_a_reemplazar)
+                
+            if 'Equipo' in df.columns:
+                df['Equipo'] = df['Equipo'].replace(equipos_a_reemplazar)
+
             # Guardar el archivo limpio en /data/processed/
             ruta_salida = os.path.join(PROCESSED_DIR, f"limpio_{nombre_archivo}")
             df.to_csv(ruta_salida, index=False)
             
-            print(f"[v] Limpiado: {nombre_archivo} | Columnas retenidas: {len(df.columns)}")
+            print(f"[v] Limpiado y parcheado: {nombre_archivo} | Columnas retenidas: {len(df.columns)}")
             
         except Exception as e:
             print(f"[x] Error al procesar {nombre_archivo}: {e}")
